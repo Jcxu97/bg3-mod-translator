@@ -1,0 +1,44 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <Platforms>x64</Platforms>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="LSLib">
+      <HintPath>..\..\lib\lslib\LSLib.dll</HintPath>
+      <Private>true</Private>
+    </Reference>
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.Data.Sqlite" Version="10.0.8" />
+    <PackageReference Include="System.Security.Cryptography.ProtectedData" Version="10.0.8" />
+  </ItemGroup>
+
+  <!-- LSLib runtime deps: copy into output via post-build target so MSBuild's item collection
+       doesn't see them at their source location, avoiding NETSDK1152 publish conflicts. -->
+  <ItemGroup>
+    <LSLibRuntimeDep Include="..\..\lib\lslib\LSLibNative.dll" />
+    <LSLibRuntimeDep Include="..\..\lib\lslib\K4os.Compression.LZ4.dll" />
+    <LSLibRuntimeDep Include="..\..\lib\lslib\K4os.Compression.LZ4.Streams.dll" />
+    <LSLibRuntimeDep Include="..\..\lib\lslib\K4os.Hash.xxHash.dll" />
+    <LSLibRuntimeDep Include="..\..\lib\lslib\Newtonsoft.Json.dll" />
+    <LSLibRuntimeDep Include="..\..\lib\lslib\ZstdSharp.dll" Condition="Exists('..\..\lib\lslib\ZstdSharp.dll')" />
+  </ItemGroup>
+
+  <Target Name="CopyLSLibRuntimeDeps" AfterTargets="Build">
+    <Copy SourceFiles="@(LSLibRuntimeDep)" DestinationFolder="$(OutputPath)" SkipUnchangedFiles="true" />
+  </Target>
+
+  <ItemGroup>
+    <EmbeddedResource Include="..\..\lib\bg3-glossary\en2zh.json" LogicalName="bg3glossary.en2zh.json" />
+    <EmbeddedResource Include="..\..\lib\bg3-glossary\terms_core.json" LogicalName="bg3glossary.terms_core.json" />
+    <EmbeddedResource Include="..\..\lib\bg3-glossary\terms_short.json" LogicalName="bg3glossary.terms_short.json" />
+    <EmbeddedResource Include="..\..\lib\bg3-glossary\lstag_terms.json" LogicalName="bg3glossary.lstag_terms.json" />
+  </ItemGroup>
+
+</Project>

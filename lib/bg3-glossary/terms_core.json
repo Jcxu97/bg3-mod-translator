@@ -1,0 +1,7467 @@
+[
+ {
+  "en": "Who are you?",
+  "zh": "你是谁？",
+  "freq": 156
+ },
+ {
+  "en": "Tombstone",
+  "zh": "墓碑",
+  "freq": 155
+ },
+ {
+  "en": "Read",
+  "zh": "阅读",
+  "freq": 124
+ },
+ {
+  "en": "Article",
+  "zh": "文章",
+  "freq": 84
+ },
+ {
+  "en": "No.",
+  "zh": "不行。",
+  "freq": 75
+ },
+ {
+  "en": "Brazier",
+  "zh": "火盆",
+  "freq": 73
+ },
+ {
+  "en": "Default",
+  "zh": "默认",
+  "freq": 70
+ },
+ {
+  "en": "Candle",
+  "zh": "蜡烛",
+  "freq": 69
+ },
+ {
+  "en": "Lantern",
+  "zh": "提灯",
+  "freq": 63
+ },
+ {
+  "en": "Skeleton",
+  "zh": "骷髅",
+  "freq": 60
+ },
+ {
+  "en": "Shapeshifted",
+  "zh": "变形",
+  "freq": 56
+ },
+ {
+  "en": "Cookware",
+  "zh": "厨房用具",
+  "freq": 54
+ },
+ {
+  "en": "Bed",
+  "zh": "床铺",
+  "freq": 53
+ },
+ {
+  "en": "%%% EMPTY",
+  "zh": "空",
+  "freq": 53
+ },
+ {
+  "en": "*Grunt.*",
+  "zh": "*嘟哝。*",
+  "freq": 51
+ },
+ {
+  "en": "Candles",
+  "zh": "蜡烛",
+  "freq": 51
+ },
+ {
+  "en": "Mailbox",
+  "zh": "邮箱",
+  "freq": 51
+ },
+ {
+  "en": "*Growl.*",
+  "zh": "*低吼。*",
+  "freq": 49
+ },
+ {
+  "en": "Iron Torch",
+  "zh": "铁火把",
+  "freq": 49
+ },
+ {
+  "en": "Civilian",
+  "zh": "平民",
+  "freq": 49
+ },
+ {
+  "en": "Thank you.",
+  "zh": "谢谢你。",
+  "freq": 47
+ },
+ {
+  "en": "Yes.",
+  "zh": "是的。",
+  "freq": 44
+ },
+ {
+  "en": "Lever",
+  "zh": "控制杆",
+  "freq": 44
+ },
+ {
+  "en": "Drink",
+  "zh": "饮用",
+  "freq": 43
+ },
+ {
+  "en": "Broken Vase",
+  "zh": "破瓷瓶",
+  "freq": 40
+ },
+ {
+  "en": "Cragged Rock",
+  "zh": "崎岖的岩石",
+  "freq": 39
+ },
+ {
+  "en": "Wooden Bench",
+  "zh": "木椅",
+  "freq": 39
+ },
+ {
+  "en": "Leave.",
+  "zh": "离开。",
+  "freq": 35
+ },
+ {
+  "en": "Head 1",
+  "zh": "头型 1",
+  "freq": 34
+ },
+ {
+  "en": "Head 2",
+  "zh": "头型 2",
+  "freq": 34
+ },
+ {
+  "en": "Wine",
+  "zh": "红酒",
+  "freq": 34
+ },
+ {
+  "en": "Head 4",
+  "zh": "头型 4",
+  "freq": 34
+ },
+ {
+  "en": "Head 3",
+  "zh": "头型 3",
+  "freq": 34
+ },
+ {
+  "en": "Penis",
+  "zh": "阴茎",
+  "freq": 32
+ },
+ {
+  "en": "Of course.",
+  "zh": "当然。",
+  "freq": 32
+ },
+ {
+  "en": "Head 5",
+  "zh": "头型 5",
+  "freq": 32
+ },
+ {
+  "en": "Vulva",
+  "zh": "阴户",
+  "freq": 31
+ },
+ {
+  "en": "...",
+  "zh": "...",
+  "freq": 31
+ },
+ {
+  "en": "*Hiss!*",
+  "zh": "*嘶嘶！*",
+  "freq": 31
+ },
+ {
+  "en": "Wooden Crate",
+  "zh": "木板箱",
+  "freq": 31
+ },
+ {
+  "en": "Burlap Sack",
+  "zh": "粗麻袋",
+  "freq": 30
+ },
+ {
+  "en": "Vase",
+  "zh": "瓷瓶",
+  "freq": 30
+ },
+ {
+  "en": "Penis B",
+  "zh": "阴茎 B",
+  "freq": 30
+ },
+ {
+  "en": "Vulva B",
+  "zh": "阴户 B",
+  "freq": 30
+ },
+ {
+  "en": "Penis D",
+  "zh": "阴茎 D",
+  "freq": 29
+ },
+ {
+  "en": "Dragonborn",
+  "zh": "龙裔",
+  "freq": 29
+ },
+ {
+  "en": "Head 6",
+  "zh": "头型 6",
+  "freq": 29
+ },
+ {
+  "en": "Table",
+  "zh": "桌子",
+  "freq": 29
+ },
+ {
+  "en": "Penis C",
+  "zh": "阴茎 C",
+  "freq": 29
+ },
+ {
+  "en": "Statue",
+  "zh": "雕像",
+  "freq": 28
+ },
+ {
+  "en": "Citizen",
+  "zh": "市民",
+  "freq": 27
+ },
+ {
+  "en": "Target",
+  "zh": "目标",
+  "freq": 27
+ },
+ {
+  "en": "Torch",
+  "zh": "火把",
+  "freq": 26
+ },
+ {
+  "en": "Chandelier",
+  "zh": "枝形吊灯",
+  "freq": 26
+ },
+ {
+  "en": "Auntie Ethel",
+  "zh": "埃赛尔婶婶",
+  "freq": 26
+ },
+ {
+  "en": "Seeming",
+  "zh": "伪装术",
+  "freq": 25
+ },
+ {
+  "en": "Broken Chest",
+  "zh": "破箱子",
+  "freq": 25
+ },
+ {
+  "en": "Plucky Fable",
+  "zh": "勇气传说",
+  "freq": 24
+ },
+ {
+  "en": "Rapscallion",
+  "zh": "恶棍寸头",
+  "freq": 24
+ },
+ {
+  "en": "Hubris",
+  "zh": "M字头",
+  "freq": 24
+ },
+ {
+  "en": "Foxtail",
+  "zh": "狐尾辫",
+  "freq": 24
+ },
+ {
+  "en": "Tidy Mohawk",
+  "zh": "整洁莫西干",
+  "freq": 24
+ },
+ {
+  "en": "Furled Wings",
+  "zh": "飞翼编发",
+  "freq": 24
+ },
+ {
+  "en": "Topknot",
+  "zh": "顶髻",
+  "freq": 24
+ },
+ {
+  "en": "Poppy Bud",
+  "zh": "长鬓花蕾头",
+  "freq": 23
+ },
+ {
+  "en": "Farewell.",
+  "zh": "再见。",
+  "freq": 23
+ },
+ {
+  "en": "Always.",
+  "zh": "随时。",
+  "freq": 23
+ },
+ {
+  "en": "Parchment",
+  "zh": "羊皮卷",
+  "freq": 23
+ },
+ {
+  "en": "Never.",
+  "zh": "想都别想。",
+  "freq": 23
+ },
+ {
+  "en": "As you wish.",
+  "zh": "如你所愿。",
+  "freq": 23
+ },
+ {
+  "en": "What?",
+  "zh": "什么？",
+  "freq": 22
+ },
+ {
+  "en": "Marble Plate",
+  "zh": "大理石板",
+  "freq": 22
+ },
+ {
+  "en": "Bohemian",
+  "zh": "粗旷翘马尾",
+  "freq": 22
+ },
+ {
+  "en": "Portal",
+  "zh": "传送门",
+  "freq": 21
+ },
+ {
+  "en": "Indeed.",
+  "zh": "的确。",
+  "freq": 21
+ },
+ {
+  "en": "*Hiss.*",
+  "zh": "*嘶嘶。*",
+  "freq": 21
+ },
+ {
+  "en": "Shelf",
+  "zh": "架子",
+  "freq": 21
+ },
+ {
+  "en": "Errant Soul",
+  "zh": "游荡的灵魂",
+  "freq": 20
+ },
+ {
+  "en": "Perhaps.",
+  "zh": "也许吧。",
+  "freq": 20
+ },
+ {
+  "en": "Drinks",
+  "zh": "饮品",
+  "freq": 20
+ },
+ {
+  "en": "Yes?",
+  "zh": "什么事？",
+  "freq": 20
+ },
+ {
+  "en": "Blackboard",
+  "zh": "黑板",
+  "freq": 20
+ },
+ {
+  "en": "Scroll",
+  "zh": "卷轴",
+  "freq": 20
+ },
+ {
+  "en": "Wooden Trunk",
+  "zh": "大木箱",
+  "freq": 20
+ },
+ {
+  "en": "*Whine.*",
+  "zh": "*呜呜。*",
+  "freq": 20
+ },
+ {
+  "en": "No!",
+  "zh": "不！",
+  "freq": 19
+ },
+ {
+  "en": "Double Doors",
+  "zh": "双开门",
+  "freq": 19
+ },
+ {
+  "en": "Poltergeist",
+  "zh": "促狭鬼",
+  "freq": 19
+ },
+ {
+  "en": "Fire Sparks",
+  "zh": "火花",
+  "freq": 19
+ },
+ {
+  "en": "Barricade",
+  "zh": "路障",
+  "freq": 19
+ },
+ {
+  "en": "Cupboard",
+  "zh": "壁柜",
+  "freq": 18
+ },
+ {
+  "en": "*Squeak.*",
+  "zh": "*吱吱。*",
+  "freq": 18
+ },
+ {
+  "en": "Sit",
+  "zh": "坐下",
+  "freq": 18
+ },
+ {
+  "en": "*Roar!*",
+  "zh": "*吼！*",
+  "freq": 18
+ },
+ {
+  "en": "Stone Wall",
+  "zh": "石墙",
+  "freq": 18
+ },
+ {
+  "en": "Skiff",
+  "zh": "小艇",
+  "freq": 17
+ },
+ {
+  "en": "Lamp",
+  "zh": "灯具",
+  "freq": 17
+ },
+ {
+  "en": "Head 7",
+  "zh": "头型 7",
+  "freq": 17
+ },
+ {
+  "en": "*Squeak!*",
+  "zh": "*吱吱！*",
+  "freq": 17
+ },
+ {
+  "en": "Backpack",
+  "zh": "背包",
+  "freq": 17
+ },
+ {
+  "en": "*Screech!*",
+  "zh": "*尖叫！*",
+  "freq": 17
+ },
+ {
+  "en": "What is it?",
+  "zh": "是什么？",
+  "freq": 17
+ },
+ {
+  "en": "Good.",
+  "zh": "很好。",
+  "freq": 17
+ },
+ {
+  "en": "Silver Glass",
+  "zh": "银杯",
+  "freq": 16
+ },
+ {
+  "en": "Hammers",
+  "zh": "锤子",
+  "freq": 16
+ },
+ {
+  "en": "Mirror",
+  "zh": "镜子",
+  "freq": 16
+ },
+ {
+  "en": "Not yet.",
+  "zh": "等一下。",
+  "freq": 16
+ },
+ {
+  "en": "In my name.",
+  "zh": "以我的名义。",
+  "freq": 15
+ },
+ {
+  "en": "Rope",
+  "zh": "绳子",
+  "freq": 15
+ },
+ {
+  "en": "Bookcase",
+  "zh": "书柜",
+  "freq": 15
+ },
+ {
+  "en": "Gladly.",
+  "zh": "好。",
+  "freq": 15
+ },
+ {
+  "en": "Wand",
+  "zh": "魔杖",
+  "freq": 15
+ },
+ {
+  "en": "Vulva C",
+  "zh": "阴户 C",
+  "freq": 15
+ },
+ {
+  "en": "Cooking Pot",
+  "zh": "烹饪锅",
+  "freq": 15
+ },
+ {
+  "en": "*Bark!*",
+  "zh": "*汪汪！*",
+  "freq": 15
+ },
+ {
+  "en": "Brain Jar",
+  "zh": "贮脑罐",
+  "freq": 15
+ },
+ {
+  "en": "Never mind.",
+  "zh": "算了。",
+  "freq": 14
+ },
+ {
+  "en": "Spiderweb",
+  "zh": "蜘蛛网",
+  "freq": 14
+ },
+ {
+  "en": "Wine Goblet",
+  "zh": "红酒杯",
+  "freq": 14
+ },
+ {
+  "en": "Grave Marker",
+  "zh": "坟墓标志",
+  "freq": 14
+ },
+ {
+  "en": "Glowing Gem",
+  "zh": "发光的宝石",
+  "freq": 14
+ },
+ {
+  "en": "Shield",
+  "zh": "护盾术",
+  "freq": 14
+ },
+ {
+  "en": "Hole",
+  "zh": "洞",
+  "freq": 13
+ },
+ {
+  "en": "Lobster Cage",
+  "zh": "龙虾笼",
+  "freq": 13
+ },
+ {
+  "en": "Broken Crate",
+  "zh": "破板条箱",
+  "freq": 13
+ },
+ {
+  "en": "Go on.",
+  "zh": "继续说。",
+  "freq": 13
+ },
+ {
+  "en": "Severed Head",
+  "zh": "断头",
+  "freq": 13
+ },
+ {
+  "en": "Lavish Chair",
+  "zh": "华丽的椅子",
+  "freq": 13
+ },
+ {
+  "en": "Wands",
+  "zh": "魔杖",
+  "freq": 13
+ },
+ {
+  "en": "Row of Books",
+  "zh": "成排的书",
+  "freq": 13
+ },
+ {
+  "en": "Vent",
+  "zh": "通风口",
+  "freq": 13
+ },
+ {
+  "en": "Nothing.",
+  "zh": "没有。",
+  "freq": 13
+ },
+ {
+  "en": "Help!",
+  "zh": "救命！",
+  "freq": 13
+ },
+ {
+  "en": "Damaged Vase",
+  "zh": "损坏的瓷瓶",
+  "freq": 13
+ },
+ {
+  "en": "Penis E",
+  "zh": "阴茎 E",
+  "freq": 12
+ },
+ {
+  "en": "Touch",
+  "zh": "按钮",
+  "freq": 12
+ },
+ {
+  "en": "Throw",
+  "zh": "投掷",
+  "freq": 12
+ },
+ {
+  "en": "Gems",
+  "zh": "宝石",
+  "freq": 12
+ },
+ {
+  "en": "Dead Goblin",
+  "zh": "死去的地精",
+  "freq": 12
+ },
+ {
+  "en": "Gale",
+  "zh": "盖尔",
+  "freq": 12
+ },
+ {
+  "en": "Signpost",
+  "zh": "路标",
+  "freq": 12
+ },
+ {
+  "en": "Wooden Shelf",
+  "zh": "木架子",
+  "freq": 12
+ },
+ {
+  "en": "Large Bottle",
+  "zh": "大瓶子",
+  "freq": 12
+ },
+ {
+  "en": "Elevator",
+  "zh": "升降机",
+  "freq": 12
+ },
+ {
+  "en": "Necromite",
+  "zh": "死灵侍僧",
+  "freq": 12
+ },
+ {
+  "en": "Imp",
+  "zh": "小魔鬼",
+  "freq": 12
+ },
+ {
+  "en": "Glowing Bulb",
+  "zh": "发光的球茎",
+  "freq": 12
+ },
+ {
+  "en": "Balanced",
+  "zh": "平衡",
+  "freq": 12
+ },
+ {
+  "en": "Hope",
+  "zh": "希望",
+  "freq": 12
+ },
+ {
+  "en": "Multiattack",
+  "zh": "多重攻击",
+  "freq": 12
+ },
+ {
+  "en": "None",
+  "zh": "无",
+  "freq": 12
+ },
+ {
+  "en": "Hinge",
+  "zh": "铰链",
+  "freq": 12
+ },
+ {
+  "en": "Zombie",
+  "zh": "僵尸",
+  "freq": 12
+ },
+ {
+  "en": "Button",
+  "zh": "按钮",
+  "freq": 12
+ },
+ {
+  "en": "Tentacle",
+  "zh": "触手",
+  "freq": 12
+ },
+ {
+  "en": "Green 4",
+  "zh": "绿色 4",
+  "freq": 12
+ },
+ {
+  "en": "Candelabra",
+  "zh": "大烛台",
+  "freq": 12
+ },
+ {
+  "en": "Fine.",
+  "zh": "好吧。",
+  "freq": 12
+ },
+ {
+  "en": "Very well.",
+  "zh": "好吧。",
+  "freq": 11
+ },
+ {
+  "en": "Green 2",
+  "zh": "绿色 2",
+  "freq": 11
+ },
+ {
+  "en": "NO!",
+  "zh": "不！",
+  "freq": 11
+ },
+ {
+  "en": "Crate",
+  "zh": "板条箱",
+  "freq": 11
+ },
+ {
+  "en": "*Snarl.*",
+  "zh": "*低吼。*",
+  "freq": 11
+ },
+ {
+  "en": "Red 1",
+  "zh": "红色1",
+  "freq": 11
+ },
+ {
+  "en": "Blue 1",
+  "zh": "蓝色 1",
+  "freq": 11
+ },
+ {
+  "en": "Red 4",
+  "zh": "红色 4",
+  "freq": 11
+ },
+ {
+  "en": "Blue 2",
+  "zh": "蓝色 2",
+  "freq": 11
+ },
+ {
+  "en": "I'm sorry.",
+  "zh": "我很抱歉。",
+  "freq": 11
+ },
+ {
+  "en": "Gilded Tome",
+  "zh": "镀金典籍",
+  "freq": 11
+ },
+ {
+  "en": "Red 5",
+  "zh": "红色 5",
+  "freq": 11
+ },
+ {
+  "en": "Red 3",
+  "zh": "红色 3",
+  "freq": 11
+ },
+ {
+  "en": "Plaque",
+  "zh": "篆刻板",
+  "freq": 11
+ },
+ {
+  "en": "Crystal",
+  "zh": "水晶",
+  "freq": 11
+ },
+ {
+  "en": "Door",
+  "zh": "门",
+  "freq": 11
+ },
+ {
+  "en": "Crypt Gate",
+  "zh": "地下室大门",
+  "freq": 11
+ },
+ {
+  "en": "Green 1",
+  "zh": "绿色 1",
+  "freq": 11
+ },
+ {
+  "en": "Stairs",
+  "zh": "楼梯",
+  "freq": 11
+ },
+ {
+  "en": "Bottle",
+  "zh": "小瓶子",
+  "freq": 11
+ },
+ {
+  "en": "Dead Duergar",
+  "zh": "死去的灰矮人",
+  "freq": 11
+ },
+ {
+  "en": "Blue 4",
+  "zh": "蓝色 4",
+  "freq": 11
+ },
+ {
+  "en": "Stool",
+  "zh": "凳子",
+  "freq": 11
+ },
+ {
+  "en": "Githyanki",
+  "zh": "吉斯洋基人",
+  "freq": 11
+ },
+ {
+  "en": "Why?",
+  "zh": "为什么？",
+  "freq": 11
+ },
+ {
+  "en": "Drow",
+  "zh": "卓尔",
+  "freq": 11
+ },
+ {
+  "en": "Platform",
+  "zh": "平台",
+  "freq": 11
+ },
+ {
+  "en": "Shortsword",
+  "zh": "短剑",
+  "freq": 11
+ },
+ {
+  "en": "Green 3",
+  "zh": "绿色 3",
+  "freq": 11
+ },
+ {
+  "en": "What now?",
+  "zh": "现在我们该怎么办？",
+  "freq": 11
+ },
+ {
+  "en": "Blue 3",
+  "zh": "蓝色 3",
+  "freq": 11
+ },
+ {
+  "en": "Red 2",
+  "zh": "红色 2",
+  "freq": 11
+ },
+ {
+  "en": "*Screech.*",
+  "zh": "*尖啸。*",
+  "freq": 11
+ },
+ {
+  "en": "I know.",
+  "zh": "我知道。",
+  "freq": 10
+ },
+ {
+  "en": "Hmph.",
+  "zh": "哼。",
+  "freq": 10
+ },
+ {
+  "en": "Broken Door",
+  "zh": "破门",
+  "freq": 10
+ },
+ {
+  "en": "Patron",
+  "zh": "顾客",
+  "freq": 10
+ },
+ {
+  "en": "No...",
+  "zh": "不...",
+  "freq": 10
+ },
+ {
+  "en": "Cancel",
+  "zh": "取消",
+  "freq": 10
+ },
+ {
+  "en": "Turn",
+  "zh": "旋转",
+  "freq": 10
+ },
+ {
+  "en": "Agh!",
+  "zh": "啊啊！",
+  "freq": 10
+ },
+ {
+  "en": "*ROAR!*",
+  "zh": "*吼！*",
+  "freq": 10
+ },
+ {
+  "en": "*Chirp!*",
+  "zh": "*唧唧！*",
+  "freq": 10
+ },
+ {
+  "en": "Halsin",
+  "zh": "哈尔辛",
+  "freq": 10
+ },
+ {
+  "en": "Study",
+  "zh": "学习",
+  "freq": 10
+ },
+ {
+  "en": "Burrow Hole",
+  "zh": "地洞",
+  "freq": 10
+ },
+ {
+  "en": "Iron Ladder",
+  "zh": "铁爬梯",
+  "freq": 10
+ },
+ {
+  "en": "War Drum",
+  "zh": "战鼓",
+  "freq": 10
+ },
+ {
+  "en": "Fish",
+  "zh": "鱼",
+  "freq": 10
+ },
+ {
+  "en": "Not now.",
+  "zh": "现在不行。",
+  "freq": 10
+ },
+ {
+  "en": "Bookshelf",
+  "zh": "书架",
+  "freq": 10
+ },
+ {
+  "en": "Slam",
+  "zh": "猛击",
+  "freq": 10
+ },
+ {
+  "en": "Accept",
+  "zh": "接受",
+  "freq": 10
+ },
+ {
+  "en": "*Grunt!*",
+  "zh": "*嘟哝！*",
+  "freq": 10
+ },
+ {
+  "en": "Blue 5",
+  "zh": "蓝色 5",
+  "freq": 10
+ },
+ {
+  "en": "Shit.",
+  "zh": "该死。",
+  "freq": 10
+ },
+ {
+  "en": "Dead Gnoll",
+  "zh": "死去的豺狼人",
+  "freq": 10
+ },
+ {
+  "en": "Good luck.",
+  "zh": "祝你好运。",
+  "freq": 10
+ },
+ {
+  "en": "Longsword",
+  "zh": "长剑",
+  "freq": 10
+ },
+ {
+  "en": "Zhentarim",
+  "zh": "散塔林会",
+  "freq": 10
+ },
+ {
+  "en": "Trader",
+  "zh": "商人",
+  "freq": 10
+ },
+ {
+  "en": "Swords",
+  "zh": "剑",
+  "freq": 9
+ },
+ {
+  "en": "*Sob.*",
+  "zh": "*啜泣。*",
+  "freq": 9
+ },
+ {
+  "en": "Dead Thrall",
+  "zh": "死去的奴隶",
+  "freq": 9
+ },
+ {
+  "en": "Wild Magic",
+  "zh": "狂野魔法",
+  "freq": 9
+ },
+ {
+  "en": "Raphael",
+  "zh": "拉斐尔",
+  "freq": 9
+ },
+ {
+  "en": "Canopy Bed",
+  "zh": "四柱床",
+  "freq": 9
+ },
+ {
+  "en": "Wolf",
+  "zh": "狼",
+  "freq": 9
+ },
+ {
+  "en": "*Howl.*",
+  "zh": "*嚎叫。*",
+  "freq": 9
+ },
+ {
+  "en": "Astarion",
+  "zh": "阿斯代伦",
+  "freq": 9
+ },
+ {
+  "en": "*Whimper.*",
+  "zh": "*呜咽声。*",
+  "freq": 9
+ },
+ {
+  "en": "Wyll",
+  "zh": "威尔",
+  "freq": 9
+ },
+ {
+  "en": "Bunk Bed",
+  "zh": "双层床",
+  "freq": 9
+ },
+ {
+  "en": "Guild Member",
+  "zh": "公会成员",
+  "freq": 9
+ },
+ {
+  "en": "Bane",
+  "zh": "班恩",
+  "freq": 9
+ },
+ {
+  "en": "Object",
+  "zh": "物体",
+  "freq": 9
+ },
+ {
+  "en": "Follow me.",
+  "zh": "跟我来。",
+  "freq": 9
+ },
+ {
+  "en": "Karlach",
+  "zh": "卡菈克",
+  "freq": 9
+ },
+ {
+  "en": "Ansur",
+  "zh": "安苏",
+  "freq": 9
+ },
+ {
+  "en": "Incense",
+  "zh": "焚香",
+  "freq": 9
+ },
+ {
+  "en": "In Her name.",
+  "zh": "以她的名义。",
+  "freq": 9
+ },
+ {
+  "en": "Dagger",
+  "zh": "匕首",
+  "freq": 9
+ },
+ {
+  "en": "Green 5",
+  "zh": "绿色 5",
+  "freq": 9
+ },
+ {
+  "en": "Wooden Chest",
+  "zh": "木箱子",
+  "freq": 9
+ },
+ {
+  "en": "Bottle Rack",
+  "zh": "瓶架",
+  "freq": 9
+ },
+ {
+  "en": "Look closer",
+  "zh": "仔细检查",
+  "freq": 9
+ },
+ {
+  "en": "Deal.",
+  "zh": "成交。",
+  "freq": 9
+ },
+ {
+  "en": "Rat",
+  "zh": "老鼠",
+  "freq": 9
+ },
+ {
+  "en": "Silver Key",
+  "zh": "银钥匙",
+  "freq": 9
+ },
+ {
+  "en": "Redcap",
+  "zh": "红帽子",
+  "freq": 9
+ },
+ {
+  "en": "Basic Poison",
+  "zh": "简易毒药",
+  "freq": 9
+ },
+ {
+  "en": "Head 8",
+  "zh": "头型 8",
+  "freq": 9
+ },
+ {
+  "en": "Patriar",
+  "zh": "贵族",
+  "freq": 9
+ },
+ {
+  "en": "Jewel Point",
+  "zh": "宝石凸角",
+  "freq": 8
+ },
+ {
+  "en": "Purple 2",
+  "zh": "紫色2",
+  "freq": 8
+ },
+ {
+  "en": "Padded Chair",
+  "zh": "软垫椅",
+  "freq": 8
+ },
+ {
+  "en": "Jaws of Ruin",
+  "zh": "灾厄环角",
+  "freq": 8
+ },
+ {
+  "en": "Shark Fins",
+  "zh": "鲨鳍角",
+  "freq": 8
+ },
+ {
+  "en": "Map",
+  "zh": "地图",
+  "freq": 8
+ },
+ {
+  "en": "Rune Slate",
+  "zh": "符文石板",
+  "freq": 8
+ },
+ {
+  "en": "All right.",
+  "zh": "好吧。",
+  "freq": 8
+ },
+ {
+  "en": "Arcuate",
+  "zh": "拱形冠",
+  "freq": 8
+ },
+ {
+  "en": "Apogee",
+  "zh": "崎石角",
+  "freq": 8
+ },
+ {
+  "en": "LAN",
+  "zh": "局域网",
+  "freq": 8
+ },
+ {
+  "en": "Refugee",
+  "zh": "难民",
+  "freq": 8
+ },
+ {
+  "en": "Purple 1",
+  "zh": "紫色 1",
+  "freq": 8
+ },
+ {
+  "en": "Spear",
+  "zh": "短矛",
+  "freq": 8
+ },
+ {
+  "en": "Tripwire",
+  "zh": "绊绳",
+  "freq": 8
+ },
+ {
+  "en": "Yellow 1",
+  "zh": "黄色1",
+  "freq": 8
+ },
+ {
+  "en": "Tiefling",
+  "zh": "提夫林",
+  "freq": 8
+ },
+ {
+  "en": "Malefic",
+  "zh": "凶邪冠",
+  "freq": 8
+ },
+ {
+  "en": "*Bellow.*",
+  "zh": "*怒吼。*",
+  "freq": 8
+ },
+ {
+  "en": "Dragonglass",
+  "zh": "龙晶角",
+  "freq": 8
+ },
+ {
+  "en": "Round Flask",
+  "zh": "圆底烧瓶",
+  "freq": 8
+ },
+ {
+  "en": "Torn Webbing",
+  "zh": "撕开的网",
+  "freq": 8
+ },
+ {
+  "en": "Cauldron",
+  "zh": "大锅",
+  "freq": 8
+ },
+ {
+  "en": "Campfire",
+  "zh": "营火",
+  "freq": 8
+ },
+ {
+  "en": "Lesser Imp",
+  "zh": "次级小魔鬼",
+  "freq": 8
+ },
+ {
+  "en": "Books",
+  "zh": "书籍",
+  "freq": 8
+ },
+ {
+  "en": "Crossbows",
+  "zh": "弩",
+  "freq": 8
+ },
+ {
+  "en": "Brown 1",
+  "zh": "棕色1",
+  "freq": 8
+ },
+ {
+  "en": "Underdark",
+  "zh": "幽暗地域",
+  "freq": 8
+ },
+ {
+  "en": "Arabella?",
+  "zh": "阿拉贝尔？",
+  "freq": 8
+ },
+ {
+  "en": "Flaming Fist",
+  "zh": "焰拳",
+  "freq": 8
+ },
+ {
+  "en": "Petrified",
+  "zh": "石化",
+  "freq": 8
+ },
+ {
+  "en": "Dragon",
+  "zh": "龙",
+  "freq": 8
+ },
+ {
+  "en": "Human",
+  "zh": "人类",
+  "freq": 8
+ },
+ {
+  "en": "Stalactite",
+  "zh": "钟乳石角",
+  "freq": 8
+ },
+ {
+  "en": "Wall",
+  "zh": "墙壁",
+  "freq": 8
+ },
+ {
+  "en": "Blast Mine",
+  "zh": "爆破地雷",
+  "freq": 8
+ },
+ {
+  "en": "Brown 2",
+  "zh": "棕色2",
+  "freq": 8
+ },
+ {
+  "en": "Mind Flayer",
+  "zh": "夺心魔",
+  "freq": 8
+ },
+ {
+  "en": "Open",
+  "zh": "开启",
+  "freq": 8
+ },
+ {
+  "en": "Tactician",
+  "zh": "硬核",
+  "freq": 8
+ },
+ {
+  "en": "Purple 3",
+  "zh": "紫色 3",
+  "freq": 8
+ },
+ {
+  "en": "Do it.",
+  "zh": "动手吧。",
+  "freq": 8
+ },
+ {
+  "en": "Purple 4",
+  "zh": "紫色4",
+  "freq": 8
+ },
+ {
+  "en": "Chintacle",
+  "zh": "鳍状角",
+  "freq": 8
+ },
+ {
+  "en": "Calcified",
+  "zh": "钙化双角",
+  "freq": 8
+ },
+ {
+  "en": "Stentorian",
+  "zh": "多角尖",
+  "freq": 8
+ },
+ {
+  "en": "Yellow 2",
+  "zh": "黄色2",
+  "freq": 8
+ },
+ {
+  "en": "Let's go.",
+  "zh": "我们走吧。",
+  "freq": 8
+ },
+ {
+  "en": "Lae'zel",
+  "zh": "莱埃泽尔",
+  "freq": 8
+ },
+ {
+  "en": "Undead",
+  "zh": "不死生物",
+  "freq": 8
+ },
+ {
+  "en": "Brown 3",
+  "zh": "棕色3",
+  "freq": 8
+ },
+ {
+  "en": "Plate",
+  "zh": "盘子",
+  "freq": 8
+ },
+ {
+  "en": "Cliff Jut",
+  "zh": "崖状突角",
+  "freq": 8
+ },
+ {
+  "en": "Yellow 3",
+  "zh": "黄色3",
+  "freq": 8
+ },
+ {
+  "en": "Kobold Hole",
+  "zh": "狗头人洞穴",
+  "freq": 8
+ },
+ {
+  "en": "Levelled Up",
+  "zh": "等级提升",
+  "freq": 8
+ },
+ {
+  "en": "Silver Tray",
+  "zh": "银托盘",
+  "freq": 8
+ },
+ {
+  "en": "Jump",
+  "zh": "跳跃",
+  "freq": 8
+ },
+ {
+  "en": "Hospital Bed",
+  "zh": "病床",
+  "freq": 8
+ },
+ {
+  "en": "Coral Ridges",
+  "zh": "珊瑚脊角",
+  "freq": 8
+ },
+ {
+  "en": "Brew",
+  "zh": "酿造",
+  "freq": 8
+ },
+ {
+  "en": "Fly",
+  "zh": "飞行",
+  "freq": 8
+ },
+ {
+  "en": "Ophidian",
+  "zh": "蛇形冠",
+  "freq": 8
+ },
+ {
+  "en": "Pinnacle",
+  "zh": "尖塔角",
+  "freq": 8
+ },
+ {
+  "en": "Half Orc",
+  "zh": "半兽人",
+  "freq": 8
+ },
+ {
+  "en": "Umbral Gem",
+  "zh": "阴影宝石",
+  "freq": 8
+ },
+ {
+  "en": "Yeah?",
+  "zh": "什么事？",
+  "freq": 8
+ },
+ {
+  "en": "Brown 4",
+  "zh": "棕色4",
+  "freq": 7
+ },
+ {
+  "en": "I think not.",
+  "zh": "我觉得没有。",
+  "freq": 7
+ },
+ {
+  "en": "Thanks.",
+  "zh": "谢谢。",
+  "freq": 7
+ },
+ {
+  "en": "Arrow",
+  "zh": "箭",
+  "freq": 7
+ },
+ {
+  "en": "Poster",
+  "zh": "海报",
+  "freq": 7
+ },
+ {
+  "en": "Rubble",
+  "zh": "碎石",
+  "freq": 7
+ },
+ {
+  "en": "Restrained",
+  "zh": "束缚",
+  "freq": 7
+ },
+ {
+  "en": "Roof",
+  "zh": "屋顶",
+  "freq": 7
+ },
+ {
+  "en": "Wolf Statue",
+  "zh": "狼雕像",
+  "freq": 7
+ },
+ {
+  "en": "Elk Statue",
+  "zh": "麋鹿雕像",
+  "freq": 7
+ },
+ {
+  "en": "No thanks.",
+  "zh": "不了，谢谢。",
+  "freq": 7
+ },
+ {
+  "en": "Cursed Skull",
+  "zh": "诅咒头骨",
+  "freq": 7
+ },
+ {
+  "en": "Forget it.",
+  "zh": "算了。",
+  "freq": 7
+ },
+ {
+  "en": "Duergar",
+  "zh": "灰矮人",
+  "freq": 7
+ },
+ {
+  "en": "Deep Gnome",
+  "zh": "地底侏儒",
+  "freq": 7
+ },
+ {
+  "en": "Grave Shot",
+  "zh": "坟墓射击",
+  "freq": 7
+ },
+ {
+  "en": "Explorer",
+  "zh": "探索者",
+  "freq": 7
+ },
+ {
+  "en": "Cache",
+  "zh": "藏货",
+  "freq": 7
+ },
+ {
+  "en": "Thank you!",
+  "zh": "谢谢你！",
+  "freq": 7
+ },
+ {
+  "en": "Bust",
+  "zh": "半身像",
+  "freq": 7
+ },
+ {
+  "en": "*Sigh.*",
+  "zh": "*叹气。*",
+  "freq": 7
+ },
+ {
+  "en": "*Squawk!*",
+  "zh": "*尖叫声！*",
+  "freq": 7
+ },
+ {
+  "en": "Bear",
+  "zh": "熊",
+  "freq": 7
+ },
+ {
+  "en": "Bucket",
+  "zh": "水桶",
+  "freq": 7
+ },
+ {
+  "en": "Rampart",
+  "zh": "壁垒",
+  "freq": 7
+ },
+ {
+  "en": "Extract",
+  "zh": "萃取",
+  "freq": 7
+ },
+ {
+  "en": "Brown 5",
+  "zh": "棕色5",
+  "freq": 7
+ },
+ {
+  "en": "Join me.",
+  "zh": "加入我。",
+  "freq": 7
+ },
+ {
+  "en": "Tomb",
+  "zh": "墓穴",
+  "freq": 7
+ },
+ {
+  "en": "Hmm.",
+  "zh": "嗯。",
+  "freq": 7
+ },
+ {
+  "en": "*Meow!*",
+  "zh": "*喵！*",
+  "freq": 7
+ },
+ {
+  "en": "Severed Arm",
+  "zh": "断臂",
+  "freq": 7
+ },
+ {
+  "en": "Mug of Beer",
+  "zh": "一杯啤酒",
+  "freq": 7
+ },
+ {
+  "en": "Rope Ladder",
+  "zh": "绳梯",
+  "freq": 7
+ },
+ {
+  "en": "Empty Crates",
+  "zh": "空板条箱",
+  "freq": 7
+ },
+ {
+  "en": "Knocked Out",
+  "zh": "倒地",
+  "freq": 7
+ },
+ {
+  "en": "Sarcophagus",
+  "zh": "石棺",
+  "freq": 7
+ },
+ {
+  "en": "Chair",
+  "zh": "椅子",
+  "freq": 7
+ },
+ {
+  "en": "Tent",
+  "zh": "帐篷",
+  "freq": 7
+ },
+ {
+  "en": "Purple 5",
+  "zh": "紫色5",
+  "freq": 7
+ },
+ {
+  "en": "Scimitar",
+  "zh": "弯刀",
+  "freq": 7
+ },
+ {
+  "en": "Wooden Hinge",
+  "zh": "木铰链",
+  "freq": 7
+ },
+ {
+  "en": "Exactly.",
+  "zh": "没错。",
+  "freq": 7
+ },
+ {
+  "en": "Staff",
+  "zh": "法杖",
+  "freq": 7
+ },
+ {
+  "en": "Well?",
+  "zh": "所以呢？",
+  "freq": 7
+ },
+ {
+  "en": "Actions",
+  "zh": "动作",
+  "freq": 7
+ },
+ {
+  "en": "Surgical Bed",
+  "zh": "手术床",
+  "freq": 7
+ },
+ {
+  "en": "Goodbye.",
+  "zh": "再见。",
+  "freq": 7
+ },
+ {
+  "en": "Meazel",
+  "zh": "鬾魊",
+  "freq": 7
+ },
+ {
+  "en": "Nautiloid",
+  "zh": "鹦鹉螺",
+  "freq": 7
+ },
+ {
+  "en": "*Sniff.*",
+  "zh": "*嗅嗅。*",
+  "freq": 7
+ },
+ {
+  "en": "Medium",
+  "zh": "中",
+  "freq": 7
+ },
+ {
+  "en": "Drying Rack",
+  "zh": "干燥架",
+  "freq": 7
+ },
+ {
+  "en": "Push",
+  "zh": "按钮",
+  "freq": 7
+ },
+ {
+  "en": "Mug",
+  "zh": "杯子",
+  "freq": 7
+ },
+ {
+  "en": "Shadowheart",
+  "zh": "影心",
+  "freq": 7
+ },
+ {
+  "en": "Greatclub",
+  "zh": "巨棒",
+  "freq": 7
+ },
+ {
+  "en": "I do.",
+  "zh": "是的。",
+  "freq": 7
+ },
+ {
+  "en": "Hey!",
+  "zh": "嘿！",
+  "freq": 7
+ },
+ {
+  "en": "Display Case",
+  "zh": "展示柜",
+  "freq": 7
+ },
+ {
+  "en": "Clubs",
+  "zh": "短棒",
+  "freq": 7
+ },
+ {
+  "en": "Custom",
+  "zh": "自定义",
+  "freq": 7
+ },
+ {
+  "en": "I love you.",
+  "zh": "我爱你。",
+  "freq": 7
+ },
+ {
+  "en": "*HISS!*",
+  "zh": "*嘶！*",
+  "freq": 7
+ },
+ {
+  "en": "Off",
+  "zh": "关",
+  "freq": 7
+ },
+ {
+  "en": "Grave",
+  "zh": "坟墓",
+  "freq": 7
+ },
+ {
+  "en": "Really?",
+  "zh": "真的吗？",
+  "freq": 7
+ },
+ {
+  "en": "Inspect",
+  "zh": "检查",
+  "freq": 7
+ },
+ {
+  "en": "Bear Statue",
+  "zh": "熊雕像",
+  "freq": 7
+ },
+ {
+  "en": "Leave Camp",
+  "zh": "离开营地",
+  "freq": 7
+ },
+ {
+  "en": "*Squee.*",
+  "zh": "*叽叽。*",
+  "freq": 7
+ },
+ {
+  "en": "Fork",
+  "zh": "叉子",
+  "freq": 7
+ },
+ {
+  "en": "Black",
+  "zh": "黑色",
+  "freq": 7
+ },
+ {
+  "en": "Wooden Boxes",
+  "zh": "木盒子",
+  "freq": 6
+ },
+ {
+  "en": "*Growl...*",
+  "zh": "*低吠。*",
+  "freq": 6
+ },
+ {
+  "en": "The Emperor",
+  "zh": "君主",
+  "freq": 6
+ },
+ {
+  "en": "Not really.",
+  "zh": "算不上吧。",
+  "freq": 6
+ },
+ {
+  "en": "Javelin",
+  "zh": "标枪",
+  "freq": 6
+ },
+ {
+  "en": "Roots",
+  "zh": "根须",
+  "freq": 6
+ },
+ {
+  "en": "Drow Poison",
+  "zh": "卓尔毒药",
+  "freq": 6
+ },
+ {
+  "en": "Elminster?",
+  "zh": "伊尔明斯特？",
+  "freq": 6
+ },
+ {
+  "en": "Pink 2",
+  "zh": "粉色 2",
+  "freq": 6
+ },
+ {
+  "en": "So be it.",
+  "zh": "那就这样吧。",
+  "freq": 6
+ },
+ {
+  "en": "Club",
+  "zh": "短棒",
+  "freq": 6
+ },
+ {
+  "en": "Buh-bye.",
+  "zh": "拜拜。",
+  "freq": 6
+ },
+ {
+  "en": "Anvil",
+  "zh": "铁砧",
+  "freq": 6
+ },
+ {
+  "en": "Yellow 4",
+  "zh": "黄色4",
+  "freq": 6
+ },
+ {
+  "en": "Argh!",
+  "zh": "啊！",
+  "freq": 6
+ },
+ {
+  "en": "Greatsword",
+  "zh": "巨剑",
+  "freq": 6
+ },
+ {
+  "en": "For now.",
+  "zh": "暂时如此。",
+  "freq": 6
+ },
+ {
+  "en": "Lunar Symbol",
+  "zh": "月亮符号",
+  "freq": 6
+ },
+ {
+  "en": "ENOUGH.",
+  "zh": "够了。",
+  "freq": 6
+ },
+ {
+  "en": "Yes",
+  "zh": "是",
+  "freq": 6
+ },
+ {
+  "en": "Pink 3",
+  "zh": "粉色 3",
+  "freq": 6
+ },
+ {
+  "en": "Harpy",
+  "zh": "鸟妖",
+  "freq": 6
+ },
+ {
+  "en": "Performance",
+  "zh": "性能",
+  "freq": 6
+ },
+ {
+  "en": "Dirt Mound",
+  "zh": "土堆",
+  "freq": 6
+ },
+ {
+  "en": "Death Burst",
+  "zh": "死亡爆裂",
+  "freq": 6
+ },
+ {
+  "en": "Goblin Boss",
+  "zh": "地精首领",
+  "freq": 6
+ },
+ {
+  "en": "Saer.",
+  "zh": "大人。",
+  "freq": 6
+ },
+ {
+  "en": "Orange 2",
+  "zh": "橙色2",
+  "freq": 6
+ },
+ {
+  "en": "Close",
+  "zh": "关闭",
+  "freq": 6
+ },
+ {
+  "en": "Dart",
+  "zh": "飞镖",
+  "freq": 6
+ },
+ {
+  "en": "Broken Urn",
+  "zh": "破瓮",
+  "freq": 6
+ },
+ {
+  "en": "Pink 1",
+  "zh": "粉色 1",
+  "freq": 6
+ },
+ {
+  "en": "Me too.",
+  "zh": "我也一样。",
+  "freq": 6
+ },
+ {
+  "en": "Short Rest",
+  "zh": "短休",
+  "freq": 6
+ },
+ {
+  "en": "Monk",
+  "zh": "武僧",
+  "freq": 6
+ },
+ {
+  "en": "You first.",
+  "zh": "你先。",
+  "freq": 6
+ },
+ {
+  "en": "*Hoot!*",
+  "zh": "*咕咕！*",
+  "freq": 6
+ },
+ {
+  "en": "Mizora",
+  "zh": "米佐拉",
+  "freq": 6
+ },
+ {
+  "en": "Go on...",
+  "zh": "继续...",
+  "freq": 6
+ },
+ {
+  "en": "Profane Womb",
+  "zh": "亵渎子宫",
+  "freq": 6
+ },
+ {
+  "en": "Hex",
+  "zh": "脆弱诅咒",
+  "freq": 6
+ },
+ {
+  "en": "Moonbeam",
+  "zh": "月华之光",
+  "freq": 6
+ },
+ {
+  "en": "*Chitter.*",
+  "zh": "*唧唧。*",
+  "freq": 6
+ },
+ {
+  "en": "Orange 4",
+  "zh": "橙色4",
+  "freq": 6
+ },
+ {
+  "en": "It is done.",
+  "zh": "事成。",
+  "freq": 6
+ },
+ {
+  "en": "Iron Grate",
+  "zh": "铁格栅",
+  "freq": 6
+ },
+ {
+  "en": "REMOVE HER.",
+  "zh": "把她弄出来。",
+  "freq": 6
+ },
+ {
+  "en": "Curious.",
+  "zh": "有古怪。",
+  "freq": 6
+ },
+ {
+  "en": "Stone Bed",
+  "zh": "石床",
+  "freq": 6
+ },
+ {
+  "en": "Boar",
+  "zh": "野猪",
+  "freq": 6
+ },
+ {
+  "en": "Strongbox",
+  "zh": "保险柜",
+  "freq": 6
+ },
+ {
+  "en": "Halfling",
+  "zh": "半身人",
+  "freq": 6
+ },
+ {
+  "en": "White 1",
+  "zh": "白色 1",
+  "freq": 6
+ },
+ {
+  "en": "Explosion",
+  "zh": "爆炸",
+  "freq": 6
+ },
+ {
+  "en": "Half-Orc",
+  "zh": "半兽人",
+  "freq": 6
+ },
+ {
+  "en": "[1]",
+  "zh": "[1]",
+  "freq": 6
+ },
+ {
+  "en": "General",
+  "zh": "通用",
+  "freq": 6
+ },
+ {
+  "en": "Do you mind?",
+  "zh": "你介意吗？",
+  "freq": 6
+ },
+ {
+  "en": "Sickle",
+  "zh": "镰刀",
+  "freq": 6
+ },
+ {
+  "en": "Mace",
+  "zh": "硬头锤",
+  "freq": 6
+ },
+ {
+  "en": "Ice Knife",
+  "zh": "冰刃术",
+  "freq": 6
+ },
+ {
+  "en": "What's that?",
+  "zh": "那是什么？",
+  "freq": 6
+ },
+ {
+  "en": "Orange 5",
+  "zh": "橙色5",
+  "freq": 6
+ },
+ {
+  "en": "What? No!",
+  "zh": "什么？不要！",
+  "freq": 6
+ },
+ {
+  "en": "No",
+  "zh": "否",
+  "freq": 6
+ },
+ {
+  "en": "Attendant",
+  "zh": "侍从",
+  "freq": 6
+ },
+ {
+  "en": "Jug",
+  "zh": "水壶",
+  "freq": 6
+ },
+ {
+  "en": "Mould",
+  "zh": "模具",
+  "freq": 6
+ },
+ {
+  "en": "Cloak",
+  "zh": "披风",
+  "freq": 6
+ },
+ {
+  "en": "Malice",
+  "zh": "怨恨",
+  "freq": 6
+ },
+ {
+  "en": "Simple Toxin",
+  "zh": "简易毒素",
+  "freq": 6
+ },
+ {
+  "en": "Omeluum",
+  "zh": "奥米伦",
+  "freq": 6
+ },
+ {
+  "en": "Severed Leg",
+  "zh": "断腿",
+  "freq": 6
+ },
+ {
+  "en": "White 3",
+  "zh": "白色 3",
+  "freq": 6
+ },
+ {
+  "en": "Gold",
+  "zh": "金币",
+  "freq": 6
+ },
+ {
+  "en": "Blast Cannon",
+  "zh": "爆破加农炮",
+  "freq": 6
+ },
+ {
+  "en": "Severed Hand",
+  "zh": "断手",
+  "freq": 6
+ },
+ {
+  "en": "Level",
+  "zh": "等级",
+  "freq": 6
+ },
+ {
+  "en": "Use",
+  "zh": "使用",
+  "freq": 6
+ },
+ {
+  "en": "Padded Sofa",
+  "zh": "软垫沙发",
+  "freq": 6
+ },
+ {
+  "en": "Boulder",
+  "zh": "巨石",
+  "freq": 6
+ },
+ {
+  "en": "Jaheira",
+  "zh": "贾希拉",
+  "freq": 6
+ },
+ {
+  "en": "Empty.",
+  "zh": "空的。",
+  "freq": 6
+ },
+ {
+  "en": "Fair enough.",
+  "zh": "行吧。",
+  "freq": 6
+ },
+ {
+  "en": "Go away!",
+  "zh": "走开！",
+  "freq": 6
+ },
+ {
+  "en": "Mayrina",
+  "zh": "梅丽娜",
+  "freq": 6
+ },
+ {
+  "en": "Prison Log",
+  "zh": "监狱记录",
+  "freq": 6
+ },
+ {
+  "en": "Death Knight",
+  "zh": "死亡骑士",
+  "freq": 6
+ },
+ {
+  "en": "*Croak.*",
+  "zh": "*啪哔！*",
+  "freq": 6
+ },
+ {
+  "en": "Wooden Table",
+  "zh": "木桌",
+  "freq": 6
+ },
+ {
+  "en": "Hyena",
+  "zh": "鬣狗",
+  "freq": 6
+ },
+ {
+  "en": "Wardrobe",
+  "zh": "衣柜",
+  "freq": 6
+ },
+ {
+  "en": "Half-Elf",
+  "zh": "半精灵",
+  "freq": 6
+ },
+ {
+  "en": "Broadsheet",
+  "zh": "报纸",
+  "freq": 6
+ },
+ {
+  "en": "Stop!",
+  "zh": "停下！",
+  "freq": 6
+ },
+ {
+  "en": "Dog",
+  "zh": "狗",
+  "freq": 6
+ },
+ {
+  "en": "Barbarian",
+  "zh": "野蛮人",
+  "freq": 6
+ },
+ {
+  "en": "Pink 4",
+  "zh": "粉色 4",
+  "freq": 6
+ },
+ {
+  "en": "Advantage",
+  "zh": "优势",
+  "freq": 6
+ },
+ {
+  "en": "Choose.",
+  "zh": "选择吧。",
+  "freq": 6
+ },
+ {
+  "en": "Go on, then.",
+  "zh": "问吧。",
+  "freq": 6
+ },
+ {
+  "en": "Morningstar",
+  "zh": "钉头锤",
+  "freq": 6
+ },
+ {
+  "en": "Spoon",
+  "zh": "勺子",
+  "freq": 6
+ },
+ {
+  "en": "Hug him.",
+  "zh": "拥抱他。",
+  "freq": 6
+ },
+ {
+  "en": "Hm?",
+  "zh": "嗯？",
+  "freq": 6
+ },
+ {
+  "en": "White",
+  "zh": "白色",
+  "freq": 6
+ },
+ {
+  "en": "Light Hammer",
+  "zh": "轻锤",
+  "freq": 6
+ },
+ {
+  "en": "Back",
+  "zh": "返回",
+  "freq": 6
+ },
+ {
+  "en": "White 2",
+  "zh": "白色 2",
+  "freq": 6
+ },
+ {
+  "en": "Small Tunnel",
+  "zh": "小隧道",
+  "freq": 6
+ },
+ {
+  "en": "Paralysed",
+  "zh": "麻痹",
+  "freq": 6
+ },
+ {
+  "en": "Night Blade",
+  "zh": "夜刃",
+  "freq": 6
+ },
+ {
+  "en": "Stuffed Bear",
+  "zh": "熊标本",
+  "freq": 6
+ },
+ {
+  "en": "Rags",
+  "zh": "破布",
+  "freq": 6
+ },
+ {
+  "en": "Orange 1",
+  "zh": "橙色1",
+  "freq": 6
+ },
+ {
+  "en": "Orange 3",
+  "zh": "橙色3",
+  "freq": 6
+ },
+ {
+  "en": "Eagle Statue",
+  "zh": "老鹰雕像",
+  "freq": 6
+ },
+ {
+  "en": "Iron Gate",
+  "zh": "铁门",
+  "freq": 5
+ },
+ {
+  "en": "Cheers!",
+  "zh": "干杯！",
+  "freq": 5
+ },
+ {
+  "en": "Invisible",
+  "zh": "隐形",
+  "freq": 5
+ },
+ {
+  "en": "Wine Rack",
+  "zh": "酒架",
+  "freq": 5
+ },
+ {
+  "en": "No deal.",
+  "zh": "我拒绝。",
+  "freq": 5
+ },
+ {
+  "en": "So you say.",
+  "zh": "你说是这么说。",
+  "freq": 5
+ },
+ {
+  "en": "Knife",
+  "zh": "刀",
+  "freq": 5
+ },
+ {
+  "en": "*Snort.*",
+  "zh": "*呼噜。*",
+  "freq": 5
+ },
+ {
+  "en": "Agreed.",
+  "zh": "同意。",
+  "freq": 5
+ },
+ {
+  "en": "Red 6",
+  "zh": "红色 6",
+  "freq": 5
+ },
+ {
+  "en": "Ugh.",
+  "zh": "呃。",
+  "freq": 5
+ },
+ {
+  "en": "It is.",
+  "zh": "是的。",
+  "freq": 5
+ },
+ {
+  "en": "Wooden Box",
+  "zh": "木盒子",
+  "freq": 5
+ },
+ {
+  "en": "Hm.",
+  "zh": "嗯。",
+  "freq": 5
+ },
+ {
+  "en": "Cat",
+  "zh": "猫",
+  "freq": 5
+ },
+ {
+  "en": "Ngh...",
+  "zh": "嗯...",
+  "freq": 5
+ },
+ {
+  "en": "Kssrt!",
+  "zh": "咔！",
+  "freq": 5
+ },
+ {
+  "en": "Wyvern Toxin",
+  "zh": "翼龙毒素",
+  "freq": 5
+ },
+ {
+  "en": "Hatch",
+  "zh": "活板门",
+  "freq": 5
+ },
+ {
+  "en": "*SCREECH!*",
+  "zh": "*尖叫声！*",
+  "freq": 5
+ },
+ {
+  "en": "Haarlep",
+  "zh": "哈勒普",
+  "freq": 5
+ },
+ {
+  "en": "Greataxe",
+  "zh": "巨斧",
+  "freq": 5
+ },
+ {
+  "en": "Torchstalk",
+  "zh": "火炬蘑菇",
+  "freq": 5
+ },
+ {
+  "en": "What's this?",
+  "zh": "这是什么？",
+  "freq": 5
+ },
+ {
+  "en": "Let's do it.",
+  "zh": "我们开始吧。",
+  "freq": 5
+ },
+ {
+  "en": "Casket Lid",
+  "zh": "棺材板",
+  "freq": 5
+ },
+ {
+  "en": "Warlock",
+  "zh": "邪术师",
+  "freq": 5
+ },
+ {
+  "en": "Us",
+  "zh": "我们",
+  "freq": 5
+ },
+ {
+  "en": "Glaive",
+  "zh": "长柄刀",
+  "freq": 5
+ },
+ {
+  "en": "Green 6",
+  "zh": "绿色6",
+  "freq": 5
+ },
+ {
+  "en": "Yellow 5",
+  "zh": "黄色5",
+  "freq": 5
+ },
+ {
+  "en": "And I you.",
+  "zh": "我也一样。",
+  "freq": 5
+ },
+ {
+  "en": "Fireplace",
+  "zh": "壁炉",
+  "freq": 5
+ },
+ {
+  "en": "Kobold Scout",
+  "zh": "狗头人斥候",
+  "freq": 5
+ },
+ {
+  "en": "Cosmic Omen",
+  "zh": "宇宙预兆",
+  "freq": 5
+ },
+ {
+  "en": "Note",
+  "zh": "笔记",
+  "freq": 5
+ },
+ {
+  "en": "Dead Refugee",
+  "zh": "死去的难民",
+  "freq": 5
+ },
+ {
+  "en": "Disadvantage",
+  "zh": "劣势",
+  "freq": 5
+ },
+ {
+  "en": "Darkvision",
+  "zh": "黑暗视觉",
+  "freq": 5
+ },
+ {
+  "en": "Minthara",
+  "zh": "明萨拉",
+  "freq": 5
+ },
+ {
+  "en": "*Cackle.*",
+  "zh": "*咯咯声。*",
+  "freq": 5
+ },
+ {
+  "en": "*Coo.*",
+  "zh": "*咕咕。*",
+  "freq": 5
+ },
+ {
+  "en": "I'll do it.",
+  "zh": "我答应你。",
+  "freq": 5
+ },
+ {
+  "en": "Ogre",
+  "zh": "食人魔",
+  "freq": 5
+ },
+ {
+  "en": "*Belch.*",
+  "zh": "*嗝。*",
+  "freq": 5
+ },
+ {
+  "en": "Shortbow",
+  "zh": "短弓",
+  "freq": 5
+ },
+ {
+  "en": "Vents",
+  "zh": "通风口",
+  "freq": 5
+ },
+ {
+  "en": "Fresh Corpse",
+  "zh": "新鲜的尸体",
+  "freq": 5
+ },
+ {
+  "en": "Locked",
+  "zh": "已上锁",
+  "freq": 5
+ },
+ {
+  "en": "Equipment",
+  "zh": "装备",
+  "freq": 5
+ },
+ {
+  "en": "*Pant.*",
+  "zh": "*喘息。*",
+  "freq": 5
+ },
+ {
+  "en": "Open Crate",
+  "zh": "敞开的箱子",
+  "freq": 5
+ },
+ {
+  "en": "Abilities",
+  "zh": "属性",
+  "freq": 5
+ },
+ {
+  "en": "Rare",
+  "zh": "稀有",
+  "freq": 5
+ },
+ {
+  "en": "Wooden Desk",
+  "zh": "木桌",
+  "freq": 5
+ },
+ {
+  "en": "Brave",
+  "zh": "勇敢",
+  "freq": 5
+ },
+ {
+  "en": "Longbow",
+  "zh": "长弓",
+  "freq": 5
+ },
+ {
+  "en": "Gnome",
+  "zh": "侏儒",
+  "freq": 5
+ },
+ {
+  "en": "End Turn",
+  "zh": "结束回合",
+  "freq": 5
+ },
+ {
+  "en": "Who?",
+  "zh": "谁？",
+  "freq": 5
+ },
+ {
+  "en": "Gloves",
+  "zh": "手套",
+  "freq": 5
+ },
+ {
+  "en": "Remind me.",
+  "zh": "提醒我一下。",
+  "freq": 5
+ },
+ {
+  "en": "Scrying Eye",
+  "zh": "探知之眼",
+  "freq": 5
+ },
+ {
+  "en": "War Pick",
+  "zh": "战镐",
+  "freq": 5
+ },
+ {
+  "en": "Dirt Pile",
+  "zh": "废石堆",
+  "freq": 5
+ },
+ {
+  "en": "Huh.",
+  "zh": "哈。",
+  "freq": 5
+ },
+ {
+  "en": "Pink 5",
+  "zh": "粉色 5",
+  "freq": 5
+ },
+ {
+  "en": "Blue 6",
+  "zh": "蓝色6",
+  "freq": 5
+ },
+ {
+  "en": "Uh.",
+  "zh": "呃。",
+  "freq": 5
+ },
+ {
+  "en": "Warhammer",
+  "zh": "战锤",
+  "freq": 5
+ },
+ {
+  "en": "Ghoul",
+  "zh": "食尸鬼",
+  "freq": 5
+ },
+ {
+  "en": "Key",
+  "zh": "钥匙",
+  "freq": 5
+ },
+ {
+  "en": "Metamagic",
+  "zh": "超魔",
+  "freq": 5
+ },
+ {
+  "en": "Mage Hand",
+  "zh": "法师之手",
+  "freq": 5
+ },
+ {
+  "en": "Charcoal",
+  "zh": "木炭",
+  "freq": 5
+ },
+ {
+  "en": "Friends",
+  "zh": "交友术",
+  "freq": 5
+ },
+ {
+  "en": "Dead Harper",
+  "zh": "死去的竖琴手",
+  "freq": 5
+ },
+ {
+  "en": "Dwarf",
+  "zh": "矮人",
+  "freq": 5
+ },
+ {
+  "en": "Please.",
+  "zh": "请吧。",
+  "freq": 5
+ },
+ {
+  "en": "Boots",
+  "zh": "靴子",
+  "freq": 5
+ },
+ {
+  "en": "Rogue",
+  "zh": "游荡者",
+  "freq": 5
+ },
+ {
+  "en": "Vlaakith",
+  "zh": "维拉基斯",
+  "freq": 5
+ },
+ {
+  "en": "Scalpel",
+  "zh": "手术刀",
+  "freq": 5
+ },
+ {
+  "en": "Cube 1x1x1",
+  "zh": "方块 1x1x1",
+  "freq": 5
+ },
+ {
+  "en": "Bard",
+  "zh": "吟游诗人",
+  "freq": 5
+ },
+ {
+  "en": "Sorcerer",
+  "zh": "术士",
+  "freq": 5
+ },
+ {
+  "en": "Descend",
+  "zh": "下降",
+  "freq": 5
+ },
+ {
+  "en": "Shields",
+  "zh": "盾牌",
+  "freq": 5
+ },
+ {
+  "en": "Loose Stone",
+  "zh": "松动的石头",
+  "freq": 5
+ },
+ {
+  "en": "Elf",
+  "zh": "精灵",
+  "freq": 5
+ },
+ {
+  "en": "Black Hole",
+  "zh": "黑洞",
+  "freq": 5
+ },
+ {
+  "en": "Go ahead.",
+  "zh": "来吧。",
+  "freq": 5
+ },
+ {
+  "en": "Heroism",
+  "zh": "英雄气概",
+  "freq": 5
+ },
+ {
+  "en": "*Howl!*",
+  "zh": "*嚎叫！*",
+  "freq": 5
+ },
+ {
+  "en": "Weave Button",
+  "zh": "魔网按钮",
+  "freq": 5
+ },
+ {
+  "en": "Longbows",
+  "zh": "长弓",
+  "freq": 5
+ },
+ {
+  "en": "Faerie Fire",
+  "zh": "妖火",
+  "freq": 5
+ },
+ {
+  "en": "Black 1",
+  "zh": "黑色 1",
+  "freq": 5
+ },
+ {
+  "en": "Ring",
+  "zh": "戒指",
+  "freq": 5
+ },
+ {
+  "en": "White 5",
+  "zh": "白色 5",
+  "freq": 5
+ },
+ {
+  "en": "Forest",
+  "zh": "森林",
+  "freq": 5
+ },
+ {
+  "en": "Halberd",
+  "zh": "长戟",
+  "freq": 5
+ },
+ {
+  "en": "Raven",
+  "zh": "渡鸦",
+  "freq": 5
+ },
+ {
+  "en": "Class",
+  "zh": "职业",
+  "freq": 5
+ },
+ {
+  "en": "High Elf",
+  "zh": "高精灵",
+  "freq": 5
+ },
+ {
+  "en": "Cup",
+  "zh": "杯子",
+  "freq": 5
+ },
+ {
+  "en": "Food?",
+  "zh": "吃的？",
+  "freq": 5
+ },
+ {
+  "en": "Is he...?",
+  "zh": "他... ？",
+  "freq": 5
+ },
+ {
+  "en": "I am.",
+  "zh": "是的。",
+  "freq": 5
+ },
+ {
+  "en": "Hiding",
+  "zh": "躲藏",
+  "freq": 5
+ },
+ {
+  "en": "Grey 1",
+  "zh": "灰色1",
+  "freq": 5
+ },
+ {
+  "en": "Rage",
+  "zh": "狂暴",
+  "freq": 5
+ },
+ {
+  "en": "Watch it!",
+  "zh": "看着点！",
+  "freq": 5
+ },
+ {
+  "en": "Black 2",
+  "zh": "黑色 2",
+  "freq": 5
+ },
+ {
+  "en": "Mizora.",
+  "zh": "米佐拉。",
+  "freq": 5
+ },
+ {
+  "en": "Grey 2",
+  "zh": "灰色2",
+  "freq": 5
+ },
+ {
+  "en": "Fey Ancestry",
+  "zh": "妖精血统",
+  "freq": 5
+ },
+ {
+  "en": "Zevlor",
+  "zh": "赛夫洛",
+  "freq": 5
+ },
+ {
+  "en": "Shadow",
+  "zh": "阴影",
+  "freq": 5
+ },
+ {
+  "en": "Resources",
+  "zh": "资源",
+  "freq": 5
+ },
+ {
+  "en": "Sling",
+  "zh": "投石索",
+  "freq": 5
+ },
+ {
+  "en": "Gremishka",
+  "zh": "小法妖",
+  "freq": 5
+ },
+ {
+  "en": "Viscera",
+  "zh": "内脏",
+  "freq": 5
+ },
+ {
+  "en": "Explode",
+  "zh": "爆炸",
+  "freq": 5
+ },
+ {
+  "en": "Fire Breath",
+  "zh": "火焰之息",
+  "freq": 5
+ },
+ {
+  "en": "Charisma",
+  "zh": "魅力",
+  "freq": 5
+ },
+ {
+  "en": "Maul",
+  "zh": "巨锤",
+  "freq": 5
+ },
+ {
+  "en": "*Low!*",
+  "zh": "*哞！*",
+  "freq": 5
+ },
+ {
+  "en": "Trident",
+  "zh": "三叉戟",
+  "freq": 5
+ },
+ {
+  "en": "Acid",
+  "zh": "强酸",
+  "freq": 5
+ },
+ {
+  "en": "Landscape",
+  "zh": "风景画",
+  "freq": 5
+ },
+ {
+  "en": "White 4",
+  "zh": "白色 4",
+  "freq": 5
+ },
+ {
+  "en": "Ettercap",
+  "zh": "伊特怪",
+  "freq": 5
+ },
+ {
+  "en": "*Hum.*",
+  "zh": "*嗡嗡。*",
+  "freq": 5
+ },
+ {
+  "en": "Excellent.",
+  "zh": "太棒了。",
+  "freq": 5
+ },
+ {
+  "en": "Feather Fall",
+  "zh": "羽落术",
+  "freq": 5
+ },
+ {
+  "en": "Minsc",
+  "zh": "明斯克",
+  "freq": 5
+ },
+ {
+  "en": "Wizard",
+  "zh": "法师",
+  "freq": 5
+ },
+ {
+  "en": "Skull",
+  "zh": "头骨",
+  "freq": 5
+ },
+ {
+  "en": "Coffin",
+  "zh": "棺材",
+  "freq": 5
+ },
+ {
+  "en": "Coins",
+  "zh": "钱币",
+  "freq": 5
+ },
+ {
+  "en": "Teal 1",
+  "zh": "青蓝 1",
+  "freq": 5
+ },
+ {
+  "en": "Pike",
+  "zh": "长矛",
+  "freq": 5
+ },
+ {
+  "en": "Battleaxe",
+  "zh": "战斧",
+  "freq": 5
+ },
+ {
+  "en": "Fruit",
+  "zh": "水果",
+  "freq": 5
+ },
+ {
+  "en": "Ascend",
+  "zh": "上升",
+  "freq": 5
+ },
+ {
+  "en": "Move",
+  "zh": "移动",
+  "freq": 5
+ },
+ {
+  "en": "I see.",
+  "zh": "原来如此。",
+  "freq": 5
+ },
+ {
+  "en": "If you must.",
+  "zh": "如果你坚持的话。",
+  "freq": 5
+ },
+ {
+  "en": "*Bark.*",
+  "zh": "*汪汪。*",
+  "freq": 5
+ },
+ {
+  "en": "Rapier",
+  "zh": "刺剑",
+  "freq": 5
+ },
+ {
+  "en": "Misty Escape",
+  "zh": "雾遁",
+  "freq": 5
+ },
+ {
+  "en": "Mystra",
+  "zh": "密斯特拉",
+  "freq": 5
+ },
+ {
+  "en": "Wooden Tub",
+  "zh": "木盆",
+  "freq": 5
+ },
+ {
+  "en": "Armour",
+  "zh": "护甲",
+  "freq": 5
+ },
+ {
+  "en": "Flail",
+  "zh": "链枷",
+  "freq": 5
+ },
+ {
+  "en": "Good night.",
+  "zh": "晚安。",
+  "freq": 4
+ },
+ {
+  "en": "Paladin",
+  "zh": "圣武士",
+  "freq": 4
+ },
+ {
+  "en": "Wall of Ice",
+  "zh": "冰墙术",
+  "freq": 4
+ },
+ {
+  "en": "Goblin Camp",
+  "zh": "地精营地",
+  "freq": 4
+ },
+ {
+  "en": "Load Game",
+  "zh": "载入游戏",
+  "freq": 4
+ },
+ {
+  "en": "Fighter",
+  "zh": "战士",
+  "freq": 4
+ },
+ {
+  "en": "Death Bloom",
+  "zh": "死亡绽放",
+  "freq": 4
+ },
+ {
+  "en": "*Snarl!*",
+  "zh": "*咆哮！*",
+  "freq": 4
+ },
+ {
+  "en": "Barrelstalk",
+  "zh": "桶菇",
+  "freq": 4
+ },
+ {
+  "en": "Rock Gnome",
+  "zh": "岩侏儒",
+  "freq": 4
+ },
+ {
+  "en": "Black 3",
+  "zh": "黑色 3",
+  "freq": 4
+ },
+ {
+  "en": "Peeress",
+  "zh": "优雅背头",
+  "freq": 4
+ },
+ {
+  "en": "Never!",
+  "zh": "绝对不可能！",
+  "freq": 4
+ },
+ {
+  "en": "Mummy",
+  "zh": "木乃伊",
+  "freq": 4
+ },
+ {
+  "en": "Passageway",
+  "zh": "通道",
+  "freq": 4
+ },
+ {
+  "en": "Shelves",
+  "zh": "架子",
+  "freq": 4
+ },
+ {
+  "en": "Guiding Bolt",
+  "zh": "曳光弹",
+  "freq": 4
+ },
+ {
+  "en": "Let's hop!",
+  "zh": "我们出发！",
+  "freq": 4
+ },
+ {
+  "en": "Robe",
+  "zh": "长袍",
+  "freq": 4
+ },
+ {
+  "en": "Pet him.",
+  "zh": "抚摸他。",
+  "freq": 4
+ },
+ {
+  "en": "Open Casket",
+  "zh": "打开的棺材",
+  "freq": 4
+ },
+ {
+  "en": "Plant",
+  "zh": "植物",
+  "freq": 4
+ },
+ {
+  "en": "Fist of Bane",
+  "zh": "灾祸之拳",
+  "freq": 4
+ },
+ {
+  "en": "Charmed",
+  "zh": "被魅惑",
+  "freq": 4
+ },
+ {
+  "en": "Haste Spores",
+  "zh": "加速孢子",
+  "freq": 4
+ },
+ {
+  "en": "Bakery Buns",
+  "zh": "面包圆髻",
+  "freq": 4
+ },
+ {
+  "en": "Wavelet",
+  "zh": "中分水波卷",
+  "freq": 4
+ },
+ {
+  "en": "After you.",
+  "zh": "你先请。",
+  "freq": 4
+ },
+ {
+  "en": "Camp",
+  "zh": "营地",
+  "freq": 4
+ },
+ {
+  "en": "Thief!",
+  "zh": "小偷！",
+  "freq": 4
+ },
+ {
+  "en": "Prison Key",
+  "zh": "监狱钥匙",
+  "freq": 4
+ },
+ {
+  "en": "I'm in.",
+  "zh": "我加入。",
+  "freq": 4
+ },
+ {
+  "en": "Longstrider",
+  "zh": "大步奔行",
+  "freq": 4
+ },
+ {
+  "en": "Ruin Curves",
+  "zh": "毁灭曲角",
+  "freq": 4
+ },
+ {
+  "en": "Heavy Armour",
+  "zh": "重甲",
+  "freq": 4
+ },
+ {
+  "en": "*Roar.*",
+  "zh": "*咆哮声。*",
+  "freq": 4
+ },
+ {
+  "en": "Gold Grafted",
+  "zh": "镶金角",
+  "freq": 4
+ },
+ {
+  "en": "LEAVE ME.",
+  "zh": "别管我。",
+  "freq": 4
+ },
+ {
+  "en": "Expertise",
+  "zh": "专精",
+  "freq": 4
+ },
+ {
+  "en": "Lucky",
+  "zh": "幸运",
+  "freq": 4
+ },
+ {
+  "en": "Moonshae Cap",
+  "zh": "月影短发",
+  "freq": 4
+ },
+ {
+  "en": "Luskan Plume",
+  "zh": "路斯坎高马尾",
+  "freq": 4
+ },
+ {
+  "en": "Lanceboard",
+  "zh": "枪板棋",
+  "freq": 4
+ },
+ {
+  "en": "Stone Door",
+  "zh": "石门",
+  "freq": 4
+ },
+ {
+  "en": "To arms!",
+  "zh": "准备战斗！",
+  "freq": 4
+ },
+ {
+  "en": "True Strike",
+  "zh": "克敌机先",
+  "freq": 4
+ },
+ {
+  "en": "Giant",
+  "zh": "巨人",
+  "freq": 4
+ },
+ {
+  "en": "Web",
+  "zh": "蛛网",
+  "freq": 4
+ },
+ {
+  "en": "Dewdrop",
+  "zh": "编发垂马尾",
+  "freq": 4
+ },
+ {
+  "en": "DIE.",
+  "zh": "去死！",
+  "freq": 4
+ },
+ {
+  "en": "Orcscrews",
+  "zh": "兽人小卷",
+  "freq": 4
+ },
+ {
+  "en": "Pull",
+  "zh": "拉",
+  "freq": 4
+ },
+ {
+  "en": "Very well...",
+  "zh": "好吧...",
+  "freq": 4
+ },
+ {
+  "en": "Interesting.",
+  "zh": "有意思。",
+  "freq": 4
+ },
+ {
+  "en": "Teal 3",
+  "zh": "青蓝 3",
+  "freq": 4
+ },
+ {
+  "en": "Long Rest",
+  "zh": "长休",
+  "freq": 4
+ },
+ {
+  "en": "Pounce",
+  "zh": "猛扑",
+  "freq": 4
+ },
+ {
+  "en": "Frostbite",
+  "zh": "霜噬",
+  "freq": 4
+ },
+ {
+  "en": "Highlights",
+  "zh": "高亮角色",
+  "freq": 4
+ },
+ {
+  "en": "Aw.",
+  "zh": "唉。",
+  "freq": 4
+ },
+ {
+  "en": "Toy Block",
+  "zh": "积木",
+  "freq": 4
+ },
+ {
+  "en": "Grey 4",
+  "zh": "灰色4",
+  "freq": 4
+ },
+ {
+  "en": "Outfit",
+  "zh": "服装",
+  "freq": 4
+ },
+ {
+  "en": "Hide",
+  "zh": "躲藏",
+  "freq": 4
+ },
+ {
+  "en": "Loose Plank",
+  "zh": "松动木板",
+  "freq": 4
+ },
+ {
+  "en": "Lute",
+  "zh": "鲁特琴",
+  "freq": 4
+ },
+ {
+  "en": "Quarterstaff",
+  "zh": "长棍",
+  "freq": 4
+ },
+ {
+  "en": "Shoot",
+  "zh": "射击",
+  "freq": 4
+ },
+ {
+  "en": "On",
+  "zh": "开",
+  "freq": 4
+ },
+ {
+  "en": "You called?",
+  "zh": "你叫我？",
+  "freq": 4
+ },
+ {
+  "en": "Thulla",
+  "zh": "飒拉",
+  "freq": 4
+ },
+ {
+  "en": "Duster",
+  "zh": "蓬松短马尾",
+  "freq": 4
+ },
+ {
+  "en": "Cambion",
+  "zh": "坎比翁",
+  "freq": 4
+ },
+ {
+  "en": "Handaxe",
+  "zh": "手斧",
+  "freq": 4
+ },
+ {
+  "en": "Sigil",
+  "zh": "印记",
+  "freq": 4
+ },
+ {
+  "en": "Pod",
+  "zh": "贮囊",
+  "freq": 4
+ },
+ {
+  "en": "Saving Throw",
+  "zh": "豁免检定",
+  "freq": 4
+ },
+ {
+  "en": "*HNR!*",
+  "zh": "*哈！*",
+  "freq": 4
+ },
+ {
+  "en": "Wisdom",
+  "zh": "感知",
+  "freq": 4
+ },
+ {
+  "en": "Drider",
+  "zh": "蛛化精灵",
+  "freq": 4
+ },
+ {
+  "en": "*GRR!*",
+  "zh": "*低吼！*",
+  "freq": 4
+ },
+ {
+  "en": "*Huff.*",
+  "zh": "*发怒。*",
+  "freq": 4
+ },
+ {
+  "en": "Cleric",
+  "zh": "牧师",
+  "freq": 4
+ },
+ {
+  "en": "Race",
+  "zh": "种族",
+  "freq": 4
+ },
+ {
+  "en": "Consume",
+  "zh": "消耗",
+  "freq": 4
+ },
+ {
+  "en": "Level Up",
+  "zh": "等级提升",
+  "freq": 4
+ },
+ {
+  "en": "Rotten Fish",
+  "zh": "腐烂的鱼",
+  "freq": 4
+ },
+ {
+  "en": "Wildcat",
+  "zh": "狂野小卷",
+  "freq": 4
+ },
+ {
+  "en": "Speak.",
+  "zh": "说吧。",
+  "freq": 4
+ },
+ {
+  "en": "Container",
+  "zh": "容器",
+  "freq": 4
+ },
+ {
+  "en": "Coast",
+  "zh": "海湾",
+  "freq": 4
+ },
+ {
+  "en": "Dummy",
+  "zh": "假人",
+  "freq": 4
+ },
+ {
+  "en": "Spider",
+  "zh": "蜘蛛",
+  "freq": 4
+ },
+ {
+  "en": "Claws",
+  "zh": "爪击",
+  "freq": 4
+ },
+ {
+  "en": "Worthless.",
+  "zh": "毫无价值。",
+  "freq": 4
+ },
+ {
+  "en": "Jatlo",
+  "zh": "杰特洛",
+  "freq": 4
+ },
+ {
+  "en": "Enchantment",
+  "zh": "惑控学派",
+  "freq": 4
+ },
+ {
+  "en": "Rope Netting",
+  "zh": "绳网",
+  "freq": 4
+ },
+ {
+  "en": "Disguised",
+  "zh": "伪装",
+  "freq": 4
+ },
+ {
+  "en": "As do I.",
+  "zh": "我也一样。",
+  "freq": 4
+ },
+ {
+  "en": "*MOO!*",
+  "zh": "*哞！*",
+  "freq": 4
+ },
+ {
+  "en": "Stand aside.",
+  "zh": "闪开。",
+  "freq": 4
+ },
+ {
+  "en": "Woof.",
+  "zh": "汪汪。",
+  "freq": 4
+ },
+ {
+  "en": "Mm.",
+  "zh": "嗯。",
+  "freq": 4
+ },
+ {
+  "en": "Dusty Book",
+  "zh": "灰扑扑的书",
+  "freq": 4
+ },
+ {
+  "en": "*Mew!*",
+  "zh": "*喵！*",
+  "freq": 4
+ },
+ {
+  "en": "Lid",
+  "zh": "盖子",
+  "freq": 4
+ },
+ {
+  "en": "Counterspell",
+  "zh": "法术反制",
+  "freq": 4
+ },
+ {
+  "en": "*Squeak?*",
+  "zh": "*吱吱？*",
+  "freq": 4
+ },
+ {
+  "en": "Deva",
+  "zh": "使徒",
+  "freq": 4
+ },
+ {
+  "en": "*HRR!*",
+  "zh": "*咕！*",
+  "freq": 4
+ },
+ {
+  "en": "Wyll? Wyll!",
+  "zh": "威尔？威尔！",
+  "freq": 4
+ },
+ {
+  "en": "Journal",
+  "zh": "日志",
+  "freq": 4
+ },
+ {
+  "en": "End the Day",
+  "zh": "结束一天",
+  "freq": 4
+ },
+ {
+  "en": "*Huff!*",
+  "zh": "*呼！*",
+  "freq": 4
+ },
+ {
+  "en": "Knife Honed",
+  "zh": "干练短波波",
+  "freq": 4
+ },
+ {
+  "en": "Ramhorns",
+  "zh": "公羊角",
+  "freq": 4
+ },
+ {
+  "en": "Goodberry",
+  "zh": "神莓术",
+  "freq": 4
+ },
+ {
+  "en": "Bonus Action",
+  "zh": "附赠行动",
+  "freq": 4
+ },
+ {
+  "en": "Pot Lid",
+  "zh": "盖子",
+  "freq": 4
+ },
+ {
+  "en": "Dexterity",
+  "zh": "敏捷",
+  "freq": 4
+ },
+ {
+  "en": "Flame Blade",
+  "zh": "火焰刀",
+  "freq": 4
+ },
+ {
+  "en": "Mountain",
+  "zh": "山岳",
+  "freq": 4
+ },
+ {
+  "en": "*Groan.*",
+  "zh": "*咕哝。*",
+  "freq": 4
+ },
+ {
+  "en": "Yellow 6",
+  "zh": "黄色6",
+  "freq": 4
+ },
+ {
+  "en": "Braced Gate",
+  "zh": "加固门",
+  "freq": 4
+ },
+ {
+  "en": "Rolan",
+  "zh": "罗兰",
+  "freq": 4
+ },
+ {
+  "en": "Bonbons",
+  "zh": "圆鬓内卷发",
+  "freq": 4
+ },
+ {
+  "en": "So do I.",
+  "zh": "我也是。",
+  "freq": 4
+ },
+ {
+  "en": "I'm ready.",
+  "zh": "我准备好了。",
+  "freq": 4
+ },
+ {
+  "en": "Shhk!",
+  "zh": "嘘！",
+  "freq": 4
+ },
+ {
+  "en": "No joy.",
+  "zh": "不好玩。",
+  "freq": 4
+ },
+ {
+  "en": "Grassland",
+  "zh": "草原",
+  "freq": 4
+ },
+ {
+  "en": "*Gurgle.*",
+  "zh": "*咕哝。*",
+  "freq": 4
+ },
+ {
+  "en": "As am I.",
+  "zh": "我也一样。",
+  "freq": 4
+ },
+ {
+  "en": "Weavemoss",
+  "zh": "编织苔藓",
+  "freq": 4
+ },
+ {
+  "en": "Strength",
+  "zh": "力量",
+  "freq": 4
+ },
+ {
+  "en": "Mythmaker",
+  "zh": "神话创造者",
+  "freq": 4
+ },
+ {
+  "en": "Brain Stem",
+  "zh": "脑干",
+  "freq": 4
+ },
+ {
+  "en": "Bulky Door",
+  "zh": "笨重大门",
+  "freq": 4
+ },
+ {
+  "en": "*Riaow!*",
+  "zh": "*喵呜！*",
+  "freq": 4
+ },
+ {
+  "en": "Slayer",
+  "zh": "杀戮者",
+  "freq": 4
+ },
+ {
+  "en": "Courtesan",
+  "zh": "交际花",
+  "freq": 4
+ },
+ {
+  "en": "Red Dragon",
+  "zh": "红龙",
+  "freq": 4
+ },
+ {
+  "en": "Orange 6",
+  "zh": "橙色6",
+  "freq": 4
+ },
+ {
+  "en": "Spectator",
+  "zh": "观察者眼魔",
+  "freq": 4
+ },
+ {
+  "en": "The Lodge",
+  "zh": "会馆",
+  "freq": 4
+ },
+ {
+  "en": "Keep safe.",
+  "zh": "注意安全。",
+  "freq": 4
+ },
+ {
+  "en": "*Skitter.*",
+  "zh": "*嘶嘶。*",
+  "freq": 4
+ },
+ {
+  "en": "Prey's Scent",
+  "zh": "猎物气息",
+  "freq": 4
+ },
+ {
+  "en": "Bedroll",
+  "zh": "睡袋",
+  "freq": 4
+ },
+ {
+  "en": "Crystal Vase",
+  "zh": "水晶瓶",
+  "freq": 4
+ },
+ {
+  "en": "Nope.",
+  "zh": "没门。",
+  "freq": 4
+ },
+ {
+  "en": "Teal 2",
+  "zh": "青蓝 2",
+  "freq": 4
+ },
+ {
+  "en": "Ground",
+  "zh": "地面",
+  "freq": 4
+ },
+ {
+  "en": "Dis Coils",
+  "zh": "迪斯卷角",
+  "freq": 4
+ },
+ {
+  "en": "Potions",
+  "zh": "药水",
+  "freq": 4
+ },
+ {
+  "en": "Gorgon",
+  "zh": "齐肩蛇形发",
+  "freq": 4
+ },
+ {
+  "en": "Cloudkill",
+  "zh": "死云术",
+  "freq": 4
+ },
+ {
+  "en": "Ghost",
+  "zh": "幽魂",
+  "freq": 4
+ },
+ {
+  "en": "Ingredients",
+  "zh": "配方材料",
+  "freq": 4
+ },
+ {
+  "en": "Eyrie Peak",
+  "zh": "凌乱长背头",
+  "freq": 4
+ },
+ {
+  "en": "Watchman",
+  "zh": "卫兵",
+  "freq": 4
+ },
+ {
+  "en": "Backdraft",
+  "zh": "反冲",
+  "freq": 4
+ },
+ {
+  "en": "Vault Door",
+  "zh": "地库大门",
+  "freq": 4
+ },
+ {
+  "en": "Drake Fangs",
+  "zh": "龙牙角",
+  "freq": 4
+ },
+ {
+  "en": "Background",
+  "zh": "背景",
+  "freq": 4
+ },
+ {
+  "en": "Sleet Storm",
+  "zh": "雪雨暴",
+  "freq": 4
+ },
+ {
+  "en": "*Yap.*",
+  "zh": "*狂吠！*",
+  "freq": 4
+ },
+ {
+  "en": "Parry",
+  "zh": "招架",
+  "freq": 4
+ },
+ {
+  "en": "Stand down!",
+  "zh": "退下！",
+  "freq": 4
+ },
+ {
+  "en": "Excellent!",
+  "zh": "很好！",
+  "freq": 4
+ },
+ {
+  "en": "Kiss him.",
+  "zh": "亲吻他。",
+  "freq": 4
+ },
+ {
+  "en": "Forest Gnome",
+  "zh": "森林侏儒",
+  "freq": 4
+ },
+ {
+  "en": "*Clack!*",
+  "zh": "*咔！*",
+  "freq": 4
+ },
+ {
+  "en": "Gnoll",
+  "zh": "豺狼人",
+  "freq": 4
+ },
+ {
+  "en": "Slings",
+  "zh": "投石索",
+  "freq": 4
+ },
+ {
+  "en": "Kwahom",
+  "zh": "逆转莫西干",
+  "freq": 4
+ },
+ {
+  "en": "Cania Lances",
+  "zh": "卡尼亚长角",
+  "freq": 4
+ },
+ {
+  "en": "Black 4",
+  "zh": "黑色 4",
+  "freq": 4
+ },
+ {
+  "en": "False Life",
+  "zh": "虚假生命",
+  "freq": 4
+ },
+ {
+  "en": "Orin",
+  "zh": "奥林",
+  "freq": 4
+ },
+ {
+  "en": "Divination",
+  "zh": "预言学派",
+  "freq": 4
+ },
+ {
+  "en": "Quality",
+  "zh": "品质",
+  "freq": 4
+ },
+ {
+  "en": "Mimic",
+  "zh": "拟形怪",
+  "freq": 4
+ },
+ {
+  "en": "Animate Dead",
+  "zh": "操纵死尸",
+  "freq": 4
+ },
+ {
+  "en": "Desert",
+  "zh": "沙漠",
+  "freq": 4
+ },
+ {
+  "en": "Cracked Wall",
+  "zh": "裂开的墙壁",
+  "freq": 4
+ },
+ {
+  "en": "Dais",
+  "zh": "讲台",
+  "freq": 4
+ },
+ {
+  "en": "What?!",
+  "zh": "什么？！",
+  "freq": 4
+ },
+ {
+  "en": "Divine Smite",
+  "zh": "至圣斩",
+  "freq": 4
+ },
+ {
+  "en": "Savant",
+  "zh": "专家学者",
+  "freq": 4
+ },
+ {
+  "en": "Party View",
+  "zh": "队伍详情",
+  "freq": 4
+ },
+ {
+  "en": "Hornless",
+  "zh": "无角",
+  "freq": 4
+ },
+ {
+  "en": "Sure.",
+  "zh": "当然。",
+  "freq": 4
+ },
+ {
+  "en": "Won't budge.",
+  "zh": "纹丝不动。",
+  "freq": 4
+ },
+ {
+  "en": "Gold 1",
+  "zh": "黄金1",
+  "freq": 4
+ },
+ {
+  "en": "Necromancy",
+  "zh": "死灵学派",
+  "freq": 4
+ },
+ {
+  "en": "Canopic Jar",
+  "zh": "骨灰罐",
+  "freq": 4
+ },
+ {
+  "en": "Examine",
+  "zh": "调查",
+  "freq": 4
+ },
+ {
+  "en": "Companions",
+  "zh": "伙伴",
+  "freq": 4
+ },
+ {
+  "en": "Alfira",
+  "zh": "阿尔菲拉",
+  "freq": 4
+ },
+ {
+  "en": "Low",
+  "zh": "低",
+  "freq": 4
+ },
+ {
+  "en": "Broken Box",
+  "zh": "破盒子",
+  "freq": 4
+ },
+ {
+  "en": "Invisibility",
+  "zh": "隐形术",
+  "freq": 4
+ },
+ {
+  "en": "Huh?",
+  "zh": "啊？",
+  "freq": 4
+ },
+ {
+  "en": "Enough!",
+  "zh": "够了！",
+  "freq": 4
+ },
+ {
+  "en": "Oil of Bane",
+  "zh": "灾祸油",
+  "freq": 4
+ },
+ {
+  "en": "Gold 2",
+  "zh": "金色 2",
+  "freq": 4
+ },
+ {
+  "en": "Eek!",
+  "zh": "呀！",
+  "freq": 4
+ },
+ {
+  "en": "Type",
+  "zh": "类别",
+  "freq": 4
+ },
+ {
+  "en": "Main Menu",
+  "zh": "主菜单",
+  "freq": 4
+ },
+ {
+  "en": "Sorry.",
+  "zh": "抱歉。",
+  "freq": 4
+ },
+ {
+  "en": "Burrow",
+  "zh": "地洞",
+  "freq": 4
+ },
+ {
+  "en": "Exploration",
+  "zh": "探索",
+  "freq": 4
+ },
+ {
+  "en": "Shadow Blade",
+  "zh": "破影利刃",
+  "freq": 4
+ },
+ {
+  "en": "Heh.",
+  "zh": "哈。",
+  "freq": 4
+ },
+ {
+  "en": "Witch Bolt",
+  "zh": "巫术箭",
+  "freq": 4
+ },
+ {
+  "en": "Djinni",
+  "zh": "气巨灵",
+  "freq": 4
+ },
+ {
+  "en": "Public",
+  "zh": "公开",
+  "freq": 4
+ },
+ {
+  "en": "No - urgh!",
+  "zh": "不 —— 啊！",
+  "freq": 4
+ },
+ {
+  "en": "*ROAR.*",
+  "zh": "*吼。*",
+  "freq": 4
+ },
+ {
+  "en": "Nightsong",
+  "zh": "暗夜之歌",
+  "freq": 4
+ },
+ {
+  "en": "Daggerpeaks",
+  "zh": "匕尖角",
+  "freq": 4
+ },
+ {
+  "en": "Wild Shape",
+  "zh": "荒野形态",
+  "freq": 4
+ },
+ {
+  "en": "Sloop",
+  "zh": "单桅帆船",
+  "freq": 4
+ },
+ {
+  "en": "Warding Bond",
+  "zh": "守护之链",
+  "freq": 4
+ },
+ {
+  "en": "Photo Mode",
+  "zh": "拍照模式",
+  "freq": 4
+ },
+ {
+  "en": "Mage Armour",
+  "zh": "魔法护甲",
+  "freq": 4
+ },
+ {
+  "en": "Arctic",
+  "zh": "极地",
+  "freq": 4
+ },
+ {
+  "en": "Confirm",
+  "zh": "确认",
+  "freq": 4
+ },
+ {
+  "en": "Cage Trap",
+  "zh": "诱捕笼",
+  "freq": 4
+ },
+ {
+  "en": "Dammon",
+  "zh": "戴摩",
+  "freq": 4
+ },
+ {
+  "en": "Construct",
+  "zh": "构装生物",
+  "freq": 4
+ },
+ {
+  "en": "Cave Mouth",
+  "zh": "洞口",
+  "freq": 4
+ },
+ {
+  "en": "LIAR!",
+  "zh": "骗子！",
+  "freq": 4
+ },
+ {
+  "en": "Teal 4",
+  "zh": "青蓝 4",
+  "freq": 4
+ },
+ {
+  "en": "Dead Chicken",
+  "zh": "死鸡",
+  "freq": 4
+ },
+ {
+  "en": "Daggers",
+  "zh": "匕首",
+  "freq": 4
+ },
+ {
+  "en": "Origin",
+  "zh": "出身",
+  "freq": 4
+ },
+ {
+  "en": "Goal!",
+  "zh": "得分！",
+  "freq": 4
+ },
+ {
+  "en": "Difficulty",
+  "zh": "难度",
+  "freq": 4
+ },
+ {
+  "en": "Swamp",
+  "zh": "沼泽",
+  "freq": 4
+ },
+ {
+  "en": "[Panting]",
+  "zh": "[气喘吁吁]",
+  "freq": 4
+ },
+ {
+  "en": "Shar",
+  "zh": "莎尔",
+  "freq": 4
+ },
+ {
+  "en": "Stone Disc",
+  "zh": "石盘",
+  "freq": 4
+ },
+ {
+  "en": "Shield Dwarf",
+  "zh": "盾矮人",
+  "freq": 4
+ },
+ {
+  "en": "Conjuration",
+  "zh": "咒法学派",
+  "freq": 4
+ },
+ {
+  "en": "Druid",
+  "zh": "德鲁伊",
+  "freq": 4
+ },
+ {
+  "en": "Poison",
+  "zh": "毒素",
+  "freq": 4
+ },
+ {
+  "en": "Amulet",
+  "zh": "护符",
+  "freq": 4
+ },
+ {
+  "en": "Willow Tears",
+  "zh": "微卷披肩发",
+  "freq": 4
+ },
+ {
+  "en": "Portcullis",
+  "zh": "铁闸门",
+  "freq": 4
+ },
+ {
+  "en": "Wood Elf",
+  "zh": "木精灵",
+  "freq": 4
+ },
+ {
+  "en": "Letter",
+  "zh": "信件",
+  "freq": 4
+ },
+ {
+  "en": "Elysium Fan",
+  "zh": "极乐境信徒",
+  "freq": 4
+ },
+ {
+  "en": "Corpse",
+  "zh": "尸体",
+  "freq": 4
+ },
+ {
+  "en": "Bat",
+  "zh": "蝙蝠",
+  "freq": 4
+ },
+ {
+  "en": "Bottle Racks",
+  "zh": "瓶架",
+  "freq": 4
+ },
+ {
+  "en": "Arcane Shot",
+  "zh": "奥术射击",
+  "freq": 4
+ },
+ {
+  "en": "Spears",
+  "zh": "短矛",
+  "freq": 4
+ },
+ {
+  "en": "Conqueror",
+  "zh": "征服者",
+  "freq": 4
+ },
+ {
+  "en": "*RIAOW!*",
+  "zh": "*喵！*",
+  "freq": 4
+ },
+ {
+  "en": "I swear.",
+  "zh": "我发誓。",
+  "freq": 4
+ },
+ {
+  "en": "Helmet",
+  "zh": "头盔",
+  "freq": 4
+ },
+ {
+  "en": "Silver Plate",
+  "zh": "银盘",
+  "freq": 4
+ },
+ {
+  "en": "Exhausted",
+  "zh": "力竭",
+  "freq": 4
+ },
+ {
+  "en": "Ranger",
+  "zh": "游侠",
+  "freq": 4
+ },
+ {
+  "en": "Maybe.",
+  "zh": "也许吧。",
+  "freq": 4
+ },
+ {
+  "en": "Gold Ring",
+  "zh": "金戒指",
+  "freq": 4
+ },
+ {
+  "en": "Downed",
+  "zh": "倒地",
+  "freq": 4
+ },
+ {
+  "en": "Kuo-Toa",
+  "zh": "寇涛鱼人",
+  "freq": 4
+ },
+ {
+  "en": "Pedestal",
+  "zh": "基架",
+  "freq": 4
+ },
+ {
+  "en": "Gortash",
+  "zh": "戈塔什",
+  "freq": 4
+ },
+ {
+  "en": "Cheers.",
+  "zh": "干杯。",
+  "freq": 4
+ },
+ {
+  "en": "Elemental",
+  "zh": "元素生物",
+  "freq": 4
+ },
+ {
+  "en": "Attack",
+  "zh": "攻击",
+  "freq": 4
+ },
+ {
+  "en": "Bhaal Temple",
+  "zh": "巴尔神殿",
+  "freq": 4
+ },
+ {
+  "en": "Milk Can",
+  "zh": "牛奶罐",
+  "freq": 4
+ },
+ {
+  "en": "Healing",
+  "zh": "治疗",
+  "freq": 4
+ },
+ {
+  "en": "Black 5",
+  "zh": "黑色 5",
+  "freq": 4
+ },
+ {
+  "en": "Ladder",
+  "zh": "爬梯",
+  "freq": 4
+ },
+ {
+  "en": "Grey 3",
+  "zh": "灰色3",
+  "freq": 4
+ },
+ {
+  "en": "Boo",
+  "zh": "小布",
+  "freq": 4
+ },
+ {
+  "en": "Illusion",
+  "zh": "幻术学派",
+  "freq": 4
+ },
+ {
+  "en": "Good-bye.",
+  "zh": "拜拜。",
+  "freq": 4
+ },
+ {
+  "en": "Inspiration",
+  "zh": "激励",
+  "freq": 4
+ },
+ {
+  "en": "Colour Spray",
+  "zh": "七彩喷射",
+  "freq": 4
+ },
+ {
+  "en": "Gold Dwarf",
+  "zh": "黄金矮人",
+  "freq": 4
+ },
+ {
+  "en": "I'm sure.",
+  "zh": "我很确定。",
+  "freq": 4
+ },
+ {
+  "en": "Move along.",
+  "zh": "向前走。",
+  "freq": 4
+ },
+ {
+  "en": "High",
+  "zh": "高",
+  "freq": 4
+ },
+ {
+  "en": "Fire",
+  "zh": "火焰",
+  "freq": 4
+ },
+ {
+  "en": "Turret",
+  "zh": "炮塔",
+  "freq": 4
+ },
+ {
+  "en": "Burlap Sacks",
+  "zh": "粗麻袋",
+  "freq": 4
+ },
+ {
+  "en": "*Yawn.*",
+  "zh": "*打哈欠。*",
+  "freq": 4
+ },
+ {
+  "en": "Antidote",
+  "zh": "抗毒剂",
+  "freq": 4
+ },
+ {
+  "en": "*Hnr!*",
+  "zh": "*哼!*",
+  "freq": 4
+ },
+ {
+  "en": "Shillelagh",
+  "zh": "橡棍术",
+  "freq": 4
+ },
+ {
+  "en": "Ah!",
+  "zh": "啊！",
+  "freq": 4
+ },
+ {
+  "en": "Careful!",
+  "zh": "小心点！",
+  "freq": 4
+ },
+ {
+  "en": "*Shriek!*",
+  "zh": "*唧唧！*",
+  "freq": 4
+ },
+ {
+  "en": "Sorcha Curls",
+  "zh": "大卷短马尾",
+  "freq": 4
+ },
+ {
+  "en": "Helm",
+  "zh": "海姆",
+  "freq": 4
+ },
+ {
+  "en": "Doors",
+  "zh": "门",
+  "freq": 3
+ },
+ {
+  "en": "Hit Points",
+  "zh": "生命值",
+  "freq": 3
+ },
+ {
+  "en": "Bird",
+  "zh": "鸟",
+  "freq": 3
+ },
+ {
+  "en": "Campaign",
+  "zh": "战役",
+  "freq": 3
+ },
+ {
+  "en": "Soon.",
+  "zh": "很快。",
+  "freq": 3
+ },
+ {
+  "en": "Newspapers",
+  "zh": "报纸",
+  "freq": 3
+ },
+ {
+  "en": "Oghma",
+  "zh": "欧格玛",
+  "freq": 3
+ },
+ {
+  "en": "Brass 1",
+  "zh": "黄铜1",
+  "freq": 3
+ },
+ {
+  "en": "Bowl",
+  "zh": "碗",
+  "freq": 3
+ },
+ {
+  "en": "All",
+  "zh": "全部",
+  "freq": 3
+ },
+ {
+  "en": "*Eek!*",
+  "zh": "*噫！*",
+  "freq": 3
+ },
+ {
+  "en": "Find Zorru.",
+  "zh": "寻找苏洛。",
+  "freq": 3
+ },
+ {
+  "en": "Who is that?",
+  "zh": "那是谁？",
+  "freq": 3
+ },
+ {
+  "en": "Viscid Tank",
+  "zh": "粘液槽",
+  "freq": 3
+ },
+ {
+  "en": "Selûne",
+  "zh": "塞伦涅",
+  "freq": 3
+ },
+ {
+  "en": "Scrolls",
+  "zh": "卷轴",
+  "freq": 3
+ },
+ {
+  "en": "Ashes",
+  "zh": "灰烬",
+  "freq": 3
+ },
+ {
+  "en": "Come here...",
+  "zh": "到这里来...",
+  "freq": 3
+ },
+ {
+  "en": "Nature",
+  "zh": "自然",
+  "freq": 3
+ },
+ {
+  "en": "Woof!",
+  "zh": "汪汪！",
+  "freq": 3
+ },
+ {
+  "en": "Vulnerable",
+  "zh": "易伤",
+  "freq": 3
+ },
+ {
+  "en": "Pipe down!",
+  "zh": "安静！",
+  "freq": 3
+ },
+ {
+  "en": "Dryad",
+  "zh": "树精编发",
+  "freq": 3
+ },
+ {
+  "en": "Chains",
+  "zh": "链条",
+  "freq": 3
+ },
+ {
+  "en": "Pleasure.",
+  "zh": "不客气。",
+  "freq": 3
+ },
+ {
+  "en": "Nvidia DLSS",
+  "zh": "深度学习超级采样",
+  "freq": 3
+ },
+ {
+  "en": "Yondalla",
+  "zh": "悠妲拉",
+  "freq": 3
+ },
+ {
+  "en": "Off Balance",
+  "zh": "失衡",
+  "freq": 3
+ },
+ {
+  "en": "Lightning",
+  "zh": "闪电",
+  "freq": 3
+ },
+ {
+  "en": "Cave-In",
+  "zh": "塌方",
+  "freq": 3
+ },
+ {
+  "en": "Condition",
+  "zh": "状态",
+  "freq": 3
+ },
+ {
+  "en": "But why?",
+  "zh": "但为什么呢？",
+  "freq": 3
+ },
+ {
+  "en": "Blink",
+  "zh": "闪现术",
+  "freq": 3
+ },
+ {
+  "en": "Executioner",
+  "zh": "处刑者",
+  "freq": 3
+ },
+ {
+  "en": "Cloud",
+  "zh": "云",
+  "freq": 3
+ },
+ {
+  "en": "Incredible.",
+  "zh": "难以置信。",
+  "freq": 3
+ },
+ {
+  "en": "Deep Rothé",
+  "zh": "地底洛斯兽",
+  "freq": 3
+ },
+ {
+  "en": "Loose Brick",
+  "zh": "松动砖块",
+  "freq": 3
+ },
+ {
+  "en": "Red",
+  "zh": "红色",
+  "freq": 3
+ },
+ {
+  "en": "Halt!",
+  "zh": "站住！",
+  "freq": 3
+ },
+ {
+  "en": "Devour",
+  "zh": "吞噬术",
+  "freq": 3
+ },
+ {
+  "en": "Afraid not.",
+  "zh": "恐怕不会。",
+  "freq": 3
+ },
+ {
+  "en": "AMAZING.",
+  "zh": "不可思议。",
+  "freq": 3
+ },
+ {
+  "en": "Grey Teal 4",
+  "zh": "灰青色4",
+  "freq": 3
+ },
+ {
+  "en": "Hmm?",
+  "zh": "嗯？",
+  "freq": 3
+ },
+ {
+  "en": "Avatar",
+  "zh": "头像",
+  "freq": 3
+ },
+ {
+  "en": "Disengage",
+  "zh": "撤离",
+  "freq": 3
+ },
+ {
+  "en": "Alchemy",
+  "zh": "炼金",
+  "freq": 3
+ },
+ {
+  "en": "Sound",
+  "zh": "声音",
+  "freq": 3
+ },
+ {
+  "en": "Pouch",
+  "zh": "小袋子",
+  "freq": 3
+ },
+ {
+  "en": "*Coo!*",
+  "zh": "*咕咕！*",
+  "freq": 3
+ },
+ {
+  "en": "Neutral",
+  "zh": "中立",
+  "freq": 3
+ },
+ {
+  "en": "Nest",
+  "zh": "巢穴",
+  "freq": 3
+ },
+ {
+  "en": "Corvus Major",
+  "zh": "乌鸦座",
+  "freq": 3
+ },
+ {
+  "en": "Damage",
+  "zh": "伤害",
+  "freq": 3
+ },
+ {
+  "en": "*NGHHHA!*",
+  "zh": "*嘎啊！*",
+  "freq": 3
+ },
+ {
+  "en": "Lae'zel, no!",
+  "zh": "莱埃泽尔，不要！",
+  "freq": 3
+ },
+ {
+  "en": "Dame Aylin",
+  "zh": "艾琳女士",
+  "freq": 3
+ },
+ {
+  "en": "Unconscious",
+  "zh": "昏迷",
+  "freq": 3
+ },
+ {
+  "en": "Reactions",
+  "zh": "反应",
+  "freq": 3
+ },
+ {
+  "en": "Voice 1",
+  "zh": "声音 1",
+  "freq": 3
+ },
+ {
+  "en": "Mural",
+  "zh": "壁画",
+  "freq": 3
+ },
+ {
+  "en": "Grey Teal 3",
+  "zh": "灰青色3",
+  "freq": 3
+ },
+ {
+  "en": "Plant Growth",
+  "zh": "植物滋长",
+  "freq": 3
+ },
+ {
+  "en": "Cute.",
+  "zh": "真可爱。",
+  "freq": 3
+ },
+ {
+  "en": "Deal?",
+  "zh": "成交。",
+  "freq": 3
+ },
+ {
+  "en": "Moonlantern",
+  "zh": "月亮提灯",
+  "freq": 3
+ },
+ {
+  "en": "Aye. Truce.",
+  "zh": "是啊。停战。",
+  "freq": 3
+ },
+ {
+  "en": "Stay back!",
+  "zh": "退下！",
+  "freq": 3
+ },
+ {
+  "en": "ARGH!!!!",
+  "zh": "啊啊啊啊啊！",
+  "freq": 3
+ },
+ {
+  "en": "Halberd +2",
+  "zh": "长戟 +2",
+  "freq": 3
+ },
+ {
+  "en": "Skip",
+  "zh": "跳过",
+  "freq": 3
+ },
+ {
+  "en": "Back off.",
+  "zh": "退后。",
+  "freq": 3
+ },
+ {
+  "en": "Grey Teal 2",
+  "zh": "灰青色2",
+  "freq": 3
+ },
+ {
+  "en": "Bonesaw",
+  "zh": "骨锯",
+  "freq": 3
+ },
+ {
+  "en": "Tapestry",
+  "zh": "挂毯",
+  "freq": 3
+ },
+ {
+  "en": "Jaw",
+  "zh": "下颌",
+  "freq": 3
+ },
+ {
+  "en": "Will O'Wisp",
+  "zh": "内扣披肩发",
+  "freq": 3
+ },
+ {
+  "en": "The Fiend",
+  "zh": "邪魔",
+  "freq": 3
+ },
+ {
+  "en": "Delete",
+  "zh": "删除",
+  "freq": 3
+ },
+ {
+  "en": "Hobgoblin",
+  "zh": "大地精",
+  "freq": 3
+ },
+ {
+  "en": "Charger",
+  "zh": "冲锋",
+  "freq": 3
+ },
+ {
+  "en": "Deity",
+  "zh": "神祇",
+  "freq": 3
+ },
+ {
+  "en": "*MEEP!*",
+  "zh": "*咩！*",
+  "freq": 3
+ },
+ {
+  "en": "Rocky",
+  "zh": "洛奇",
+  "freq": 3
+ },
+ {
+  "en": "Heads it is!",
+  "zh": "果然是正面！",
+  "freq": 3
+ },
+ {
+  "en": "Copper 2",
+  "zh": "铜色 2",
+  "freq": 3
+ },
+ {
+  "en": "It's a deal.",
+  "zh": "就这么说定了。",
+  "freq": 3
+ },
+ {
+  "en": "Wall of Fire",
+  "zh": "火墙术",
+  "freq": 3
+ },
+ {
+  "en": "Revivify",
+  "zh": "回生术",
+  "freq": 3
+ },
+ {
+  "en": "Identify",
+  "zh": "鉴定",
+  "freq": 3
+ },
+ {
+  "en": "Levitate",
+  "zh": "升空",
+  "freq": 3
+ },
+ {
+  "en": "Next",
+  "zh": "下一个",
+  "freq": 3
+ },
+ {
+  "en": "How?",
+  "zh": "这咋可能？",
+  "freq": 3
+ },
+ {
+  "en": "Wounding Ray",
+  "zh": "致伤射线",
+  "freq": 3
+ },
+ {
+  "en": "Red Apple",
+  "zh": "红苹果",
+  "freq": 3
+ },
+ {
+  "en": "Worg",
+  "zh": "座狼",
+  "freq": 3
+ },
+ {
+  "en": "Alioramus",
+  "zh": "分支龙",
+  "freq": 3
+ },
+ {
+  "en": "Over here!",
+  "zh": "在这里！",
+  "freq": 3
+ },
+ {
+  "en": "Enhance Leap",
+  "zh": "强化跳跃",
+  "freq": 3
+ },
+ {
+  "en": "Netherbrain",
+  "zh": "耐色脑",
+  "freq": 3
+ },
+ {
+  "en": "AHH!",
+  "zh": "啊啊啊！",
+  "freq": 3
+ },
+ {
+  "en": "Piano",
+  "zh": "钢琴",
+  "freq": 3
+ },
+ {
+  "en": "Sussur Bloom",
+  "zh": "轻语树花",
+  "freq": 3
+ },
+ {
+  "en": "Automaton",
+  "zh": "机器人",
+  "freq": 3
+ },
+ {
+  "en": "Later, then.",
+  "zh": "那就回头见。",
+  "freq": 3
+ },
+ {
+  "en": "The Hexblade",
+  "zh": "咒剑士",
+  "freq": 3
+ },
+ {
+  "en": "Sneaking",
+  "zh": "潜行",
+  "freq": 3
+ },
+ {
+  "en": "Shh! Listen.",
+  "zh": "嘘！听。",
+  "freq": 3
+ },
+ {
+  "en": "Bound",
+  "zh": "绑定",
+  "freq": 3
+ },
+ {
+  "en": "*BARK.*",
+  "zh": "*吠叫。*",
+  "freq": 3
+ },
+ {
+  "en": "Urchin",
+  "zh": "流浪儿",
+  "freq": 3
+ },
+ {
+  "en": "Poisoned",
+  "zh": "中毒",
+  "freq": 3
+ },
+ {
+  "en": "Hmmm.",
+  "zh": "嗯。",
+  "freq": 3
+ },
+ {
+  "en": "Ornate Door",
+  "zh": "华丽的门",
+  "freq": 3
+ },
+ {
+  "en": "Blue Jay",
+  "zh": "冠蓝鸦",
+  "freq": 3
+ },
+ {
+  "en": "Damn it all.",
+  "zh": "真该死。",
+  "freq": 3
+ },
+ {
+  "en": "Of course!",
+  "zh": "当然！",
+  "freq": 3
+ },
+ {
+  "en": "Tyr",
+  "zh": "提尔",
+  "freq": 3
+ },
+ {
+  "en": "Aura of Hate",
+  "zh": "仇恨灵光",
+  "freq": 3
+ },
+ {
+  "en": "Bite",
+  "zh": "啃咬",
+  "freq": 3
+ },
+ {
+  "en": "Soldier",
+  "zh": "士兵",
+  "freq": 3
+ },
+ {
+  "en": "Wings",
+  "zh": "翅膀",
+  "freq": 3
+ },
+ {
+  "en": "Impressive.",
+  "zh": "真了不起。",
+  "freq": 3
+ },
+ {
+  "en": "Rotation",
+  "zh": "旋转",
+  "freq": 3
+ },
+ {
+  "en": "Bloodlust",
+  "zh": "嗜血",
+  "freq": 3
+ },
+ {
+  "en": "Silence",
+  "zh": "沉默术",
+  "freq": 3
+ },
+ {
+  "en": "Arrows",
+  "zh": "箭",
+  "freq": 3
+ },
+ {
+  "en": "Coat weapon",
+  "zh": "武器涂层",
+  "freq": 3
+ },
+ {
+  "en": "Grey Warm 3",
+  "zh": "暖灰色3",
+  "freq": 3
+ },
+ {
+  "en": "Cellar Door",
+  "zh": "地窖门",
+  "freq": 3
+ },
+ {
+  "en": "Giant Eagle",
+  "zh": "巨鹰",
+  "freq": 3
+ },
+ {
+  "en": "Rampart Aura",
+  "zh": "防卫灵光",
+  "freq": 3
+ },
+ {
+  "en": "Bless",
+  "zh": "祝福术",
+  "freq": 3
+ },
+ {
+  "en": "Dog Collar",
+  "zh": "狗项圈",
+  "freq": 3
+ },
+ {
+  "en": "Please...",
+  "zh": "求你...",
+  "freq": 3
+ },
+ {
+  "en": "Finally.",
+  "zh": "终于。",
+  "freq": 3
+ },
+ {
+  "en": "Is that so?",
+  "zh": "是吗？",
+  "freq": 3
+ },
+ {
+  "en": "Well done.",
+  "zh": "做得好。",
+  "freq": 3
+ },
+ {
+  "en": "Shockwave",
+  "zh": "电能冲击",
+  "freq": 3
+ },
+ {
+  "en": "Aranea Major",
+  "zh": "毒蛛座",
+  "freq": 3
+ },
+ {
+  "en": "Immune",
+  "zh": "免疫",
+  "freq": 3
+ },
+ {
+  "en": "Crab",
+  "zh": "螃蟹",
+  "freq": 3
+ },
+ {
+  "en": "Sheet Music",
+  "zh": "乐谱",
+  "freq": 3
+ },
+ {
+  "en": "Railcart",
+  "zh": "轨道车",
+  "freq": 3
+ },
+ {
+  "en": "Vampire",
+  "zh": "吸血鬼",
+  "freq": 3
+ },
+ {
+  "en": "Bronze 3",
+  "zh": "青铜 3",
+  "freq": 3
+ },
+ {
+  "en": "Secure Area",
+  "zh": "警戒区",
+  "freq": 3
+ },
+ {
+  "en": "Tell me.",
+  "zh": "告诉我。",
+  "freq": 3
+ },
+ {
+  "en": "Blindness",
+  "zh": "失明术",
+  "freq": 3
+ },
+ {
+  "en": "*Caw!*",
+  "zh": "*嘎！*",
+  "freq": 3
+ },
+ {
+  "en": "Kobold",
+  "zh": "狗头人",
+  "freq": 3
+ },
+ {
+  "en": "Elder Brain",
+  "zh": "主脑",
+  "freq": 3
+ },
+ {
+  "en": "Entrance",
+  "zh": "入口",
+  "freq": 3
+ },
+ {
+  "en": "Error",
+  "zh": "错误",
+  "freq": 3
+ },
+ {
+  "en": "Loose Tile",
+  "zh": "松动砖块",
+  "freq": 3
+ },
+ {
+  "en": "Psychic",
+  "zh": "心灵",
+  "freq": 3
+ },
+ {
+  "en": "Engraved Key",
+  "zh": "雕花钥匙",
+  "freq": 3
+ },
+ {
+  "en": "Skull Lasher",
+  "zh": "骷髅鞭舞者",
+  "freq": 3
+ },
+ {
+  "en": "Sentinel",
+  "zh": "哨兵",
+  "freq": 3
+ },
+ {
+  "en": "Liar.",
+  "zh": "骗子。",
+  "freq": 3
+ },
+ {
+  "en": "Goblin Bow",
+  "zh": "地精弓",
+  "freq": 3
+ },
+ {
+  "en": "I trust you.",
+  "zh": "我相信你。",
+  "freq": 3
+ },
+ {
+  "en": "Zina",
+  "zh": "吉娜",
+  "freq": 3
+ },
+ {
+  "en": "Moradin",
+  "zh": "摩拉丁",
+  "freq": 3
+ },
+ {
+  "en": "Tymora",
+  "zh": "泰摩拉",
+  "freq": 3
+ },
+ {
+  "en": "Absolutist",
+  "zh": "至上真神的追随者",
+  "freq": 3
+ },
+ {
+  "en": "Broken Wall",
+  "zh": "破损的墙",
+  "freq": 3
+ },
+ {
+  "en": "What.",
+  "zh": "什么事。",
+  "freq": 3
+ },
+ {
+  "en": "*CLACK!*",
+  "zh": "*咔咔!*",
+  "freq": 3
+ },
+ {
+  "en": "Bench",
+  "zh": "长椅",
+  "freq": 3
+ },
+ {
+  "en": "*Grumble.*",
+  "zh": "*咕隆。*",
+  "freq": 3
+ },
+ {
+  "en": "Ahem.",
+  "zh": "呃哼。",
+  "freq": 3
+ },
+ {
+  "en": "Crucible",
+  "zh": "炉缸",
+  "freq": 3
+ },
+ {
+  "en": "Easel",
+  "zh": "画架",
+  "freq": 3
+ },
+ {
+  "en": "Possessed",
+  "zh": "被附身",
+  "freq": 3
+ },
+ {
+  "en": "Aasimar",
+  "zh": "阿斯莫",
+  "freq": 3
+ },
+ {
+  "en": "Slashing",
+  "zh": "挥砍",
+  "freq": 3
+ },
+ {
+  "en": "Jealous?",
+  "zh": "你嫉妒了？",
+  "freq": 3
+ },
+ {
+  "en": "Head 9",
+  "zh": "头型 9",
+  "freq": 3
+ },
+ {
+  "en": "Spells",
+  "zh": "法术",
+  "freq": 3
+ },
+ {
+  "en": "Thunder",
+  "zh": "雷鸣",
+  "freq": 3
+ },
+ {
+  "en": "*Chirrup!*",
+  "zh": "*吱吱！*",
+  "freq": 3
+ },
+ {
+  "en": "Silver 2",
+  "zh": "银色 2",
+  "freq": 3
+ },
+ {
+  "en": "Gold 3",
+  "zh": "金色 3",
+  "freq": 3
+ },
+ {
+  "en": "*Grrr.*",
+  "zh": "*低吼。*",
+  "freq": 3
+ },
+ {
+  "en": "*Yip.*",
+  "zh": "*呜呜。*",
+  "freq": 3
+ },
+ {
+  "en": "Darkness",
+  "zh": "黑暗",
+  "freq": 3
+ },
+ {
+  "en": "Sleeping",
+  "zh": "沉睡",
+  "freq": 3
+ },
+ {
+  "en": "Common",
+  "zh": "普通",
+  "freq": 3
+ },
+ {
+  "en": "Death Ward",
+  "zh": "防死结界",
+  "freq": 3
+ },
+ {
+  "en": "Stop that.",
+  "zh": "快停下！",
+  "freq": 3
+ },
+ {
+  "en": "Riposte",
+  "zh": "反击",
+  "freq": 3
+ },
+ {
+  "en": "Water Lock",
+  "zh": "水闸",
+  "freq": 3
+ },
+ {
+  "en": "Size",
+  "zh": "文件容量",
+  "freq": 3
+ },
+ {
+  "en": "Bring it on.",
+  "zh": "来吧。",
+  "freq": 3
+ },
+ {
+  "en": "Star Map",
+  "zh": "星图",
+  "freq": 3
+ },
+ {
+  "en": "Red Auburn 2",
+  "zh": "红赭色 2",
+  "freq": 3
+ },
+ {
+  "en": "Skill Check",
+  "zh": "技能检定",
+  "freq": 3
+ },
+ {
+  "en": "Prison Cage",
+  "zh": "囚笼",
+  "freq": 3
+ },
+ {
+  "en": "At ease.",
+  "zh": "放松一些。",
+  "freq": 3
+ },
+ {
+  "en": "Mortuary",
+  "zh": "停尸房",
+  "freq": 3
+ },
+ {
+  "en": "Grenades",
+  "zh": "手雷",
+  "freq": 3
+ },
+ {
+  "en": "Windswept",
+  "zh": "利落直发",
+  "freq": 3
+ },
+ {
+  "en": "Grey Teal 1",
+  "zh": "灰青色1",
+  "freq": 3
+ },
+ {
+  "en": "Abjuration",
+  "zh": "防护学派",
+  "freq": 3
+ },
+ {
+  "en": "'Freedom'",
+  "zh": "\"自由\"",
+  "freq": 3
+ },
+ {
+  "en": "Branch",
+  "zh": "树枝",
+  "freq": 3
+ },
+ {
+  "en": "Nym Orlith",
+  "zh": "尼姆·奥里斯",
+  "freq": 3
+ },
+ {
+  "en": "Enthralled",
+  "zh": "迷惑",
+  "freq": 3
+ },
+ {
+  "en": "Wraith",
+  "zh": "缚灵",
+  "freq": 3
+ },
+ {
+  "en": "Bulette",
+  "zh": "鲨蜥兽",
+  "freq": 3
+ },
+ {
+  "en": "Chef Roveer",
+  "zh": "大厨罗维尔",
+  "freq": 3
+ },
+ {
+  "en": "Copper 4",
+  "zh": "铜色 4",
+  "freq": 3
+ },
+ {
+  "en": "Cogs",
+  "zh": "齿轮",
+  "freq": 3
+ },
+ {
+  "en": "Green 7",
+  "zh": "绿色7",
+  "freq": 3
+ },
+ {
+  "en": "Intelligence",
+  "zh": "智力",
+  "freq": 3
+ },
+ {
+  "en": "Daylight",
+  "zh": "昼明术",
+  "freq": 3
+ },
+ {
+  "en": "Ngh!",
+  "zh": "哼！",
+  "freq": 3
+ },
+ {
+  "en": "Ooze",
+  "zh": "泥型怪物",
+  "freq": 3
+ },
+ {
+  "en": "*BRRRRG!*",
+  "zh": "*啵咕！*",
+  "freq": 3
+ },
+ {
+  "en": "Bend Luck",
+  "zh": "扭曲幸运",
+  "freq": 3
+ },
+ {
+  "en": "Light",
+  "zh": "光亮术",
+  "freq": 3
+ },
+ {
+  "en": "Invulnerable",
+  "zh": "无敌",
+  "freq": 3
+ },
+ {
+  "en": "Vault Key",
+  "zh": "保险库钥匙",
+  "freq": 3
+ },
+ {
+  "en": "Grey Warm 4",
+  "zh": "暖灰色4",
+  "freq": 3
+ },
+ {
+  "en": "Lorroakan",
+  "zh": "洛若坎",
+  "freq": 3
+ },
+ {
+  "en": "Lathander",
+  "zh": "洛山达",
+  "freq": 3
+ },
+ {
+  "en": "Yes, I did.",
+  "zh": "是的，没错。",
+  "freq": 3
+ },
+ {
+  "en": "Blue 7",
+  "zh": "蓝色7",
+  "freq": 3
+ },
+ {
+  "en": "Voice 2",
+  "zh": "声音 2",
+  "freq": 3
+ },
+ {
+  "en": "All right...",
+  "zh": "好吧...",
+  "freq": 3
+ },
+ {
+  "en": "Pretty.",
+  "zh": "很美。",
+  "freq": 3
+ },
+ {
+  "en": "Storm's Fury",
+  "zh": "风暴之怒",
+  "freq": 3
+ },
+ {
+  "en": "Disguise Kit",
+  "zh": "伪装工具箱",
+  "freq": 3
+ },
+ {
+  "en": "Grey Warm 2",
+  "zh": "暖灰色2",
+  "freq": 3
+ },
+ {
+  "en": "Ta!",
+  "zh": "再见！",
+  "freq": 3
+ },
+ {
+  "en": "Severed Foot",
+  "zh": "断脚",
+  "freq": 3
+ },
+ {
+  "en": "Myrkul",
+  "zh": "米尔寇",
+  "freq": 3
+ },
+ {
+  "en": "Bludgeoning",
+  "zh": "钝击",
+  "freq": 3
+ },
+ {
+  "en": "Glaives",
+  "zh": "长柄刀",
+  "freq": 3
+ },
+ {
+  "en": "Spike Trap",
+  "zh": "尖刺陷阱",
+  "freq": 3
+ },
+ {
+  "en": "Silver 1",
+  "zh": "白银1",
+  "freq": 3
+ },
+ {
+  "en": "Submersible",
+  "zh": "潜水器",
+  "freq": 3
+ },
+ {
+  "en": "Or is he?",
+  "zh": "或者，真是这样吗？",
+  "freq": 3
+ },
+ {
+  "en": "Tablet",
+  "zh": "石碑",
+  "freq": 3
+ },
+ {
+  "en": "Blinded",
+  "zh": "目盲",
+  "freq": 3
+ },
+ {
+  "en": "Subrace",
+  "zh": "亚种",
+  "freq": 3
+ },
+ {
+  "en": "Doppelganger",
+  "zh": "变形怪",
+  "freq": 3
+ },
+ {
+  "en": "Surprised",
+  "zh": "受惊",
+  "freq": 3
+ },
+ {
+  "en": "Spoilsport.",
+  "zh": "真扫兴。",
+  "freq": 3
+ },
+ {
+  "en": "Oh! Um. Hi?",
+  "zh": "哦！嗯。你好？",
+  "freq": 3
+ },
+ {
+  "en": "Force",
+  "zh": "力场",
+  "freq": 3
+ },
+ {
+  "en": "Or what?",
+  "zh": "不然怎么样？",
+  "freq": 3
+ },
+ {
+  "en": "Layered Lob",
+  "zh": "层次长波波头",
+  "freq": 3
+ },
+ {
+  "en": "Light Armour",
+  "zh": "轻甲",
+  "freq": 3
+ },
+ {
+  "en": "Magical Maul",
+  "zh": "魔法巨锤",
+  "freq": 3
+ },
+ {
+  "en": "Enwebbed",
+  "zh": "网缚",
+  "freq": 3
+ },
+ {
+  "en": "Gruumsh",
+  "zh": "格乌什",
+  "freq": 3
+ },
+ {
+  "en": "But -",
+  "zh": "但是  ——",
+  "freq": 3
+ },
+ {
+  "en": "Eat",
+  "zh": "进食",
+  "freq": 3
+ },
+ {
+  "en": "Soldier?",
+  "zh": "士兵？",
+  "freq": 3
+ },
+ {
+  "en": "Plum 2",
+  "zh": "紫红色 2",
+  "freq": 3
+ },
+ {
+  "en": "Balsam",
+  "zh": "凤仙花",
+  "freq": 3
+ },
+ {
+  "en": "As you say.",
+  "zh": "如你所说。",
+  "freq": 3
+ },
+ {
+  "en": "Brass 3",
+  "zh": "黄铜 3",
+  "freq": 3
+ },
+ {
+  "en": "Sebastian.",
+  "zh": "塞巴斯蒂安。",
+  "freq": 3
+ },
+ {
+  "en": "Fog Cloud",
+  "zh": "云雾术",
+  "freq": 3
+ },
+ {
+  "en": "Dusty 1",
+  "zh": "土褐色1",
+  "freq": 3
+ },
+ {
+  "en": "Szarr Palace",
+  "zh": "扎尔宅邸",
+  "freq": 3
+ },
+ {
+  "en": "Giant's Rage",
+  "zh": "巨人之怒",
+  "freq": 3
+ },
+ {
+  "en": "*Purr.*",
+  "zh": "*咕噜。*",
+  "freq": 3
+ },
+ {
+  "en": "Lupus Major",
+  "zh": "天狼座",
+  "freq": 3
+ },
+ {
+  "en": "Interact",
+  "zh": "互动",
+  "freq": 3
+ },
+ {
+  "en": "Tressym",
+  "zh": "翼猫",
+  "freq": 3
+ },
+ {
+  "en": "X",
+  "zh": "X轴",
+  "freq": 3
+ },
+ {
+  "en": "Beehive",
+  "zh": "蜂巢",
+  "freq": 3
+ },
+ {
+  "en": "She's dead.",
+  "zh": "她死了。",
+  "freq": 3
+ },
+ {
+  "en": "Flymm Cargo",
+  "zh": "弗莱姆货运",
+  "freq": 3
+ },
+ {
+  "en": "Shar's Sight",
+  "zh": "莎尔视界",
+  "freq": 3
+ },
+ {
+  "en": "Beast",
+  "zh": "野兽",
+  "freq": 3
+ },
+ {
+  "en": "Like what?",
+  "zh": "什么事？",
+  "freq": 3
+ },
+ {
+  "en": "Goblin",
+  "zh": "地精",
+  "freq": 3
+ },
+ {
+  "en": "Whetstone",
+  "zh": "磨石",
+  "freq": 3
+ },
+ {
+  "en": "Well chosen.",
+  "zh": "选的好。",
+  "freq": 3
+ },
+ {
+  "en": "Ray of Frost",
+  "zh": "冷冻射线",
+  "freq": 3
+ },
+ {
+  "en": "Trade",
+  "zh": "交易",
+  "freq": 3
+ },
+ {
+  "en": "Brass 4",
+  "zh": "黄铜 4",
+  "freq": 3
+ },
+ {
+  "en": "Shovel",
+  "zh": "小趴铲",
+  "freq": 3
+ },
+ {
+  "en": "Surface",
+  "zh": "地表",
+  "freq": 3
+ },
+ {
+  "en": "He Who Was",
+  "zh": "往日身影",
+  "freq": 3
+ },
+ {
+  "en": "Countercharm",
+  "zh": "反魅惑",
+  "freq": 3
+ },
+ {
+  "en": "*Chirp.*",
+  "zh": "*唧唧。*",
+  "freq": 3
+ },
+ {
+  "en": "Nightlight",
+  "zh": "夜灯",
+  "freq": 3
+ },
+ {
+  "en": "Selûne's Ire",
+  "zh": "塞伦涅之怒",
+  "freq": 3
+ },
+ {
+  "en": "*Rattle.*",
+  "zh": "*咔咔。*",
+  "freq": 3
+ },
+ {
+  "en": "Holy Font",
+  "zh": "圣水器",
+  "freq": 3
+ },
+ {
+  "en": "I think so.",
+  "zh": "我想是的。",
+  "freq": 3
+ },
+ {
+  "en": "Purple 7",
+  "zh": "紫色7",
+  "freq": 3
+ },
+ {
+  "en": "Tempus",
+  "zh": "坦帕斯",
+  "freq": 3
+ },
+ {
+  "en": "Garnet Ring",
+  "zh": "石榴石戒指",
+  "freq": 3
+ },
+ {
+  "en": "Copper 1",
+  "zh": "红铜1",
+  "freq": 3
+ },
+ {
+  "en": "Weapons",
+  "zh": "武器",
+  "freq": 3
+ },
+ {
+  "en": "Coal Bucket",
+  "zh": "煤桶",
+  "freq": 3
+ },
+ {
+  "en": "Waypoints",
+  "zh": "传送点",
+  "freq": 3
+ },
+ {
+  "en": "Slow",
+  "zh": "缓慢术",
+  "freq": 3
+ },
+ {
+  "en": "Hello.",
+  "zh": "你好。",
+  "freq": 3
+ },
+ {
+  "en": "Items",
+  "zh": "物品",
+  "freq": 3
+ },
+ {
+  "en": "Gordis",
+  "zh": "戈迪斯",
+  "freq": 3
+ },
+ {
+  "en": "Mol",
+  "zh": "摩尔",
+  "freq": 3
+ },
+ {
+  "en": "Nice.",
+  "zh": "漂亮。",
+  "freq": 3
+ },
+ {
+  "en": "Polymorphed",
+  "zh": "变形",
+  "freq": 3
+ },
+ {
+  "en": "Be careful!",
+  "zh": "小心啊！",
+  "freq": 3
+ },
+ {
+  "en": "Answer me!",
+  "zh": "回答我！",
+  "freq": 3
+ },
+ {
+  "en": "Guest",
+  "zh": "宾客",
+  "freq": 3
+ },
+ {
+  "en": "Evocation",
+  "zh": "塑能学派",
+  "freq": 3
+ },
+ {
+  "en": "We'll see.",
+  "zh": "我们等着瞧吧。",
+  "freq": 3
+ },
+ {
+  "en": "Prepared",
+  "zh": "准备就绪",
+  "freq": 3
+ },
+ {
+  "en": "Certainly.",
+  "zh": "当然。",
+  "freq": 3
+ },
+ {
+  "en": "Playing",
+  "zh": "玩耍",
+  "freq": 3
+ },
+ {
+  "en": "Phalar Aluve",
+  "zh": "生离死别",
+  "freq": 3
+ },
+ {
+  "en": "Weight",
+  "zh": "重量",
+  "freq": 3
+ },
+ {
+  "en": "Blight",
+  "zh": "枯萎术",
+  "freq": 3
+ },
+ {
+  "en": "Veteran Gish",
+  "zh": "历战熟手",
+  "freq": 3
+ },
+ {
+  "en": "Entangle",
+  "zh": "纠缠术",
+  "freq": 3
+ },
+ {
+  "en": "Merregon",
+  "zh": "军团魔",
+  "freq": 3
+ },
+ {
+  "en": "Lolth",
+  "zh": "罗丝",
+  "freq": 3
+ },
+ {
+  "en": "Ensnared",
+  "zh": "捕获",
+  "freq": 3
+ },
+ {
+  "en": "Excuse you.",
+  "zh": "你在干嘛。",
+  "freq": 3
+ },
+ {
+  "en": "Constitution",
+  "zh": "体质",
+  "freq": 3
+ },
+ {
+  "en": "Elegant Robe",
+  "zh": "优雅长袍",
+  "freq": 3
+ },
+ {
+  "en": "Conch Shell",
+  "zh": "海螺壳",
+  "freq": 3
+ },
+ {
+  "en": "Murky Stew",
+  "zh": "浑浊的炖菜",
+  "freq": 3
+ },
+ {
+  "en": "URgggh...",
+  "zh": "啊啊啊啊...",
+  "freq": 3
+ },
+ {
+  "en": "Wooden Door",
+  "zh": "木门",
+  "freq": 3
+ },
+ {
+  "en": "Belt",
+  "zh": "腰带",
+  "freq": 3
+ },
+ {
+  "en": "Entertainer",
+  "zh": "艺人",
+  "freq": 3
+ },
+ {
+  "en": "Criminal",
+  "zh": "罪犯",
+  "freq": 3
+ },
+ {
+  "en": "Opaque Vat",
+  "zh": "不透光的大桶",
+  "freq": 3
+ },
+ {
+  "en": "BORING.",
+  "zh": "真无趣。",
+  "freq": 3
+ },
+ {
+  "en": "Sure...",
+  "zh": "当然...",
+  "freq": 3
+ },
+ {
+  "en": "Nettie",
+  "zh": "内蒂",
+  "freq": 3
+ },
+ {
+  "en": "Yes, please.",
+  "zh": "是的，请吧。",
+  "freq": 3
+ },
+ {
+  "en": "Cold",
+  "zh": "寒冷",
+  "freq": 3
+ },
+ {
+  "en": "Oskar Fevras",
+  "zh": "奥斯卡·费拉斯",
+  "freq": 3
+ },
+ {
+  "en": "Broken Lute",
+  "zh": "坏掉的鲁特琴",
+  "freq": 3
+ },
+ {
+  "en": "Done!",
+  "zh": "成了！",
+  "freq": 3
+ },
+ {
+  "en": "Flask Stand",
+  "zh": "烧瓶架",
+  "freq": 3
+ },
+ {
+  "en": "Tribe.",
+  "zh": "部落。",
+  "freq": 3
+ },
+ {
+  "en": "Gnarled Cage",
+  "zh": "粗糙的笼子",
+  "freq": 3
+ },
+ {
+  "en": "Stage Fright",
+  "zh": "怯场",
+  "freq": 3
+ },
+ {
+  "en": "Clive",
+  "zh": "克莱夫",
+  "freq": 3
+ },
+ {
+  "en": "Red Auburn 4",
+  "zh": "红赭色 4",
+  "freq": 3
+ },
+ {
+  "en": "Stunned",
+  "zh": "震慑",
+  "freq": 3
+ },
+ {
+  "en": "Party Guest",
+  "zh": "聚会客人",
+  "freq": 3
+ },
+ {
+  "en": "Hear, hear!",
+  "zh": "说得好！",
+  "freq": 3
+ },
+ {
+  "en": "Dead Human",
+  "zh": "死去的人类",
+  "freq": 3
+ },
+ {
+  "en": "Great Vine",
+  "zh": "大藤蔓",
+  "freq": 3
+ },
+ {
+  "en": "Displace",
+  "zh": "移位",
+  "freq": 3
+ },
+ {
+  "en": "*Bellow!*",
+  "zh": "*吼叫！*",
+  "freq": 3
+ },
+ {
+  "en": "Folk Hero",
+  "zh": "平民英雄",
+  "freq": 3
+ },
+ {
+  "en": "Deactivated",
+  "zh": "失效",
+  "freq": 3
+ },
+ {
+  "en": "Caltrops",
+  "zh": "蒺藜",
+  "freq": 3
+ },
+ {
+  "en": "Eilistraee",
+  "zh": "伊莉丝翠",
+  "freq": 3
+ },
+ {
+  "en": "Worg Fang",
+  "zh": "座狼牙",
+  "freq": 3
+ },
+ {
+  "en": "Fishing Rod",
+  "zh": "鱼竿",
+  "freq": 3
+ },
+ {
+  "en": "Ghoul Medic",
+  "zh": "食尸鬼医生",
+  "freq": 3
+ },
+ {
+  "en": "Come.",
+  "zh": "来吧。",
+  "freq": 3
+ },
+ {
+  "en": "Dinnerware",
+  "zh": "餐具",
+  "freq": 3
+ },
+ {
+  "en": "Basement",
+  "zh": "地下室",
+  "freq": 3
+ },
+ {
+  "en": "Portrait",
+  "zh": "肖像画",
+  "freq": 3
+ },
+ {
+  "en": "Werewolf",
+  "zh": "狼人",
+  "freq": 3
+ },
+ {
+  "en": "Useless.",
+  "zh": "没用了。",
+  "freq": 3
+ },
+ {
+  "en": "Teal 5",
+  "zh": "青蓝 5",
+  "freq": 3
+ },
+ {
+  "en": "Dominated",
+  "zh": "受控",
+  "freq": 3
+ },
+ {
+  "en": "Regeneration",
+  "zh": "再生",
+  "freq": 3
+ },
+ {
+  "en": "Combat",
+  "zh": "战斗",
+  "freq": 3
+ },
+ {
+  "en": "Light Source",
+  "zh": "光源",
+  "freq": 3
+ },
+ {
+  "en": "Transponder",
+  "zh": "传送器",
+  "freq": 3
+ },
+ {
+  "en": "Bronze 2",
+  "zh": "青铜 2",
+  "freq": 3
+ },
+ {
+  "en": "Yeah.",
+  "zh": "哦耶。",
+  "freq": 3
+ },
+ {
+  "en": "MUMMY!",
+  "zh": "妈咪！",
+  "freq": 3
+ },
+ {
+  "en": "Immortality",
+  "zh": "环辫羊毛卷",
+  "freq": 3
+ },
+ {
+  "en": "Online",
+  "zh": "在线",
+  "freq": 3
+ },
+ {
+  "en": "Radiant",
+  "zh": "光耀",
+  "freq": 3
+ },
+ {
+  "en": "...Lae'zel.",
+  "zh": "... 莱埃泽尔。",
+  "freq": 3
+ },
+ {
+  "en": "Gnarled Door",
+  "zh": "粗糙的门",
+  "freq": 3
+ },
+ {
+  "en": "Stone",
+  "zh": "石头",
+  "freq": 3
+ },
+ {
+  "en": "Red Auburn 1",
+  "zh": "红赭色 1",
+  "freq": 3
+ },
+ {
+  "en": "Axes",
+  "zh": "斧子",
+  "freq": 3
+ },
+ {
+  "en": "Get away!",
+  "zh": "走开！",
+  "freq": 3
+ },
+ {
+  "en": "Magic Weapon",
+  "zh": "魔法武器",
+  "freq": 3
+ },
+ {
+  "en": "No. Just no.",
+  "zh": "不。真的，不行。",
+  "freq": 3
+ },
+ {
+  "en": "Aye?",
+  "zh": "嗯？",
+  "freq": 3
+ },
+ {
+  "en": "Or is there?",
+  "zh": "又或者，还有救呢？",
+  "freq": 3
+ },
+ {
+  "en": "Hello?",
+  "zh": "你好？",
+  "freq": 3
+ },
+ {
+  "en": "Oil Lamp",
+  "zh": "油灯",
+  "freq": 3
+ },
+ {
+  "en": "Severed Legs",
+  "zh": "断腿",
+  "freq": 3
+ },
+ {
+  "en": "How are you?",
+  "zh": "你还好吗？",
+  "freq": 3
+ },
+ {
+  "en": "Cave Exit",
+  "zh": "洞穴出口",
+  "freq": 3
+ },
+ {
+  "en": "Brass 5",
+  "zh": "黄铜 5",
+  "freq": 3
+ },
+ {
+  "en": "Who's that?",
+  "zh": "那是谁？",
+  "freq": 3
+ },
+ {
+  "en": "Action",
+  "zh": "动作",
+  "freq": 3
+ },
+ {
+  "en": "Arcane Arrow",
+  "zh": "奥术箭矢",
+  "freq": 3
+ },
+ {
+  "en": "Proficiency",
+  "zh": "熟练项",
+  "freq": 3
+ },
+ {
+  "en": "Piss off.",
+  "zh": "滚。",
+  "freq": 3
+ },
+ {
+  "en": "Dumbwaiter",
+  "zh": "升降机",
+  "freq": 3
+ },
+ {
+  "en": "Sign",
+  "zh": "符号",
+  "freq": 3
+ },
+ {
+  "en": "Stop it!",
+  "zh": "停下！",
+  "freq": 3
+ },
+ {
+  "en": "The Weave.",
+  "zh": "魔网。",
+  "freq": 3
+ },
+ {
+  "en": "Greataxes",
+  "zh": "巨斧",
+  "freq": 3
+ },
+ {
+  "en": "Grey Warm 1",
+  "zh": "暖灰色1",
+  "freq": 3
+ },
+ {
+  "en": "Ball",
+  "zh": "球",
+  "freq": 3
+ },
+ {
+  "en": "Nursery",
+  "zh": "苗圃",
+  "freq": 3
+ },
+ {
+  "en": "There.",
+  "zh": "好了。",
+  "freq": 3
+ },
+ {
+  "en": "Cage Door",
+  "zh": "笼门",
+  "freq": 3
+ },
+ {
+  "en": "Devil",
+  "zh": "魔鬼",
+  "freq": 3
+ },
+ {
+  "en": "Wait.",
+  "zh": "等等。",
+  "freq": 3
+ },
+ {
+  "en": "Overhead",
+  "zh": "头顶",
+  "freq": 3
+ },
+ {
+  "en": "Laduguer",
+  "zh": "拉杜格",
+  "freq": 3
+ },
+ {
+  "en": "Morgue",
+  "zh": "停尸房",
+  "freq": 3
+ },
+ {
+  "en": "*Moo!*",
+  "zh": "*哞！*",
+  "freq": 3
+ },
+ {
+  "en": "You scrag!",
+  "zh": "你这细狗！",
+  "freq": 3
+ },
+ {
+  "en": "Pillar",
+  "zh": "柱子",
+  "freq": 3
+ },
+ {
+  "en": "Outlander",
+  "zh": "化外之民",
+  "freq": 3
+ },
+ {
+  "en": "Charm",
+  "zh": "魅惑",
+  "freq": 3
+ },
+ {
+  "en": "Badger",
+  "zh": "獾",
+  "freq": 3
+ },
+ {
+  "en": "Verres Major",
+  "zh": "野猪座",
+  "freq": 3
+ },
+ {
+  "en": "Tiamat",
+  "zh": "提亚马特",
+  "freq": 3
+ },
+ {
+  "en": "Myconid",
+  "zh": "蕈人",
+  "freq": 3
+ },
+ {
+  "en": "Sentry",
+  "zh": "守卫",
+  "freq": 3
+ },
+ {
+  "en": "Gain [1].",
+  "zh": "获得[1]。",
+  "freq": 3
+ },
+ {
+  "en": "Piercing",
+  "zh": "穿刺",
+  "freq": 3
+ },
+ {
+  "en": "Sorn Orlith",
+  "zh": "索恩·奥里斯",
+  "freq": 3
+ },
+ {
+  "en": "Potion",
+  "zh": "药水",
+  "freq": 3
+ },
+ {
+  "en": "Do you?",
+  "zh": "你会吗？",
+  "freq": 3
+ },
+ {
+  "en": "Bronze 1",
+  "zh": "青铜1",
+  "freq": 3
+ },
+ {
+  "en": "*Squeeeee!*",
+  "zh": "*尖叫声！*",
+  "freq": 3
+ },
+ {
+  "en": "Y",
+  "zh": "Y轴",
+  "freq": 3
+ },
+ {
+  "en": "Dusty 2",
+  "zh": "土褐色2",
+  "freq": 3
+ },
+ {
+  "en": "Such as?",
+  "zh": "比如？",
+  "freq": 3
+ },
+ {
+  "en": "Life Drain",
+  "zh": "吸取生命",
+  "freq": 3
+ },
+ {
+  "en": "Disabled",
+  "zh": "关闭",
+  "freq": 3
+ },
+ {
+  "en": "Rusted Key",
+  "zh": "生锈的钥匙",
+  "freq": 3
+ },
+ {
+  "en": "Bowing",
+  "zh": "弯腰",
+  "freq": 3
+ },
+ {
+  "en": "Purple 6",
+  "zh": "紫色6",
+  "freq": 3
+ },
+ {
+  "en": "Necrotic",
+  "zh": "黯蚀",
+  "freq": 3
+ },
+ {
+  "en": "Kill them.",
+  "zh": "杀了那个人。",
+  "freq": 3
+ },
+ {
+  "en": "Talos",
+  "zh": "塔洛斯",
+  "freq": 3
+ },
+ {
+  "en": "Meenlock",
+  "zh": "凌弱怪",
+  "freq": 3
+ },
+ {
+  "en": "Bronze 4",
+  "zh": "青铜 4",
+  "freq": 3
+ },
+ {
+  "en": "*Sniffle.*",
+  "zh": "*啜泣。*",
+  "freq": 3
+ },
+ {
+  "en": "Crafting",
+  "zh": "制造",
+  "freq": 3
+ },
+ {
+  "en": "Noble",
+  "zh": "贵族",
+  "freq": 3
+ },
+ {
+  "en": "Sage",
+  "zh": "智者",
+  "freq": 3
+ },
+ {
+  "en": "Bronze 5",
+  "zh": "青铜 5",
+  "freq": 3
+ },
+ {
+  "en": "Hold Person",
+  "zh": "人类定身术",
+  "freq": 3
+ },
+ {
+  "en": "Mithral Vein",
+  "zh": "秘银矿脉",
+  "freq": 3
+ },
+ {
+  "en": "Bahamut",
+  "zh": "巴哈姆特",
+  "freq": 3
+ },
+ {
+  "en": "Charlatan",
+  "zh": "骗子",
+  "freq": 3
+ },
+ {
+  "en": "Well",
+  "zh": "水井",
+  "freq": 3
+ },
+ {
+  "en": "Open Coffin",
+  "zh": "打开棺材",
+  "freq": 3
+ },
+ {
+  "en": "Resistance",
+  "zh": "抗性",
+  "freq": 3
+ },
+ {
+  "en": "*Squeee!*",
+  "zh": "*吱吱！*",
+  "freq": 3
+ },
+ {
+  "en": "Wooden Hatch",
+  "zh": "木质活板门",
+  "freq": 3
+ },
+ {
+  "en": "Red Auburn 5",
+  "zh": "红赭色 5",
+  "freq": 3
+ },
+ {
+  "en": "Wait here.",
+  "zh": "在这里等着。",
+  "freq": 3
+ },
+ {
+  "en": "Me.",
+  "zh": "我。",
+  "freq": 3
+ },
+ {
+  "en": "Gold 4",
+  "zh": "金色 4",
+  "freq": 3
+ },
+ {
+  "en": "Scry Screen",
+  "zh": "占卜屏幕",
+  "freq": 3
+ },
+ {
+  "en": "Bronze Ingot",
+  "zh": "青铜锭",
+  "freq": 3
+ },
+ {
+  "en": "*Moan.*",
+  "zh": "*呜呜。*",
+  "freq": 3
+ },
+ {
+  "en": "Nere",
+  "zh": "尼讷",
+  "freq": 3
+ },
+ {
+  "en": "Precisely.",
+  "zh": "完全正确。",
+  "freq": 3
+ },
+ {
+  "en": "*Caw.*",
+  "zh": "*呱呱叫。*",
+  "freq": 3
+ },
+ {
+  "en": "Gilded Imp",
+  "zh": "镶金小魔鬼",
+  "freq": 3
+ },
+ {
+  "en": "Multiplayer",
+  "zh": "多人联机",
+  "freq": 3
+ },
+ {
+  "en": "Towel",
+  "zh": "毛巾",
+  "freq": 3
+ },
+ {
+  "en": "Magic",
+  "zh": "魔法",
+  "freq": 3
+ },
+ {
+  "en": "Wise.",
+  "zh": "明智之举。",
+  "freq": 3
+ },
+ {
+  "en": "Hook Horror",
+  "zh": "恐爪怪",
+  "freq": 3
+ },
+ {
+  "en": "Moo!",
+  "zh": "哞！",
+  "freq": 3
+ },
+ {
+  "en": "Copper 3",
+  "zh": "铜色 3",
+  "freq": 3
+ },
+ {
+  "en": "Well...",
+  "zh": "呃...",
+  "freq": 3
+ },
+ {
+  "en": "Sleep",
+  "zh": "睡眠术",
+  "freq": 3
+ },
+ {
+  "en": "Kelemvor",
+  "zh": "凯兰沃",
+  "freq": 3
+ },
+ {
+  "en": "Flesh Golem",
+  "zh": "血肉魔像",
+  "freq": 3
+ },
+ {
+  "en": "Lucky you.",
+  "zh": "你很幸运。",
+  "freq": 3
+ },
+ {
+  "en": "Continue",
+  "zh": "继续",
+  "freq": 3
+ },
+ {
+  "en": "Holy Rebuke",
+  "zh": "神圣叱责",
+  "freq": 3
+ },
+ {
+  "en": "Acolyte",
+  "zh": "侍僧",
+  "freq": 3
+ },
+ {
+  "en": "Silver 3",
+  "zh": "银色 3",
+  "freq": 3
+ },
+ {
+  "en": "What's next?",
+  "zh": "接下来怎么做？",
+  "freq": 3
+ },
+ {
+  "en": "Gold 5",
+  "zh": "金色 5",
+  "freq": 3
+ },
+ {
+  "en": "Lead on.",
+  "zh": "带路吧。",
+  "freq": 3
+ },
+ {
+  "en": "Trap",
+  "zh": "陷阱",
+  "freq": 3
+ },
+ {
+  "en": "Nimble",
+  "zh": "灵博",
+  "freq": 3
+ },
+ {
+  "en": "Arcane Ward",
+  "zh": "奥术守御",
+  "freq": 3
+ },
+ {
+  "en": "Cage",
+  "zh": "牢笼",
+  "freq": 3
+ },
+ {
+  "en": "Copper 5",
+  "zh": "铜色 5",
+  "freq": 3
+ },
+ {
+  "en": "Brass 2",
+  "zh": "黄铜 2",
+  "freq": 3
+ },
+ {
+  "en": "Fiend",
+  "zh": "邪魔",
+  "freq": 3
+ },
+ {
+  "en": "Encumbered",
+  "zh": "超重",
+  "freq": 3
+ },
+ {
+  "en": "*Hoo-hoot!*",
+  "zh": "*咕咕！*",
+  "freq": 3
+ },
+ {
+  "en": "Open Grave",
+  "zh": "敞开的坟墓",
+  "freq": 3
+ },
+ {
+  "en": "Stop that!",
+  "zh": "停下！",
+  "freq": 3
+ },
+ {
+  "en": "Rustic Chest",
+  "zh": "粗糙的箱子",
+  "freq": 3
+ },
+ {
+  "en": "Silver 4",
+  "zh": "银色 4",
+  "freq": 3
+ },
+ {
+  "en": "Silver 5",
+  "zh": "银色 5",
+  "freq": 3
+ },
+ {
+  "en": "Red Auburn 3",
+  "zh": "红赭色 3",
+  "freq": 3
+ },
+ {
+  "en": "Disintegrate",
+  "zh": "解离术",
+  "freq": 3
+ },
+ {
+  "en": "Shadow Step",
+  "zh": "暗影步",
+  "freq": 3
+ },
+ {
+  "en": "Ursa Major",
+  "zh": "大熊座",
+  "freq": 3
+ },
+ {
+  "en": "Charm Person",
+  "zh": "魅惑人类",
+  "freq": 3
+ },
+ {
+  "en": "Stand down.",
+  "zh": "退下。",
+  "freq": 3
+ },
+ {
+  "en": "Keep going!",
+  "zh": "继续！",
+  "freq": 3
+ },
+ {
+  "en": "*MERP!*",
+  "zh": "*哞！*",
+  "freq": 3
+ },
+ {
+  "en": "Cat's Grace",
+  "zh": "猫之轻灵",
+  "freq": 3
+ },
+ {
+  "en": "Sensible.",
+  "zh": "很合理。",
+  "freq": 3
+ },
+ {
+  "en": "Fireflies",
+  "zh": "萤火虫",
+  "freq": 3
+ },
+ {
+  "en": "Polymorph",
+  "zh": "变形术",
+  "freq": 3
+ },
+ {
+  "en": "I said no.",
+  "zh": "我说不行。",
+  "freq": 3
+ },
+ {
+  "en": "Confused",
+  "zh": "困惑",
+  "freq": 3
+ },
+ {
+  "en": "You don't.",
+  "zh": "你不会的。",
+  "freq": 3
+ }
+]

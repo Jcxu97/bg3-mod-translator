@@ -1,0 +1,7214 @@
+{
+  "ABJURE_ENEMY_SLOW|Slowed": {
+    "en": "Slowed",
+    "freq": 1,
+    "tooltip": "ABJURE_ENEMY_SLOW",
+    "zh": "减速"
+  },
+  "ACID|Acid": {
+    "en": "Acid",
+    "freq": 4,
+    "tooltip": "ACID",
+    "zh": "强酸"
+  },
+  "ACID|Acidic surfaces": {
+    "en": "Acidic surfaces",
+    "freq": 1,
+    "tooltip": "ACID",
+    "zh": "强酸地表"
+  },
+  "ACTION_SURGE|Action Surge": {
+    "en": "Action Surge",
+    "freq": 5,
+    "tooltip": "ACTION_SURGE",
+    "zh": "动作如潮"
+  },
+  "ALCH_ELIXIR_BLOODLUST|Elixir of Bloodlust": {
+    "en": "Elixir of Bloodlust",
+    "freq": 1,
+    "tooltip": "ALCH_ELIXIR_BLOODLUST",
+    "zh": "嗜血灵药"
+  },
+  "ALCH_ELIXIR_TADPOLE_ADVANTAGE|Psionic Enrichment": {
+    "en": "Psionic Enrichment",
+    "freq": 1,
+    "tooltip": "ALCH_ELIXIR_TADPOLE_ADVANTAGE",
+    "zh": "灵能浓缩"
+  },
+  "ALCH_ELIXIR_TADPOLE|Psionic Weakening": {
+    "en": "Psionic Weakening",
+    "freq": 1,
+    "tooltip": "ALCH_ELIXIR_TADPOLE",
+    "zh": "灵能弱化"
+  },
+  "ALCH_OIL_BANE_CONDITION|Baned": {
+    "en": "Baned",
+    "freq": 1,
+    "tooltip": "ALCH_OIL_BANE_CONDITION",
+    "zh": "豁免检定"
+  },
+  "ARMOR_OF_AGATHYS|Armour of Agathys": {
+    "en": "Armour of Agathys",
+    "freq": 1,
+    "tooltip": "ARMOR_OF_AGATHYS",
+    "zh": "艾嘉西斯之铠"
+  },
+  "ASPECT_OF_THE_ELK_AURA|Aspect of the Elk": {
+    "en": "Aspect of the Elk",
+    "freq": 1,
+    "tooltip": "ASPECT_OF_THE_ELK_AURA",
+    "zh": "麋鹿面貌"
+  },
+  "ASPECT_OF_THE_WOLF|Aspect of the Wolf": {
+    "en": "Aspect of the Wolf",
+    "freq": 1,
+    "tooltip": "ASPECT_OF_THE_WOLF",
+    "zh": "狼之面貌"
+  },
+  "ASTARION_HAPPY|Happy": {
+    "en": "Happy",
+    "freq": 1,
+    "tooltip": "ASTARION_HAPPY",
+    "zh": "高兴"
+  },
+  "ASTARION_WEAK|Bloodless": {
+    "en": "Bloodless",
+    "freq": 1,
+    "tooltip": "ASTARION_WEAK",
+    "zh": "贫血"
+  },
+  "AURA_OF_COURAGE|Aura of Courage": {
+    "en": "Aura of Courage",
+    "freq": 1,
+    "tooltip": "AURA_OF_COURAGE",
+    "zh": "勇气灵光"
+  },
+  "AURA_OF_DEVOTION|Aura of Devotion": {
+    "en": "Aura of Devotion",
+    "freq": 1,
+    "tooltip": "AURA_OF_DEVOTION",
+    "zh": "奉献灵光"
+  },
+  "AURA_OF_HATE|Aura of Hate": {
+    "en": "Aura of Hate",
+    "freq": 1,
+    "tooltip": "AURA_OF_HATE",
+    "zh": "仇恨灵光"
+  },
+  "AURA_OF_PROTECTION|Aura of Protection": {
+    "en": "Aura of Protection",
+    "freq": 1,
+    "tooltip": "AURA_OF_PROTECTION",
+    "zh": "守护灵光"
+  },
+  "AURA_OF_VITALITY|Warden of Vitality": {
+    "en": "Warden of Vitality",
+    "freq": 1,
+    "tooltip": "AURA_OF_VITALITY",
+    "zh": "活力监守"
+  },
+  "AURA_OF_WARDING|Aura of Warding": {
+    "en": "Aura of Warding",
+    "freq": 1,
+    "tooltip": "AURA_OF_WARDING",
+    "zh": "防卫灵光"
+  },
+  "Abilities|Abilities": {
+    "en": "Abilities",
+    "freq": 2,
+    "tooltip": "Abilities",
+    "zh": "属性"
+  },
+  "Abilities|Ability": {
+    "en": "Ability",
+    "freq": 10,
+    "tooltip": "Abilities",
+    "zh": "属性"
+  },
+  "Abilities|Ability Scores": {
+    "en": "Ability Scores",
+    "freq": 7,
+    "tooltip": "Abilities",
+    "zh": "属性值"
+  },
+  "Abilities|score": {
+    "en": "score",
+    "freq": 7,
+    "tooltip": "Abilities",
+    "zh": "属性"
+  },
+  "Abilities|scores": {
+    "en": "scores",
+    "freq": 1,
+    "tooltip": "Abilities",
+    "zh": "属性"
+  },
+  "AbilityCheck|Ability Check": {
+    "en": "Ability Check",
+    "freq": 31,
+    "tooltip": "AbilityCheck",
+    "zh": "属性检定"
+  },
+  "AbilityCheck|Ability Checks": {
+    "en": "Ability Checks",
+    "freq": 28,
+    "tooltip": "AbilityCheck",
+    "zh": "属性检定"
+  },
+  "AbilityCheck|Check": {
+    "en": "Check",
+    "freq": 11,
+    "tooltip": "AbilityCheck",
+    "zh": "检定"
+  },
+  "AbilityCheck|Checks": {
+    "en": "Checks",
+    "freq": 59,
+    "tooltip": "AbilityCheck",
+    "zh": "劣势"
+  },
+  "AbilityCheck|Performance Check": {
+    "en": "Performance Check",
+    "freq": 1,
+    "tooltip": "AbilityCheck",
+    "zh": "表演检定"
+  },
+  "AbilityCheck|check": {
+    "en": "check",
+    "freq": 3,
+    "tooltip": "AbilityCheck",
+    "zh": "检定"
+  },
+  "AbilityCheck|checks": {
+    "en": "checks",
+    "freq": 1,
+    "tooltip": "AbilityCheck",
+    "zh": "豁免检定"
+  },
+  "AbilityModifier|Ability": {
+    "en": "Ability",
+    "freq": 2,
+    "tooltip": "AbilityModifier",
+    "zh": "属性调整值"
+  },
+  "AbilityModifier|Ability Modifier": {
+    "en": "Ability Modifier",
+    "freq": 2,
+    "tooltip": "AbilityModifier",
+    "zh": "属性调整值"
+  },
+  "AbilityModifier|Attack Rolls": {
+    "en": "Attack Rolls",
+    "freq": 1,
+    "tooltip": "AbilityModifier",
+    "zh": "攻击掷骰"
+  },
+  "AbilityModifier|Modifier": {
+    "en": "Modifier",
+    "freq": 26,
+    "tooltip": "AbilityModifier",
+    "zh": "调整值"
+  },
+  "AbilityScore|Ability Scores": {
+    "en": "Ability Scores",
+    "freq": 2,
+    "tooltip": "AbilityScore",
+    "zh": "属性值"
+  },
+  "Ability|Ability": {
+    "en": "Ability",
+    "freq": 1,
+    "tooltip": "Ability",
+    "zh": "劣势"
+  },
+  "Acrobatics|Acrobatics": {
+    "en": "Acrobatics",
+    "freq": 1,
+    "tooltip": "Acrobatics",
+    "zh": "表演"
+  },
+  "Action|action": {
+    "en": "action",
+    "freq": 24,
+    "tooltip": "Action",
+    "zh": "动作"
+  },
+  "Action|actions": {
+    "en": "actions",
+    "freq": 6,
+    "tooltip": "Action",
+    "zh": "动作"
+  },
+  "Advantage|Advantage": {
+    "en": "Advantage",
+    "freq": 99,
+    "tooltip": "Advantage",
+    "zh": "优势"
+  },
+  "AlwaysPrepared|Always Prepared": {
+    "en": "Always Prepared",
+    "freq": 6,
+    "tooltip": "AlwaysPrepared",
+    "zh": "恒定预备"
+  },
+  "AnimalHandling|Animal Handling": {
+    "en": "Animal Handling",
+    "freq": 2,
+    "tooltip": "AnimalHandling",
+    "zh": "自然"
+  },
+  "Arcana|Arcana": {
+    "en": "Arcana",
+    "freq": 2,
+    "tooltip": "Arcana",
+    "zh": "熟练项"
+  },
+  "ArcaneShot|Arcane Arrow": {
+    "en": "Arcane Arrow",
+    "freq": 1,
+    "tooltip": "ArcaneShot",
+    "zh": "奥术箭矢"
+  },
+  "ArcaneWard|Arcane Ward": {
+    "en": "Arcane Ward",
+    "freq": 5,
+    "tooltip": "ArcaneWard",
+    "zh": "奥术守御"
+  },
+  "ArmorClass|Armour Class": {
+    "en": "Armour Class",
+    "freq": 2,
+    "tooltip": "ArmorClass",
+    "zh": "护甲等级"
+  },
+  "ArmourClass|AC": {
+    "en": "AC",
+    "freq": 2,
+    "tooltip": "ArmourClass",
+    "zh": "敏捷"
+  },
+  "ArmourClass|Armour Class": {
+    "en": "Armour Class",
+    "freq": 158,
+    "tooltip": "ArmourClass",
+    "zh": "护甲等级"
+  },
+  "ArmourClass|Base Armour Class": {
+    "en": "Base Armour Class",
+    "freq": 1,
+    "tooltip": "ArmourClass",
+    "zh": "基础护甲等级"
+  },
+  "ArmourProficiency|Armour Proficiency": {
+    "en": "Armour Proficiency",
+    "freq": 7,
+    "tooltip": "ArmourProficiency",
+    "zh": "护甲熟练项"
+  },
+  "ArmourProficiency|Proficient": {
+    "en": "Proficient",
+    "freq": 9,
+    "tooltip": "ArmourProficiency",
+    "zh": "熟练项"
+  },
+  "Athletics|Athletics": {
+    "en": "Athletics",
+    "freq": 2,
+    "tooltip": "Athletics",
+    "zh": "求生"
+  },
+  "Attack Roll|Attack Rolls": {
+    "en": "Attack Rolls",
+    "freq": 1,
+    "tooltip": "Attack Roll",
+    "zh": "攻击掷骰"
+  },
+  "AttackRolls|Attack Roll": {
+    "en": "Attack Roll",
+    "freq": 2,
+    "tooltip": "AttackRolls",
+    "zh": "攻击掷骰"
+  },
+  "AttackRolls|Attack Rolls": {
+    "en": "Attack Rolls",
+    "freq": 1,
+    "tooltip": "AttackRolls",
+    "zh": "攻击掷骰"
+  },
+  "AttackRoll|Attack": {
+    "en": "Attack",
+    "freq": 2,
+    "tooltip": "AttackRoll",
+    "zh": "攻击掷骰"
+  },
+  "AttackRoll|Attack Roll": {
+    "en": "Attack Roll",
+    "freq": 69,
+    "tooltip": "AttackRoll",
+    "zh": "攻击掷骰"
+  },
+  "AttackRoll|Attack Rolls": {
+    "en": "Attack Rolls",
+    "freq": 152,
+    "tooltip": "AttackRoll",
+    "zh": "攻击掷骰"
+  },
+  "AttackRoll|Attacks": {
+    "en": "Attacks",
+    "freq": 1,
+    "tooltip": "AttackRoll",
+    "zh": "攻击"
+  },
+  "AttackRoll|Spell Attack Rolls": {
+    "en": "Spell Attack Rolls",
+    "freq": 2,
+    "tooltip": "AttackRoll",
+    "zh": "法术攻击掷骰"
+  },
+  "AttackRoll|attack": {
+    "en": "attack",
+    "freq": 4,
+    "tooltip": "AttackRoll",
+    "zh": "优势"
+  },
+  "AttackRoll|attack roll": {
+    "en": "attack roll",
+    "freq": 3,
+    "tooltip": "AttackRoll",
+    "zh": "攻击掷骰"
+  },
+  "AttackRoll|attack rolls": {
+    "en": "attack rolls",
+    "freq": 7,
+    "tooltip": "AttackRoll",
+    "zh": "攻击掷骰"
+  },
+  "AttackRoll|attacks": {
+    "en": "attacks",
+    "freq": 1,
+    "tooltip": "AttackRoll",
+    "zh": "劣势"
+  },
+  "AttackRoll|melee attack rolls": {
+    "en": "melee attack rolls",
+    "freq": 1,
+    "tooltip": "AttackRoll",
+    "zh": "优势"
+  },
+  "AttackRoll|roll": {
+    "en": "roll",
+    "freq": 6,
+    "tooltip": "AttackRoll",
+    "zh": "攻击掷骰"
+  },
+  "BANED|Bane": {
+    "en": "Bane",
+    "freq": 2,
+    "tooltip": "BANED",
+    "zh": "灾祸术"
+  },
+  "BANE|Bane": {
+    "en": "Bane",
+    "freq": 2,
+    "tooltip": "BANE",
+    "zh": "灾祸术"
+  },
+  "BANE|Baned": {
+    "en": "Baned",
+    "freq": 1,
+    "tooltip": "BANE",
+    "zh": "灾祸术"
+  },
+  "BANISHED|Banish": {
+    "en": "Banish",
+    "freq": 4,
+    "tooltip": "BANISHED",
+    "zh": "放逐"
+  },
+  "BARBED_ARROW|Ruptured": {
+    "en": "Ruptured",
+    "freq": 1,
+    "tooltip": "BARBED_ARROW",
+    "zh": "撕裂"
+  },
+  "BARDIC_INSPIRATION_COMBAT|Combat Inspiration": {
+    "en": "Combat Inspiration",
+    "freq": 3,
+    "tooltip": "BARDIC_INSPIRATION_COMBAT",
+    "zh": "战斗激励"
+  },
+  "BARDIC_INSPIRATION|Bardic Inspiration": {
+    "en": "Bardic Inspiration",
+    "freq": 4,
+    "tooltip": "BARDIC_INSPIRATION",
+    "zh": "诗人激励"
+  },
+  "BARKSKIN|Barkskin": {
+    "en": "Barkskin",
+    "freq": 1,
+    "tooltip": "BARKSKIN",
+    "zh": "树肤术"
+  },
+  "BIBBERBANG_FUMES|Noxious Fumes": {
+    "en": "Noxious Fumes",
+    "freq": 1,
+    "tooltip": "BIBBERBANG_FUMES",
+    "zh": "有毒烟雾"
+  },
+  "BIBBERBANG_FUMES|Poisonous Fumes": {
+    "en": "Poisonous Fumes",
+    "freq": 1,
+    "tooltip": "BIBBERBANG_FUMES",
+    "zh": "加速孢子"
+  },
+  "BLACK_TENTACLES|Smothering": {
+    "en": "Smothering",
+    "freq": 2,
+    "tooltip": "BLACK_TENTACLES",
+    "zh": "窒息"
+  },
+  "BLADESONG_DAMAGE_CHARGE|Bladesong Damage Charge": {
+    "en": "Bladesong Damage Charge",
+    "freq": 1,
+    "tooltip": "BLADESONG_DAMAGE_CHARGE",
+    "zh": "剑歌伤害充能"
+  },
+  "BLADESONG_DAMAGE_CHARGE|Bladesong Damage Charges": {
+    "en": "Bladesong Damage Charges",
+    "freq": 1,
+    "tooltip": "BLADESONG_DAMAGE_CHARGE",
+    "zh": "剑歌伤害充能"
+  },
+  "BLADESONG_HEALING_CHARGE|Bladesong Healing Charge": {
+    "en": "Bladesong Healing Charge",
+    "freq": 1,
+    "tooltip": "BLADESONG_HEALING_CHARGE",
+    "zh": "剑歌治疗充能"
+  },
+  "BLADESONG_HEALING_CHARGE|Bladesong Healing Charges": {
+    "en": "Bladesong Healing Charges",
+    "freq": 1,
+    "tooltip": "BLADESONG_HEALING_CHARGE",
+    "zh": "剑歌治疗充能"
+  },
+  "BLADESONG_TECHINCAL|Bladesong Charges": {
+    "en": "Bladesong Charges",
+    "freq": 5,
+    "tooltip": "BLADESONG_TECHINCAL",
+    "zh": "剑歌充能"
+  },
+  "BLADESONG|Bladesong": {
+    "en": "Bladesong",
+    "freq": 4,
+    "tooltip": "BLADESONG",
+    "zh": "剑歌"
+  },
+  "BLADE_WARD|Blade Ward": {
+    "en": "Blade Ward",
+    "freq": 3,
+    "tooltip": "BLADE_WARD",
+    "zh": "剑刃防护"
+  },
+  "BLEEDING|Bleed": {
+    "en": "Bleed",
+    "freq": 13,
+    "tooltip": "BLEEDING",
+    "zh": "流血"
+  },
+  "BLEEDING|Bleeding": {
+    "en": "Bleeding",
+    "freq": 14,
+    "tooltip": "BLEEDING",
+    "zh": "流血"
+  },
+  "BLEEDING|Bleeds": {
+    "en": "Bleeds",
+    "freq": 1,
+    "tooltip": "BLEEDING",
+    "zh": "流血"
+  },
+  "BLESS|Blessed": {
+    "en": "Blessed",
+    "freq": 3,
+    "tooltip": "BLESS",
+    "zh": "祝福"
+  },
+  "BLIGHT_ENTANGLE|Constrict": {
+    "en": "Constrict",
+    "freq": 2,
+    "tooltip": "BLIGHT_ENTANGLE",
+    "zh": "绞缠"
+  },
+  "BLINDED|Blind": {
+    "en": "Blind",
+    "freq": 18,
+    "tooltip": "BLINDED",
+    "zh": "目盲"
+  },
+  "BLINDED|Blinded": {
+    "en": "Blinded",
+    "freq": 37,
+    "tooltip": "BLINDED",
+    "zh": "目盲"
+  },
+  "BLINDED|Blinding": {
+    "en": "Blinding",
+    "freq": 2,
+    "tooltip": "BLINDED",
+    "zh": "目盲"
+  },
+  "BLINDED|Blindness": {
+    "en": "Blindness",
+    "freq": 2,
+    "tooltip": "BLINDED",
+    "zh": "目盲"
+  },
+  "BLINDED|Blinds": {
+    "en": "Blinds",
+    "freq": 6,
+    "tooltip": "BLINDED",
+    "zh": "目盲"
+  },
+  "BLINDING_SMITE_BLINDED|Blind": {
+    "en": "Blind",
+    "freq": 1,
+    "tooltip": "BLINDING_SMITE_BLINDED",
+    "zh": "目盲"
+  },
+  "BLINDNESS|Blind": {
+    "en": "Blind",
+    "freq": 1,
+    "tooltip": "BLINDNESS",
+    "zh": "目盲"
+  },
+  "BLINK|Blink": {
+    "en": "Blink",
+    "freq": 1,
+    "tooltip": "BLINK",
+    "zh": "闪现"
+  },
+  "BLOODLESS|Bloodless": {
+    "en": "Bloodless",
+    "freq": 1,
+    "tooltip": "BLOODLESS",
+    "zh": "贫血"
+  },
+  "BLOODLUST_REDCAP|Bloodlust": {
+    "en": "Bloodlust",
+    "freq": 1,
+    "tooltip": "BLOODLUST_REDCAP",
+    "zh": "嗜血"
+  },
+  "BLUR|Blurred": {
+    "en": "Blurred",
+    "freq": 1,
+    "tooltip": "BLUR",
+    "zh": "模糊"
+  },
+  "BLUR|blur": {
+    "en": "blur",
+    "freq": 1,
+    "tooltip": "BLUR",
+    "zh": "朦胧术"
+  },
+  "BRITTLE|Brittle": {
+    "en": "Brittle",
+    "freq": 1,
+    "tooltip": "BRITTLE",
+    "zh": "易碎"
+  },
+  "BULWARK_MODE|Defensive Protocol: Bulwark": {
+    "en": "Defensive Protocol: Bulwark",
+    "freq": 1,
+    "tooltip": "BULWARK_MODE",
+    "zh": "防御协议：壁垒"
+  },
+  "BURNING_AZER|Burning Fiercely": {
+    "en": "Burning Fiercely",
+    "freq": 1,
+    "tooltip": "BURNING_AZER",
+    "zh": "灼烧"
+  },
+  "BURNING_HELLFIRE|Hellfire": {
+    "en": "Hellfire",
+    "freq": 1,
+    "tooltip": "BURNING_HELLFIRE",
+    "zh": "吞噬"
+  },
+  "BURNING_HOLY|Holy Flame": {
+    "en": "Holy Flame",
+    "freq": 1,
+    "tooltip": "BURNING_HOLY",
+    "zh": "圣火"
+  },
+  "BURNING|Burn": {
+    "en": "Burn",
+    "freq": 8,
+    "tooltip": "BURNING",
+    "zh": "燃烧"
+  },
+  "BURNING|Burned": {
+    "en": "Burned",
+    "freq": 1,
+    "tooltip": "BURNING",
+    "zh": "燃烧"
+  },
+  "BURNING|Burning": {
+    "en": "Burning",
+    "freq": 24,
+    "tooltip": "BURNING",
+    "zh": "燃烧"
+  },
+  "BURNING|burn": {
+    "en": "burn",
+    "freq": 2,
+    "tooltip": "BURNING",
+    "zh": "燃烧"
+  },
+  "BackgroundGoals|Background Goals": {
+    "en": "Background Goals",
+    "freq": 6,
+    "tooltip": "BackgroundGoals",
+    "zh": "背景目标"
+  },
+  "BardicInspiration|Bardic Inspiration": {
+    "en": "Bardic Inspiration",
+    "freq": 1,
+    "tooltip": "BardicInspiration",
+    "zh": "长休"
+  },
+  "Beguile": {
+    "en": "Beguile",
+    "freq": 2,
+    "tooltip": null,
+    "zh": "诱骗"
+  },
+  "Benign Transposition": {
+    "en": "Benign Transposition",
+    "freq": 2,
+    "tooltip": null,
+    "zh": "王车易位"
+  },
+  "Bind Hexed Weapon": {
+    "en": "Bind Hexed Weapon",
+    "freq": 1,
+    "tooltip": null,
+    "zh": "诅咒武器誓缚"
+  },
+  "BonusActionPoint|bonus action": {
+    "en": "bonus action",
+    "freq": 15,
+    "tooltip": "BonusActionPoint",
+    "zh": "附赠动作"
+  },
+  "BonusActionPoint|bonus actions": {
+    "en": "bonus actions",
+    "freq": 1,
+    "tooltip": "BonusActionPoint",
+    "zh": "附赠动作"
+  },
+  "BonusAction|Bonus Action": {
+    "en": "Bonus Action",
+    "freq": 2,
+    "tooltip": "BonusAction",
+    "zh": "附赠动作"
+  },
+  "Bonus_Action|bonus action": {
+    "en": "bonus action",
+    "freq": 1,
+    "tooltip": "Bonus_Action",
+    "zh": "飞行"
+  },
+  "Brewed-Up Bellyglummer": {
+    "en": "Brewed-Up Bellyglummer",
+    "freq": 1,
+    "tooltip": null,
+    "zh": "豁免检定"
+  },
+  "CHARMED|Charm": {
+    "en": "Charm",
+    "freq": 14,
+    "tooltip": "CHARMED",
+    "zh": "魅惑"
+  },
+  "CHARMED|Charmed": {
+    "en": "Charmed",
+    "freq": 31,
+    "tooltip": "CHARMED",
+    "zh": "魅惑"
+  },
+  "CHEST_TRAUMA|Chest Trauma": {
+    "en": "Chest Trauma",
+    "freq": 1,
+    "tooltip": "CHEST_TRAUMA",
+    "zh": "胸外伤"
+  },
+  "CHILLED|Chill": {
+    "en": "Chill",
+    "freq": 2,
+    "tooltip": "CHILLED",
+    "zh": "冻僵"
+  },
+  "CHILLED|Chilled": {
+    "en": "Chilled",
+    "freq": 5,
+    "tooltip": "CHILLED",
+    "zh": "冻僵"
+  },
+  "CHILL_TOUCH|Bone Chill": {
+    "en": "Bone Chill",
+    "freq": 1,
+    "tooltip": "CHILL_TOUCH",
+    "zh": "彻骨冰寒"
+  },
+  "CHILL_TOUCH|Bone Chilled": {
+    "en": "Bone Chilled",
+    "freq": 1,
+    "tooltip": "CHILL_TOUCH",
+    "zh": "冻寒之触"
+  },
+  "CHILL_TOUCH|Bone Chills": {
+    "en": "Bone Chills",
+    "freq": 1,
+    "tooltip": "CHILL_TOUCH",
+    "zh": "冻寒之触"
+  },
+  "CHILL_TOUCH|Chill": {
+    "en": "Chill",
+    "freq": 1,
+    "tooltip": "CHILL_TOUCH",
+    "zh": "冻僵"
+  },
+  "CLOAK_OF_SHADOWS_MONK|Invisible": {
+    "en": "Invisible",
+    "freq": 1,
+    "tooltip": "CLOAK_OF_SHADOWS_MONK",
+    "zh": "隐形"
+  },
+  "COLOR_SPRAY|Blind": {
+    "en": "Blind",
+    "freq": 1,
+    "tooltip": "COLOR_SPRAY",
+    "zh": "目盲"
+  },
+  "COLOR_SPRAY|Colour Spray": {
+    "en": "Colour Spray",
+    "freq": 2,
+    "tooltip": "COLOR_SPRAY",
+    "zh": "七彩喷射"
+  },
+  "COL_RESONANCESTONE_BUFF|Steeped in Bliss": {
+    "en": "Steeped in Bliss",
+    "freq": 2,
+    "tooltip": "COL_RESONANCESTONE_BUFF",
+    "zh": "欣喜若狂"
+  },
+  "COMBAT_MARK|Marked": {
+    "en": "Marked",
+    "freq": 1,
+    "tooltip": "COMBAT_MARK",
+    "zh": "优势"
+  },
+  "CONFUSION_RAY|Befuddles": {
+    "en": "Befuddles",
+    "freq": 2,
+    "tooltip": "CONFUSION_RAY",
+    "zh": "昏沉"
+  },
+  "CONFUSION|Confuse": {
+    "en": "Confuse",
+    "freq": 3,
+    "tooltip": "CONFUSION",
+    "zh": "困惑"
+  },
+  "CONFUSION|Confused": {
+    "en": "Confused",
+    "freq": 1,
+    "tooltip": "CONFUSION",
+    "zh": "困惑"
+  },
+  "CONFUSION|Confusing": {
+    "en": "Confusing",
+    "freq": 2,
+    "tooltip": "CONFUSION",
+    "zh": "困惑"
+  },
+  "CONFUSION|Confusion": {
+    "en": "Confusion",
+    "freq": 2,
+    "tooltip": "CONFUSION",
+    "zh": "困惑"
+  },
+  "CONTAGION_BLINDING_SICKNESS|Blinding Sickness": {
+    "en": "Blinding Sickness",
+    "freq": 1,
+    "tooltip": "CONTAGION_BLINDING_SICKNESS",
+    "zh": "失明症"
+  },
+  "CONTAGION_FLESH_ROT_1|Contagion Poisoned: Stage 1": {
+    "en": "Contagion Poisoned: Stage 1",
+    "freq": 1,
+    "tooltip": "CONTAGION_FLESH_ROT_1",
+    "zh": "毒素蔓延：1阶"
+  },
+  "CONTAGION_FLESH_ROT_3|Rot": {
+    "en": "Rot",
+    "freq": 1,
+    "tooltip": "CONTAGION_FLESH_ROT_3",
+    "zh": "腐烂"
+  },
+  "CONTAGION_FLESH_ROT|Flesh Rot": {
+    "en": "Flesh Rot",
+    "freq": 1,
+    "tooltip": "CONTAGION_FLESH_ROT",
+    "zh": "烂肉症"
+  },
+  "CONTAGION_FLESH_ROT|Stricken With Flesh Rot": {
+    "en": "Stricken With Flesh Rot",
+    "freq": 1,
+    "tooltip": "CONTAGION_FLESH_ROT",
+    "zh": "烂肉症"
+  },
+  "CRAB_PINCHED|Pinched": {
+    "en": "Pinched",
+    "freq": 1,
+    "tooltip": "CRAB_PINCHED",
+    "zh": "拘束"
+  },
+  "CRAWLING_GNAW_SWITCH|Crawling Gnaw": {
+    "en": "Crawling Gnaw",
+    "freq": 1,
+    "tooltip": "CRAWLING_GNAW_SWITCH",
+    "zh": "蠕行啃咬"
+  },
+  "CRE_MINDSTEAL_LINK_TARGET|Mindsteal Link": {
+    "en": "Mindsteal Link",
+    "freq": 2,
+    "tooltip": "CRE_MINDSTEAL_LINK_TARGET",
+    "zh": "夺心连接"
+  },
+  "CRIPPLED|Maim": {
+    "en": "Maim",
+    "freq": 2,
+    "tooltip": "CRIPPLED",
+    "zh": "残废"
+  },
+  "CRIPPLED|Maimed": {
+    "en": "Maimed",
+    "freq": 1,
+    "tooltip": "CRIPPLED",
+    "zh": "束缚"
+  },
+  "CRIPPLED|Maims": {
+    "en": "Maims",
+    "freq": 1,
+    "tooltip": "CRIPPLED",
+    "zh": "残废"
+  },
+  "CROWN_OF_MADNESS|Crown of Madness": {
+    "en": "Crown of Madness",
+    "freq": 1,
+    "tooltip": "CROWN_OF_MADNESS",
+    "zh": "疯狂冠冕"
+  },
+  "CROWN_OF_MADNESS|Mad": {
+    "en": "Mad",
+    "freq": 3,
+    "tooltip": "CROWN_OF_MADNESS",
+    "zh": "疯狂"
+  },
+  "CRYSTALSKIN|Crystal Skin": {
+    "en": "Crystal Skin",
+    "freq": 1,
+    "tooltip": "CRYSTALSKIN",
+    "zh": "水晶皮肤。"
+  },
+  "CURSE_MUMMY|Mummy Rot": {
+    "en": "Mummy Rot",
+    "freq": 1,
+    "tooltip": "CURSE_MUMMY",
+    "zh": "木乃伊腐毒"
+  },
+  "Call Lightning": {
+    "en": "Call Lightning",
+    "freq": 2,
+    "tooltip": null,
+    "zh": "召雷术"
+  },
+  "CampSupplies|Camp Supplies": {
+    "en": "Camp Supplies",
+    "freq": 2,
+    "tooltip": "CampSupplies",
+    "zh": "营地补给"
+  },
+  "CampSupplies|camp supplies": {
+    "en": "camp supplies",
+    "freq": 11,
+    "tooltip": "CampSupplies",
+    "zh": "营地补给"
+  },
+  "Cantrip|Cantrips": {
+    "en": "Cantrips",
+    "freq": 9,
+    "tooltip": "Cantrip",
+    "zh": "戏法"
+  },
+  "Cantrip|cantrip": {
+    "en": "cantrip",
+    "freq": 15,
+    "tooltip": "Cantrip",
+    "zh": "戏法"
+  },
+  "Cantrip|cantrips": {
+    "en": "cantrips",
+    "freq": 17,
+    "tooltip": "Cantrip",
+    "zh": "戏法"
+  },
+  "CarryWeight|Carrying capacity": {
+    "en": "Carrying capacity",
+    "freq": 3,
+    "tooltip": "CarryWeight",
+    "zh": "负重"
+  },
+  "CarryWeight|carrying capacity": {
+    "en": "carrying capacity",
+    "freq": 3,
+    "tooltip": "CarryWeight",
+    "zh": "负重"
+  },
+  "ChannelDivinity|Channel Divinity": {
+    "en": "Channel Divinity",
+    "freq": 5,
+    "tooltip": "ChannelDivinity",
+    "zh": "引导神力"
+  },
+  "ChannelOath|Channel Oath": {
+    "en": "Channel Oath",
+    "freq": 1,
+    "tooltip": "ChannelOath",
+    "zh": "引导誓言"
+  },
+  "ChannelOath|Channel Oath Charge": {
+    "en": "Channel Oath Charge",
+    "freq": 1,
+    "tooltip": "ChannelOath",
+    "zh": "引导誓言充能"
+  },
+  "ChannelOath|Channel Oath Charges": {
+    "en": "Channel Oath Charges",
+    "freq": 1,
+    "tooltip": "ChannelOath",
+    "zh": "引导誓言充能"
+  },
+  "Charisma|Charisma": {
+    "en": "Charisma",
+    "freq": 28,
+    "tooltip": "Charisma",
+    "zh": "魅力"
+  },
+  "CharmedGroup|Charmed": {
+    "en": "Charmed",
+    "freq": 5,
+    "tooltip": "CharmedGroup",
+    "zh": "魅惑"
+  },
+  "Check|check": {
+    "en": "check",
+    "freq": 2,
+    "tooltip": "Check",
+    "zh": "检定"
+  },
+  "Concentration|Concentrating": {
+    "en": "Concentrating",
+    "freq": 3,
+    "tooltip": "Concentration",
+    "zh": "专注"
+  },
+  "Concentration|Concentration": {
+    "en": "Concentration",
+    "freq": 7,
+    "tooltip": "Concentration",
+    "zh": "劣势"
+  },
+  "Concentration|concentrating": {
+    "en": "concentrating",
+    "freq": 6,
+    "tooltip": "Concentration",
+    "zh": "专注"
+  },
+  "Constitution|Constitution": {
+    "en": "Constitution",
+    "freq": 19,
+    "tooltip": "Constitution",
+    "zh": "体质"
+  },
+  "Continue your campaign in dishonour.": {
+    "en": "Continue your campaign in dishonour.",
+    "freq": 1,
+    "tooltip": null,
+    "zh": "不光彩地继续战役。"
+  },
+  "CriticalHit|Critical Hit": {
+    "en": "Critical Hit",
+    "freq": 52,
+    "tooltip": "CriticalHit",
+    "zh": "重击"
+  },
+  "CriticalHit|Critical Hits": {
+    "en": "Critical Hits",
+    "freq": 7,
+    "tooltip": "CriticalHit",
+    "zh": "重击"
+  },
+  "CriticalHit|Critically Hit": {
+    "en": "Critically Hit",
+    "freq": 8,
+    "tooltip": "CriticalHit",
+    "zh": "重击"
+  },
+  "CriticalHit|Critically Hits": {
+    "en": "Critically Hits",
+    "freq": 1,
+    "tooltip": "CriticalHit",
+    "zh": "重击"
+  },
+  "CriticalHit|critical hit": {
+    "en": "critical hit",
+    "freq": 1,
+    "tooltip": "CriticalHit",
+    "zh": "重击"
+  },
+  "DARKVISION|Darkvision": {
+    "en": "Darkvision",
+    "freq": 2,
+    "tooltip": "DARKVISION",
+    "zh": "黑暗视觉"
+  },
+  "DAYLIGHT|Daylight": {
+    "en": "Daylight",
+    "freq": 1,
+    "tooltip": "DAYLIGHT",
+    "zh": "昼明术"
+  },
+  "DAZED|Daze": {
+    "en": "Daze",
+    "freq": 5,
+    "tooltip": "DAZED",
+    "zh": "眩晕"
+  },
+  "DAZED|Dazed": {
+    "en": "Dazed",
+    "freq": 6,
+    "tooltip": "DAZED",
+    "zh": "眩晕"
+  },
+  "DAZED|Dazes": {
+    "en": "Dazes",
+    "freq": 2,
+    "tooltip": "DAZED",
+    "zh": "眩晕"
+  },
+  "DAZED|Dazing": {
+    "en": "Dazing",
+    "freq": 1,
+    "tooltip": "DAZED",
+    "zh": "眩晕"
+  },
+  "DEATHSHEAD_UNSTOPPABLE_1|Unstoppable": {
+    "en": "Unstoppable",
+    "freq": 2,
+    "tooltip": "DEATHSHEAD_UNSTOPPABLE_1",
+    "zh": "不可撼动"
+  },
+  "DEATH_WARD|Death Ward": {
+    "en": "Death Ward",
+    "freq": 3,
+    "tooltip": "DEATH_WARD",
+    "zh": "防死结界"
+  },
+  "DEBRIS_THRESHOLD_GREATER|Greater Toughness": {
+    "en": "Greater Toughness",
+    "freq": 1,
+    "tooltip": "DEBRIS_THRESHOLD_GREATER",
+    "zh": "高级刚毅"
+  },
+  "DEBRIS_THRESHOLD_LESSER|Lesser": {
+    "en": "Lesser",
+    "freq": 1,
+    "tooltip": "DEBRIS_THRESHOLD_LESSER",
+    "zh": "次级"
+  },
+  "DEBRIS_THRESHOLD|Medium": {
+    "en": "Medium",
+    "freq": 1,
+    "tooltip": "DEBRIS_THRESHOLD",
+    "zh": "中级"
+  },
+  "DIAMONDSCALES_BULETTE|Diamond Scales": {
+    "en": "Diamond Scales",
+    "freq": 1,
+    "tooltip": "DIAMONDSCALES_BULETTE",
+    "zh": "结晶鳞片"
+  },
+  "DIFFICULT_TERRAIN_VINES|Vine Surface": {
+    "en": "Vine Surface",
+    "freq": 2,
+    "tooltip": "DIFFICULT_TERRAIN_VINES",
+    "zh": "藤蔓地表"
+  },
+  "DIFFICULT_TERRAIN|Difficult Terrain": {
+    "en": "Difficult Terrain",
+    "freq": 27,
+    "tooltip": "DIFFICULT_TERRAIN",
+    "zh": "劣势地形"
+  },
+  "DIGESTIVE_SAP|Digestive Juices": {
+    "en": "Digestive Juices",
+    "freq": 3,
+    "tooltip": "DIGESTIVE_SAP",
+    "zh": "消化液"
+  },
+  "DISARMED|Disarm": {
+    "en": "Disarm",
+    "freq": 4,
+    "tooltip": "DISARMED",
+    "zh": "缴械"
+  },
+  "DISEASED|Diseased": {
+    "en": "Diseased",
+    "freq": 1,
+    "tooltip": "DISEASED",
+    "zh": "患病"
+  },
+  "DISENGAGE|Disengage": {
+    "en": "Disengage",
+    "freq": 1,
+    "tooltip": "DISENGAGE",
+    "zh": "撤离"
+  },
+  "DISTRACTED|Distract": {
+    "en": "Distract",
+    "freq": 3,
+    "tooltip": "DISTRACTED",
+    "zh": "分心"
+  },
+  "DOMINATE_PERSON|Dominate": {
+    "en": "Dominate",
+    "freq": 1,
+    "tooltip": "DOMINATE_PERSON",
+    "zh": "支配"
+  },
+  "DOMINATE_PERSON|Dominated": {
+    "en": "Dominated",
+    "freq": 2,
+    "tooltip": "DOMINATE_PERSON",
+    "zh": "受控"
+  },
+  "DOPPELGANGER_OFFBALANCE|Ambush": {
+    "en": "Ambush",
+    "freq": 1,
+    "tooltip": "DOPPELGANGER_OFFBALANCE",
+    "zh": "伏击"
+  },
+  "DOPPELGANGER_OFFBALANCE|Ambushed": {
+    "en": "Ambushed",
+    "freq": 2,
+    "tooltip": "DOPPELGANGER_OFFBALANCE",
+    "zh": "伏击"
+  },
+  "DOPPELGANGER_OFFBALANCE|Ambushed by a Doppelganger": {
+    "en": "Ambushed by a Doppelganger",
+    "freq": 1,
+    "tooltip": "DOPPELGANGER_OFFBALANCE",
+    "zh": "攻击掷骰"
+  },
+  "DOWNED|Downed": {
+    "en": "Downed",
+    "freq": 7,
+    "tooltip": "DOWNED",
+    "zh": "倒地"
+  },
+  "DRAGON_SKELETAL_FLIGHTSTATE|Hoarding Energy": {
+    "en": "Hoarding Energy",
+    "freq": 2,
+    "tooltip": "DRAGON_SKELETAL_FLIGHTSTATE",
+    "zh": "贮藏能量"
+  },
+  "DRIDER_LEADERSHIP_ENEMY|Spindleweb Skepticism": {
+    "en": "Spindleweb Skepticism",
+    "freq": 1,
+    "tooltip": "DRIDER_LEADERSHIP_ENEMY",
+    "zh": "织网猜疑"
+  },
+  "DRUNK|Drunk": {
+    "en": "Drunk",
+    "freq": 8,
+    "tooltip": "DRUNK",
+    "zh": "醉酒"
+  },
+  "Darkvision|Darkvision": {
+    "en": "Darkvision",
+    "freq": 2,
+    "tooltip": "Darkvision",
+    "zh": "黑暗视觉"
+  },
+  "Deception|Deception": {
+    "en": "Deception",
+    "freq": 2,
+    "tooltip": "Deception",
+    "zh": "隐匿"
+  },
+  "Dexterity|Dexterity": {
+    "en": "Dexterity",
+    "freq": 21,
+    "tooltip": "Dexterity",
+    "zh": "敏捷"
+  },
+  "DifficultyClass|DC": {
+    "en": "DC",
+    "freq": 8,
+    "tooltip": "DifficultyClass",
+    "zh": "难度等级"
+  },
+  "DifficultyClass|Difficulty Class": {
+    "en": "Difficulty Class",
+    "freq": 7,
+    "tooltip": "DifficultyClass",
+    "zh": "难度等级"
+  },
+  "DifficultyClass|Spell Save DC": {
+    "en": "Spell Save DC",
+    "freq": 5,
+    "tooltip": "DifficultyClass",
+    "zh": "法术豁免难度等级"
+  },
+  "DifficultyClass|difficult": {
+    "en": "difficult",
+    "freq": 1,
+    "tooltip": "DifficultyClass",
+    "zh": "难度"
+  },
+  "Dippable|Dippable": {
+    "en": "Dippable",
+    "freq": 1,
+    "tooltip": "Dippable",
+    "zh": "可蘸取"
+  },
+  "Dippable|Dippable Weapon": {
+    "en": "Dippable Weapon",
+    "freq": 1,
+    "tooltip": "Dippable",
+    "zh": "可蘸取"
+  },
+  "Disadvantage|Disadvantage": {
+    "en": "Disadvantage",
+    "freq": 86,
+    "tooltip": "Disadvantage",
+    "zh": "劣势"
+  },
+  "Disengage |Disengage": {
+    "en": "Disengage",
+    "freq": 2,
+    "tooltip": "Disengage ",
+    "zh": "撤离"
+  },
+  "Downed|Down": {
+    "en": "Down",
+    "freq": 1,
+    "tooltip": "Downed",
+    "zh": "倒地"
+  },
+  "Downed|Downed": {
+    "en": "Downed",
+    "freq": 14,
+    "tooltip": "Downed",
+    "zh": "倒地"
+  },
+  "Downed|Downs": {
+    "en": "Downs",
+    "freq": 1,
+    "tooltip": "Downed",
+    "zh": "倒地"
+  },
+  "ENCUMBERED_HEAVY|Encumbered": {
+    "en": "Encumbered",
+    "freq": 1,
+    "tooltip": "ENCUMBERED_HEAVY",
+    "zh": "超重"
+  },
+  "ENCUMBERED_LIGHT|Encumbered": {
+    "en": "Encumbered",
+    "freq": 1,
+    "tooltip": "ENCUMBERED_LIGHT",
+    "zh": "超重"
+  },
+  "ENCUMBERED_MAX|Encumbered": {
+    "en": "Encumbered",
+    "freq": 1,
+    "tooltip": "ENCUMBERED_MAX",
+    "zh": "超重"
+  },
+  "END_KARSUSCOMPULSION_CHANNEL|channel": {
+    "en": "channel",
+    "freq": 1,
+    "tooltip": "END_KARSUSCOMPULSION_CHANNEL",
+    "zh": "引导"
+  },
+  "END_Mindflayer_CrownDomination|Karsus' Compulsion": {
+    "en": "Karsus' Compulsion",
+    "freq": 1,
+    "tooltip": "END_Mindflayer_CrownDomination",
+    "zh": "卡尔萨斯强迫术"
+  },
+  "END_NETHERBRAIN_SLOW|Mindbreaks": {
+    "en": "Mindbreaks",
+    "freq": 1,
+    "tooltip": "END_NETHERBRAIN_SLOW",
+    "zh": "精神破碎"
+  },
+  "ENFEEBLINGARROW|Feeble": {
+    "en": "Feeble",
+    "freq": 1,
+    "tooltip": "ENFEEBLINGARROW",
+    "zh": "虚弱"
+  },
+  "ENLARGED|Enlarged": {
+    "en": "Enlarged",
+    "freq": 1,
+    "tooltip": "ENLARGED",
+    "zh": "巨化"
+  },
+  "ENLARGE|Enlarge": {
+    "en": "Enlarge",
+    "freq": 2,
+    "tooltip": "ENLARGE",
+    "zh": "巨化"
+  },
+  "ENLARGE|Enlarged": {
+    "en": "Enlarged",
+    "freq": 1,
+    "tooltip": "ENLARGE",
+    "zh": "巨化"
+  },
+  "ENSNARED_VINES|Entangle": {
+    "en": "Entangle",
+    "freq": 2,
+    "tooltip": "ENSNARED_VINES",
+    "zh": "纠缠"
+  },
+  "ENSNARED_VINES|Entangled": {
+    "en": "Entangled",
+    "freq": 2,
+    "tooltip": "ENSNARED_VINES",
+    "zh": "缠绕"
+  },
+  "ENSNARED_VINES|Entangling": {
+    "en": "Entangling",
+    "freq": 8,
+    "tooltip": "ENSNARED_VINES",
+    "zh": "缠绕"
+  },
+  "ENSNARED|Ensnared": {
+    "en": "Ensnared",
+    "freq": 1,
+    "tooltip": "ENSNARED",
+    "zh": "捕获"
+  },
+  "ENSNARED|Entangled": {
+    "en": "Entangled",
+    "freq": 1,
+    "tooltip": "ENSNARED",
+    "zh": "被缠绕"
+  },
+  "ENSNARING_STRIKE_2|Ensnare": {
+    "en": "Ensnare",
+    "freq": 2,
+    "tooltip": "ENSNARING_STRIKE_2",
+    "zh": "诱捕"
+  },
+  "ENSNARING_STRIKE_3|Ensnare": {
+    "en": "Ensnare",
+    "freq": 2,
+    "tooltip": "ENSNARING_STRIKE_3",
+    "zh": "诱捕"
+  },
+  "ENSNARING_STRIKE|Ensnare": {
+    "en": "Ensnare",
+    "freq": 2,
+    "tooltip": "ENSNARING_STRIKE",
+    "zh": "诱捕"
+  },
+  "ENSNARING_STRIKE|Ensnared": {
+    "en": "Ensnared",
+    "freq": 1,
+    "tooltip": "ENSNARING_STRIKE",
+    "zh": "捕获"
+  },
+  "ENTOMBED|Cocoon": {
+    "en": "Cocoon",
+    "freq": 1,
+    "tooltip": "ENTOMBED",
+    "zh": "茧缚"
+  },
+  "EXHAUSTED|Exhausted": {
+    "en": "Exhausted",
+    "freq": 1,
+    "tooltip": "EXHAUSTED",
+    "zh": "力竭"
+  },
+  "ElementalAffinity_Resistance_Check|Elemental Affinity": {
+    "en": "Elemental Affinity",
+    "freq": 5,
+    "tooltip": "ElementalAffinity_Resistance_Check",
+    "zh": "元素亲和"
+  },
+  "Encumbered|Encumbered": {
+    "en": "Encumbered",
+    "freq": 1,
+    "tooltip": "Encumbered",
+    "zh": "超重"
+  },
+  "End your campaign with honour.": {
+    "en": "End your campaign with honour.",
+    "freq": 1,
+    "tooltip": null,
+    "zh": "光荣地结束战役。"
+  },
+  "EvocationSpells|Evocation spells": {
+    "en": "Evocation spells",
+    "freq": 1,
+    "tooltip": "EvocationSpells",
+    "zh": "塑能法术"
+  },
+  "Expertise|Expert": {
+    "en": "Expert",
+    "freq": 2,
+    "tooltip": "Expertise",
+    "zh": "专精"
+  },
+  "Expertise|Expertise": {
+    "en": "Expertise",
+    "freq": 1,
+    "tooltip": "Expertise",
+    "zh": "检定"
+  },
+  "ExtraAttack|Extra Attack": {
+    "en": "Extra Attack",
+    "freq": 3,
+    "tooltip": "ExtraAttack",
+    "zh": "额外攻击"
+  },
+  "FAERIE_FIRE|Faerie Fire": {
+    "en": "Faerie Fire",
+    "freq": 3,
+    "tooltip": "FAERIE_FIRE",
+    "zh": "妖火"
+  },
+  "FEARED|Fear": {
+    "en": "Fear",
+    "freq": 4,
+    "tooltip": "FEARED",
+    "zh": "恐惧"
+  },
+  "FEARED|Fearful": {
+    "en": "Fearful",
+    "freq": 3,
+    "tooltip": "FEARED",
+    "zh": "恐惧"
+  },
+  "FEARED|Frighten": {
+    "en": "Frighten",
+    "freq": 1,
+    "tooltip": "FEARED",
+    "zh": "恐慌"
+  },
+  "FEATHER_FALL|Feather Fall": {
+    "en": "Feather Fall",
+    "freq": 1,
+    "tooltip": "FEATHER_FALL",
+    "zh": "羽落术"
+  },
+  "FLANKED|Threatened": {
+    "en": "Threatened",
+    "freq": 3,
+    "tooltip": "FLANKED",
+    "zh": "威胁"
+  },
+  "FLESH_TO_STONE_1|Restraining": {
+    "en": "Restraining",
+    "freq": 1,
+    "tooltip": "FLESH_TO_STONE_1",
+    "zh": "束缚"
+  },
+  "FOR_OWLBEAR_ENRAGE_HARDCORE|Enraged": {
+    "en": "Enraged",
+    "freq": 1,
+    "tooltip": "FOR_OWLBEAR_ENRAGE_HARDCORE",
+    "zh": "激怒"
+  },
+  "FOR_OWLBEAR_ENRAGE_HARDCORE|Rage": {
+    "en": "Rage",
+    "freq": 1,
+    "tooltip": "FOR_OWLBEAR_ENRAGE_HARDCORE",
+    "zh": "狂暴"
+  },
+  "FOR_OWLBEAR_ENRAGE|Owlbear's Rage": {
+    "en": "Owlbear's Rage",
+    "freq": 1,
+    "tooltip": "FOR_OWLBEAR_ENRAGE",
+    "zh": "枭熊之怒"
+  },
+  "FOR_SPIDERQUEEN_SILKTOMB|Gossamer Tomb": {
+    "en": "Gossamer Tomb",
+    "freq": 1,
+    "tooltip": "FOR_SPIDERQUEEN_SILKTOMB",
+    "zh": "蛛丝坟墓"
+  },
+  "FREEDOM_OF_MOVEMENT|Freedom of Movement": {
+    "en": "Freedom of Movement",
+    "freq": 1,
+    "tooltip": "FREEDOM_OF_MOVEMENT",
+    "zh": "行动自如"
+  },
+  "FRIGHTENED|Fear": {
+    "en": "Fear",
+    "freq": 1,
+    "tooltip": "FRIGHTENED",
+    "zh": "劣势"
+  },
+  "FRIGHTENED|Frighten": {
+    "en": "Frighten",
+    "freq": 24,
+    "tooltip": "FRIGHTENED",
+    "zh": "恐慌"
+  },
+  "FRIGHTENED|Frightened": {
+    "en": "Frightened",
+    "freq": 43,
+    "tooltip": "FRIGHTENED",
+    "zh": "恐慌"
+  },
+  "FRIGHTENED|Frightening": {
+    "en": "Frightening",
+    "freq": 4,
+    "tooltip": "FRIGHTENED",
+    "zh": "恐慌"
+  },
+  "FRIGHTENED|Frightens": {
+    "en": "Frightens",
+    "freq": 6,
+    "tooltip": "FRIGHTENED",
+    "zh": "恐慌"
+  },
+  "FROZEN|Frozen": {
+    "en": "Frozen",
+    "freq": 1,
+    "tooltip": "FROZEN",
+    "zh": "冰冻"
+  },
+  "Finesse|Finesse": {
+    "en": "Finesse",
+    "freq": 2,
+    "tooltip": "Finesse",
+    "zh": "灵巧"
+  },
+  "Finesse|Finesse Weapon": {
+    "en": "Finesse Weapon",
+    "freq": 2,
+    "tooltip": "Finesse",
+    "zh": "熟练项"
+  },
+  "GAPING_WOUND|Gaping Wounds": {
+    "en": "Gaping Wounds",
+    "freq": 5,
+    "tooltip": "GAPING_WOUND",
+    "zh": "开放伤口"
+  },
+  "GARROTE_TARGET_HUMANOID|Garrotting": {
+    "en": "Garrotting",
+    "freq": 3,
+    "tooltip": "GARROTE_TARGET_HUMANOID",
+    "zh": "绞杀"
+  },
+  "GARROTE_TARGET_RESTRAINED|Restraining": {
+    "en": "Restraining",
+    "freq": 1,
+    "tooltip": "GARROTE_TARGET_RESTRAINED",
+    "zh": "束缚"
+  },
+  "GARROTE_TARGET|Garrotting": {
+    "en": "Garrotting",
+    "freq": 3,
+    "tooltip": "GARROTE_TARGET",
+    "zh": "绞杀"
+  },
+  "GNOLL_BREWING_RAGE_UNLOCK|Frenzied": {
+    "en": "Frenzied",
+    "freq": 1,
+    "tooltip": "GNOLL_BREWING_RAGE_UNLOCK",
+    "zh": "狂乱"
+  },
+  "GOB_LOSTBALANCE|Off Balanced": {
+    "en": "Off Balanced",
+    "freq": 1,
+    "tooltip": "GOB_LOSTBALANCE",
+    "zh": "失衡"
+  },
+  "GRAPPLED|Grappled": {
+    "en": "Grappled",
+    "freq": 1,
+    "tooltip": "GRAPPLED",
+    "zh": "擒抱"
+  },
+  "GRAPPLED|Grappling": {
+    "en": "Grappling",
+    "freq": 1,
+    "tooltip": "GRAPPLED",
+    "zh": "擒抱"
+  },
+  "GREATER_INVISIBILITY|Invisible": {
+    "en": "Invisible",
+    "freq": 2,
+    "tooltip": "GREATER_INVISIBILITY",
+    "zh": "隐形"
+  },
+  "GREMISHKA_ENLARGE|Enlarged": {
+    "en": "Enlarged",
+    "freq": 1,
+    "tooltip": "GREMISHKA_ENLARGE",
+    "zh": "巨化"
+  },
+  "GREMISHKA_HASTE|Hastened": {
+    "en": "Hastened",
+    "freq": 1,
+    "tooltip": "GREMISHKA_HASTE",
+    "zh": "加速"
+  },
+  "GREMISHKA_MAGICALLERGY_AURA|Magic Allergy": {
+    "en": "Magic Allergy",
+    "freq": 2,
+    "tooltip": "GREMISHKA_MAGICALLERGY_AURA",
+    "zh": "魔法过敏"
+  },
+  "GROUNDED|Grounded": {
+    "en": "Grounded",
+    "freq": 1,
+    "tooltip": "GROUNDED",
+    "zh": "钻地"
+  },
+  "GUIDING_BOLT|Guiding Bolt": {
+    "en": "Guiding Bolt",
+    "freq": 1,
+    "tooltip": "GUIDING_BOLT",
+    "zh": "攻击掷骰"
+  },
+  "HASTE_LETHARGY|Lethargic": {
+    "en": "Lethargic",
+    "freq": 5,
+    "tooltip": "HASTE_LETHARGY",
+    "zh": "昏睡"
+  },
+  "HASTE_SURFACE|Haste": {
+    "en": "Haste",
+    "freq": 1,
+    "tooltip": "HASTE_SURFACE",
+    "zh": "加速"
+  },
+  "HASTE_SURFACE|Haste Spores": {
+    "en": "Haste Spores",
+    "freq": 1,
+    "tooltip": "HASTE_SURFACE",
+    "zh": "多重攻击"
+  },
+  "HASTE|Hasten": {
+    "en": "Hasten",
+    "freq": 2,
+    "tooltip": "HASTE",
+    "zh": "加速"
+  },
+  "HASTE|Hastened": {
+    "en": "Hastened",
+    "freq": 7,
+    "tooltip": "HASTE",
+    "zh": "加速"
+  },
+  "HASTE|Hastens": {
+    "en": "Hastens",
+    "freq": 1,
+    "tooltip": "HASTE",
+    "zh": "加速"
+  },
+  "HAV_MAG_INFERNAL_FIRE|Fiendish Fire": {
+    "en": "Fiendish Fire",
+    "freq": 1,
+    "tooltip": "HAV_MAG_INFERNAL_FIRE",
+    "zh": "邪魔火焰"
+  },
+  "HAV_MAG_INFERNAL_FIRE|Infernal Burning": {
+    "en": "Infernal Burning",
+    "freq": 1,
+    "tooltip": "HAV_MAG_INFERNAL_FIRE",
+    "zh": "炼狱火"
+  },
+  "HEAT_METAL|Heating": {
+    "en": "Heating",
+    "freq": 1,
+    "tooltip": "HEAT_METAL",
+    "zh": "加热"
+  },
+  "HEROISM|Heroism": {
+    "en": "Heroism",
+    "freq": 1,
+    "tooltip": "HEROISM",
+    "zh": "英雄气概"
+  },
+  "HEXBLADES_CURSE|Hexblade's Curse": {
+    "en": "Hexblade's Curse",
+    "freq": 6,
+    "tooltip": "HEXBLADES_CURSE",
+    "zh": "咒剑诅咒"
+  },
+  "HEX_DEXTERITY|Hexes": {
+    "en": "Hexes",
+    "freq": 1,
+    "tooltip": "HEX_DEXTERITY",
+    "zh": "脆弱诅咒"
+  },
+  "HIDDEN|Hidden": {
+    "en": "Hidden",
+    "freq": 1,
+    "tooltip": "HIDDEN",
+    "zh": "躲藏"
+  },
+  "HIDEOUS_LAUGHTER|Hideous Laughter": {
+    "en": "Hideous Laughter",
+    "freq": 1,
+    "tooltip": "HIDEOUS_LAUGHTER",
+    "zh": "狂笑术"
+  },
+  "HIDEOUS_LAUGHTER|Laughter": {
+    "en": "Laughter",
+    "freq": 1,
+    "tooltip": "HIDEOUS_LAUGHTER",
+    "zh": "狂笑"
+  },
+  "HIDEOUS_LAUGHTER|fits of laughter": {
+    "en": "fits of laughter",
+    "freq": 1,
+    "tooltip": "HIDEOUS_LAUGHTER",
+    "zh": "狂笑术"
+  },
+  "HINDERED|Weak Grip": {
+    "en": "Weak Grip",
+    "freq": 1,
+    "tooltip": "HINDERED",
+    "zh": "弱腕"
+  },
+  "HOBGOBLIN_LEADERSHIP_ENEMY|Absolute's Enemies": {
+    "en": "Absolute's Enemies",
+    "freq": 1,
+    "tooltip": "HOBGOBLIN_LEADERSHIP_ENEMY",
+    "zh": "至上真神之敌"
+  },
+  "HOBGOBLIN_LEADERSHIP_ENEMY|Absolute's Enemy": {
+    "en": "Absolute's Enemy",
+    "freq": 1,
+    "tooltip": "HOBGOBLIN_LEADERSHIP_ENEMY",
+    "zh": "至上真神之敌"
+  },
+  "HOBGOBLIN_LEADERSHIP|Leadership": {
+    "en": "Leadership",
+    "freq": 1,
+    "tooltip": "HOBGOBLIN_LEADERSHIP",
+    "zh": "领导力"
+  },
+  "HOLD_PERSON|Hold": {
+    "en": "Hold",
+    "freq": 1,
+    "tooltip": "HOLD_PERSON",
+    "zh": "控制"
+  },
+  "HP_REDUCTION_VAMPIRE|Blood-Sapped": {
+    "en": "Blood-Sapped",
+    "freq": 1,
+    "tooltip": "HP_REDUCTION_VAMPIRE",
+    "zh": "吸过血"
+  },
+  "HP_REDUCTION_VAMPIRE|Sap": {
+    "en": "Sap",
+    "freq": 1,
+    "tooltip": "HP_REDUCTION_VAMPIRE",
+    "zh": "吸取"
+  },
+  "HUNTERS_MARK|Hunter's Mark": {
+    "en": "Hunter's Mark",
+    "freq": 1,
+    "tooltip": "HUNTERS_MARK",
+    "zh": "克敌机先"
+  },
+  "HYPNOTIC_PATTERN|Hypnotise": {
+    "en": "Hypnotise",
+    "freq": 1,
+    "tooltip": "HYPNOTIC_PATTERN",
+    "zh": "催眠"
+  },
+  "Hidden": {
+    "en": "Hidden",
+    "freq": 1,
+    "tooltip": null,
+    "zh": "隐藏"
+  },
+  "HighGroundRules|High Ground Rules": {
+    "en": "High Ground Rules",
+    "freq": 5,
+    "tooltip": "HighGroundRules",
+    "zh": "高地规则"
+  },
+  "History|History": {
+    "en": "History",
+    "freq": 2,
+    "tooltip": "History",
+    "zh": "熟练项"
+  },
+  "HitPoints|HP": {
+    "en": "HP",
+    "freq": 1,
+    "tooltip": "HitPoints",
+    "zh": "生命值"
+  },
+  "HitPoints|Hit Point": {
+    "en": "Hit Point",
+    "freq": 1,
+    "tooltip": "HitPoints",
+    "zh": "生命值"
+  },
+  "HitPoints|Hit Point(s)": {
+    "en": "Hit Point(s)",
+    "freq": 1,
+    "tooltip": "HitPoints",
+    "zh": "生命值"
+  },
+  "HitPoints|Hit Points": {
+    "en": "Hit Points",
+    "freq": 2,
+    "tooltip": "HitPoints",
+    "zh": "生命值"
+  },
+  "HitPoints|Hit point": {
+    "en": "Hit point",
+    "freq": 1,
+    "tooltip": "HitPoints",
+    "zh": "生命值"
+  },
+  "HitPoints|hit point": {
+    "en": "hit point",
+    "freq": 10,
+    "tooltip": "HitPoints",
+    "zh": "生命值"
+  },
+  "HitPoints|hit points": {
+    "en": "hit points",
+    "freq": 112,
+    "tooltip": "HitPoints",
+    "zh": "生命值"
+  },
+  "INCAPACITATED_DND|Incapacitate": {
+    "en": "Incapacitate",
+    "freq": 1,
+    "tooltip": "INCAPACITATED_DND",
+    "zh": "失能"
+  },
+  "INCAPACITATED_DND|Incapacitated": {
+    "en": "Incapacitated",
+    "freq": 2,
+    "tooltip": "INCAPACITATED_DND",
+    "zh": "失能"
+  },
+  "INCAPACITATED|Incapacitated": {
+    "en": "Incapacitated",
+    "freq": 6,
+    "tooltip": "INCAPACITATED",
+    "zh": "失能"
+  },
+  "INCAPACITATED|incapacitated": {
+    "en": "incapacitated",
+    "freq": 2,
+    "tooltip": "INCAPACITATED",
+    "zh": "失能"
+  },
+  "INCUBUS_CHARM|Charm": {
+    "en": "Charm",
+    "freq": 1,
+    "tooltip": "INCUBUS_CHARM",
+    "zh": "魅惑"
+  },
+  "INCUBUS_CHARM|Fiendishly Seduce": {
+    "en": "Fiendishly Seduce",
+    "freq": 1,
+    "tooltip": "INCUBUS_CHARM",
+    "zh": "邪魔引诱"
+  },
+  "INCUBUS_DRAININGKISS_HALFDRAINED|Drained": {
+    "en": "Drained",
+    "freq": 1,
+    "tooltip": "INCUBUS_DRAININGKISS_HALFDRAINED",
+    "zh": "力竭"
+  },
+  "INCUBUS_DRAININGKISS|Sumptuously Drained": {
+    "en": "Sumptuously Drained",
+    "freq": 1,
+    "tooltip": "INCUBUS_DRAININGKISS",
+    "zh": "精疲力竭"
+  },
+  "INFECTIOUS_BITE_WOLF|Septic": {
+    "en": "Septic",
+    "freq": 1,
+    "tooltip": "INFECTIOUS_BITE_WOLF",
+    "zh": "败血症"
+  },
+  "INT_INFERNALCHAINS_RIGHT|Infernal Chain": {
+    "en": "Infernal Chain",
+    "freq": 1,
+    "tooltip": "INT_INFERNALCHAINS_RIGHT",
+    "zh": "免疫"
+  },
+  "INVISIBILITY|Invisibility": {
+    "en": "Invisibility",
+    "freq": 1,
+    "tooltip": "INVISIBILITY",
+    "zh": "动作"
+  },
+  "INVISIBILITY|Invisible": {
+    "en": "Invisible",
+    "freq": 11,
+    "tooltip": "INVISIBILITY",
+    "zh": "隐形"
+  },
+  "INVISIBLE|Invisibility": {
+    "en": "Invisibility",
+    "freq": 1,
+    "tooltip": "INVISIBLE",
+    "zh": "识破隐形"
+  },
+  "INVISIBLE|Invisible": {
+    "en": "Invisible",
+    "freq": 20,
+    "tooltip": "INVISIBLE",
+    "zh": "隐形"
+  },
+  "IRRESISTIBLE_DANCE|Irrestible Dance": {
+    "en": "Irrestible Dance",
+    "freq": 1,
+    "tooltip": "IRRESISTIBLE_DANCE",
+    "zh": "奥图迷舞"
+  },
+  "Immune|Immune": {
+    "en": "Immune",
+    "freq": 36,
+    "tooltip": "Immune",
+    "zh": "免疫"
+  },
+  "Immune|Immunities": {
+    "en": "Immunities",
+    "freq": 3,
+    "tooltip": "Immune",
+    "zh": "免疫"
+  },
+  "Immune|Immunity": {
+    "en": "Immunity",
+    "freq": 28,
+    "tooltip": "Immune",
+    "zh": "免疫"
+  },
+  "IncapacitatingConditions|Incapacitating Conditions": {
+    "en": "Incapacitating Conditions",
+    "freq": 1,
+    "tooltip": "IncapacitatingConditions",
+    "zh": "失能"
+  },
+  "IncapacitatingCondition|Incapacitating Condition": {
+    "en": "Incapacitating Condition",
+    "freq": 3,
+    "tooltip": "IncapacitatingCondition",
+    "zh": "失能状态"
+  },
+  "IncapacitatingCondition|Incapacitating Conditions": {
+    "en": "Incapacitating Conditions",
+    "freq": 1,
+    "tooltip": "IncapacitatingCondition",
+    "zh": "失能状态"
+  },
+  "Insight|Insight": {
+    "en": "Insight",
+    "freq": 1,
+    "tooltip": "Insight",
+    "zh": "宗教"
+  },
+  "Inspiration|Inspiration": {
+    "en": "Inspiration",
+    "freq": 4,
+    "tooltip": "Inspiration",
+    "zh": "激励点"
+  },
+  "InstinctiveCharm|Instinctive Charm": {
+    "en": "Instinctive Charm",
+    "freq": 1,
+    "tooltip": "InstinctiveCharm",
+    "zh": "直觉魅惑"
+  },
+  "Intelligence|Intelligence": {
+    "en": "Intelligence",
+    "freq": 26,
+    "tooltip": "Intelligence",
+    "zh": "智力"
+  },
+  "Interrupt_InstinctiveCharm|Instinctive Charm": {
+    "en": "Instinctive Charm",
+    "freq": 1,
+    "tooltip": "Interrupt_InstinctiveCharm",
+    "zh": "豁免检定"
+  },
+  "Intimidation|Intimidation": {
+    "en": "Intimidation",
+    "freq": 5,
+    "tooltip": "Intimidation",
+    "zh": "熟练项"
+  },
+  "Investigation|Investigation": {
+    "en": "Investigation",
+    "freq": 1,
+    "tooltip": "Investigation",
+    "zh": "熟练项加值"
+  },
+  "KI_RESONATION|Resonate": {
+    "en": "Resonate",
+    "freq": 1,
+    "tooltip": "KI_RESONATION",
+    "zh": "共鸣"
+  },
+  "KI_RESONATION|Resonating": {
+    "en": "Resonating",
+    "freq": 2,
+    "tooltip": "KI_RESONATION",
+    "zh": "共鸣"
+  },
+  "KNOCKED_OUT_INHERITABLE|Knocked Out": {
+    "en": "Knocked Out",
+    "freq": 1,
+    "tooltip": "KNOCKED_OUT_INHERITABLE",
+    "zh": "倒地"
+  },
+  "KNOCKED_OUT_TEMPORARILY|Knocked Out": {
+    "en": "Knocked Out",
+    "freq": 1,
+    "tooltip": "KNOCKED_OUT_TEMPORARILY",
+    "zh": "倒地"
+  },
+  "KNOCKED_OUT|Knock it Out": {
+    "en": "Knock it Out",
+    "freq": 1,
+    "tooltip": "KNOCKED_OUT",
+    "zh": "击晕"
+  },
+  "KNOCKED_OUT|Knocked Out": {
+    "en": "Knocked Out",
+    "freq": 1,
+    "tooltip": "KNOCKED_OUT",
+    "zh": "倒地"
+  },
+  "KiPoint|Ki Point": {
+    "en": "Ki Point",
+    "freq": 6,
+    "tooltip": "KiPoint",
+    "zh": "气点"
+  },
+  "KiPoint|Ki Points": {
+    "en": "Ki Points",
+    "freq": 4,
+    "tooltip": "KiPoint",
+    "zh": "气点"
+  },
+  "KiPoint|ki": {
+    "en": "ki",
+    "freq": 1,
+    "tooltip": "KiPoint",
+    "zh": "气"
+  },
+  "LEGENDARYACTION_SPECTATOR_EYEBEAMNOVA_COUNTER_0|Paranoid Dreams": {
+    "en": "Paranoid Dreams",
+    "freq": 1,
+    "tooltip": "LEGENDARYACTION_SPECTATOR_EYEBEAMNOVA_COUNTER_0",
+    "zh": "偏执梦境"
+  },
+  "LEGENDARYACTION_SPECTATOR_EYEBEAMNOVA|Paranoid Dreams": {
+    "en": "Paranoid Dreams",
+    "freq": 1,
+    "tooltip": "LEGENDARYACTION_SPECTATOR_EYEBEAMNOVA",
+    "zh": "偏执梦境"
+  },
+  "LIFE_OF_THE_PARTY|Life of the Party": {
+    "en": "Life of the Party",
+    "freq": 2,
+    "tooltip": "LIFE_OF_THE_PARTY",
+    "zh": "及时行乐"
+  },
+  "LONGSTRIDER|Longstrider": {
+    "en": "Longstrider",
+    "freq": 2,
+    "tooltip": "LONGSTRIDER",
+    "zh": "大步奔行"
+  },
+  "LOW_ANCIENTLAIR_CURSE|Spell Rot": {
+    "en": "Spell Rot",
+    "freq": 6,
+    "tooltip": "LOW_ANCIENTLAIR_CURSE",
+    "zh": "法术腐烂"
+  },
+  "LOW_BHAALTEMPLE_MARKEDFORMURDER|Bhaal's Edict": {
+    "en": "Bhaal's Edict",
+    "freq": 4,
+    "tooltip": "LOW_BHAALTEMPLE_MARKEDFORMURDER",
+    "zh": "巴尔的法令"
+  },
+  "LOW_CAZADORSPALACE_ASCENSION_BUFF|Sinister Lord": {
+    "en": "Sinister Lord",
+    "freq": 1,
+    "tooltip": "LOW_CAZADORSPALACE_ASCENSION_BUFF",
+    "zh": "邪恶领主"
+  },
+  "LOW_CAZADOR_VAMPIREBAT|Swarmed": {
+    "en": "Swarmed",
+    "freq": 2,
+    "tooltip": "LOW_CAZADOR_VAMPIREBAT",
+    "zh": "包围"
+  },
+  "LOW_DEVILSFEE_BUFF|Infectious Greed": {
+    "en": "Infectious Greed",
+    "freq": 3,
+    "tooltip": "LOW_DEVILSFEE_BUFF",
+    "zh": "传染贪婪"
+  },
+  "LOW_DEVILSFEE_GOLD_STATUS|Mammon's Hold": {
+    "en": "Mammon's Hold",
+    "freq": 1,
+    "tooltip": "LOW_DEVILSFEE_GOLD_STATUS",
+    "zh": "玛门之握"
+  },
+  "LOW_DEVILSFEE_WEALTH|Promise of Wealth": {
+    "en": "Promise of Wealth",
+    "freq": 1,
+    "tooltip": "LOW_DEVILSFEE_WEALTH",
+    "zh": "财富承诺"
+  },
+  "LOW_FATHERCARRION_GREATERCURSE_1|Mystic Carrion's Poisoned Curse": {
+    "en": "Mystic Carrion's Poisoned Curse",
+    "freq": 1,
+    "tooltip": "LOW_FATHERCARRION_GREATERCURSE_1",
+    "zh": "秘术师卡里翁的中毒诅咒"
+  },
+  "LOW_FATHERCARRION_GREATERCURSE_2|Mystic Carrion's Blinding Curse": {
+    "en": "Mystic Carrion's Blinding Curse",
+    "freq": 1,
+    "tooltip": "LOW_FATHERCARRION_GREATERCURSE_2",
+    "zh": "秘术师卡里翁的目盲诅咒"
+  },
+  "LOW_FATHERCARRION_GREATERCURSE_3|Mystic Carrion's Restraining Curse": {
+    "en": "Mystic Carrion's Restraining Curse",
+    "freq": 1,
+    "tooltip": "LOW_FATHERCARRION_GREATERCURSE_3",
+    "zh": "秘术师卡里翁的束缚诅咒"
+  },
+  "LOW_FATHERCARRION_SPIRITPARADE_BUFF|Guardian Wraiths": {
+    "en": "Guardian Wraiths",
+    "freq": 3,
+    "tooltip": "LOW_FATHERCARRION_SPIRITPARADE_BUFF",
+    "zh": "守卫缚灵"
+  },
+  "LOW_FATHERCARRION_SPIRITPARADE_DEBUFF|Wrathful Spirits": {
+    "en": "Wrathful Spirits",
+    "freq": 3,
+    "tooltip": "LOW_FATHERCARRION_SPIRITPARADE_DEBUFF",
+    "zh": "愤怒精魂"
+  },
+  "LOW_GHOST_POSSESSED|Possess": {
+    "en": "Possess",
+    "freq": 1,
+    "tooltip": "LOW_GHOST_POSSESSED",
+    "zh": "附身"
+  },
+  "LOW_GHOST_POSSESSED|Possessed": {
+    "en": "Possessed",
+    "freq": 2,
+    "tooltip": "LOW_GHOST_POSSESSED",
+    "zh": "附身"
+  },
+  "LOW_GITHYANKIPALADIN_VLAAKITHSCRY|Embrace": {
+    "en": "Embrace",
+    "freq": 2,
+    "tooltip": "LOW_GITHYANKIPALADIN_VLAAKITHSCRY",
+    "zh": "失能状态"
+  },
+  "LOW_GITHYANKIPRODIGY_PACIFIED_AURA|Ptarian Pacifism": {
+    "en": "Ptarian Pacifism",
+    "freq": 4,
+    "tooltip": "LOW_GITHYANKIPRODIGY_PACIFIED_AURA",
+    "zh": "普塔瑞安和平守则"
+  },
+  "LOW_GITHYANKIPRODIGY_PACIFIED_BUFF_TECHNICAL|Pacified": {
+    "en": "Pacified",
+    "freq": 1,
+    "tooltip": "LOW_GITHYANKIPRODIGY_PACIFIED_BUFF_TECHNICAL",
+    "zh": "镇静"
+  },
+  "LOW_HOUNDMASTER_HOUNDMASTERSMARK|Marked": {
+    "en": "Marked",
+    "freq": 1,
+    "tooltip": "LOW_HOUNDMASTER_HOUNDMASTERSMARK",
+    "zh": "标记"
+  },
+  "LOW_HOUNDMASTER_PREDATORESSENCE_1|Predator Essence": {
+    "en": "Predator Essence",
+    "freq": 7,
+    "tooltip": "LOW_HOUNDMASTER_PREDATORESSENCE_1",
+    "zh": "捕食者精华"
+  },
+  "LOW_HOUNDMASTER_PREYESSENCE_1|Prey Essence": {
+    "en": "Prey Essence",
+    "freq": 2,
+    "tooltip": "LOW_HOUNDMASTER_PREYESSENCE_1",
+    "zh": "猎物精华"
+  },
+  "LOW_HOUSEOFGRIEF_DOMINATED|Dominate": {
+    "en": "Dominate",
+    "freq": 1,
+    "tooltip": "LOW_HOUSEOFGRIEF_DOMINATED",
+    "zh": "支配"
+  },
+  "LOW_HOUSEOFGRIEF_HEART_CURSE_CONTAINER|Heartform Mapped": {
+    "en": "Heartform Mapped",
+    "freq": 3,
+    "tooltip": "LOW_HOUSEOFGRIEF_HEART_CURSE_CONTAINER",
+    "zh": "心灵绘制"
+  },
+  "LOW_HOUSEOFGRIEF_HEART_CURSE_CRAVEN|Craven": {
+    "en": "Craven",
+    "freq": 1,
+    "tooltip": "LOW_HOUSEOFGRIEF_HEART_CURSE_CRAVEN",
+    "zh": "怯弱之心"
+  },
+  "LOW_HOUSEOFGRIEF_HEART_CURSE_FALSE|False": {
+    "en": "False",
+    "freq": 1,
+    "tooltip": "LOW_HOUSEOFGRIEF_HEART_CURSE_FALSE",
+    "zh": "虚伪之心"
+  },
+  "LOW_HOUSEOFGRIEF_HEART_CURSE_JEALOUS|Jealous": {
+    "en": "Jealous",
+    "freq": 1,
+    "tooltip": "LOW_HOUSEOFGRIEF_HEART_CURSE_JEALOUS",
+    "zh": "嫉妒之心"
+  },
+  "LOW_HOUSEOFGRIEF_HEART_CURSE_MELANCHOLY|Melancholy": {
+    "en": "Melancholy",
+    "freq": 1,
+    "tooltip": "LOW_HOUSEOFGRIEF_HEART_CURSE_MELANCHOLY",
+    "zh": "忧郁之心"
+  },
+  "LOW_HOUSEOFGRIEF_HEART_CURSE_PRYING|Prying": {
+    "en": "Prying",
+    "freq": 1,
+    "tooltip": "LOW_HOUSEOFGRIEF_HEART_CURSE_PRYING",
+    "zh": "窥探之心"
+  },
+  "LOW_HOUSEOFGRIEF_HEART_CURSE_SHADOWHEART|Wayward": {
+    "en": "Wayward",
+    "freq": 1,
+    "tooltip": "LOW_HOUSEOFGRIEF_HEART_CURSE_SHADOWHEART",
+    "zh": "不忠之心"
+  },
+  "LOW_HOUSEOFGRIEF_HEART_CURSE_VIOLENT|Violent": {
+    "en": "Violent",
+    "freq": 1,
+    "tooltip": "LOW_HOUSEOFGRIEF_HEART_CURSE_VIOLENT",
+    "zh": "残暴之心"
+  },
+  "LOW_HOUSEOFGRIEF_MINDFLAYER|ceremorphosis": {
+    "en": "ceremorphosis",
+    "freq": 1,
+    "tooltip": "LOW_HOUSEOFGRIEF_MINDFLAYER",
+    "zh": "蜕变"
+  },
+  "LOW_HOUSEOFHOPE_FIRE|Flame-Feeble": {
+    "en": "Flame-Feeble",
+    "freq": 1,
+    "tooltip": "LOW_HOUSEOFHOPE_FIRE",
+    "zh": "火焰衰弱"
+  },
+  "LOW_ORIN_DEATHBRINGER_ACTIVE|Deathbringer's Legacy": {
+    "en": "Deathbringer's Legacy",
+    "freq": 3,
+    "tooltip": "LOW_ORIN_DEATHBRINGER_ACTIVE",
+    "zh": "死亡使者的遗赠"
+  },
+  "LOW_OSKARSBELOVED_AURA_DISADVANTAGE|Harrowed": {
+    "en": "Harrowed",
+    "freq": 1,
+    "tooltip": "LOW_OSKARSBELOVED_AURA_DISADVANTAGE",
+    "zh": "痛苦"
+  },
+  "LOW_OSKARSBELOVED_SKULL_SLOW|Haunted Approach": {
+    "en": "Haunted Approach",
+    "freq": 1,
+    "tooltip": "LOW_OSKARSBELOVED_SKULL_SLOW",
+    "zh": "闹鬼通道"
+  },
+  "LOW_OSKARSBELOVED_UNNERVED|Unnerved": {
+    "en": "Unnerved",
+    "freq": 2,
+    "tooltip": "LOW_OSKARSBELOVED_UNNERVED",
+    "zh": "气馁"
+  },
+  "LOW_OSKARSBELOVED_UNNERVED|Unnerving": {
+    "en": "Unnerving",
+    "freq": 1,
+    "tooltip": "LOW_OSKARSBELOVED_UNNERVED",
+    "zh": "紧张"
+  },
+  "LOW_POLTERGEIST_INVISIBLE|Invisible": {
+    "en": "Invisible",
+    "freq": 1,
+    "tooltip": "LOW_POLTERGEIST_INVISIBLE",
+    "zh": "劣势"
+  },
+  "LOW_RAMAZITHSTOWER_DEVA_BLESSING|Brand of the Silverlight": {
+    "en": "Brand of the Silverlight",
+    "freq": 1,
+    "tooltip": "LOW_RAMAZITHSTOWER_DEVA_BLESSING",
+    "zh": "银光印记"
+  },
+  "LOW_RAMAZITHSTOWER_DEVA_RADIATING_ORB|Lunar Radiance": {
+    "en": "Lunar Radiance",
+    "freq": 1,
+    "tooltip": "LOW_RAMAZITHSTOWER_DEVA_RADIATING_ORB",
+    "zh": "月之光辉"
+  },
+  "LOW_RAPHAEL_ASCENDEDCAMBION|Ascend": {
+    "en": "Ascend",
+    "freq": 1,
+    "tooltip": "LOW_RAPHAEL_ASCENDEDCAMBION",
+    "zh": "飞升"
+  },
+  "LOW_RAPHAEL_ASCENDEDCAMBION|Ascends": {
+    "en": "Ascends",
+    "freq": 1,
+    "tooltip": "LOW_RAPHAEL_ASCENDEDCAMBION",
+    "zh": "飞升"
+  },
+  "LOW_RAPHAEL_ASCENDEDCAMBION|Hellfire Cambions": {
+    "en": "Hellfire Cambions",
+    "freq": 1,
+    "tooltip": "LOW_RAPHAEL_ASCENDEDCAMBION",
+    "zh": "地狱火坎比翁"
+  },
+  "LOW_RAPHAEL_MONSTER_FORM|Ascended Fiend": {
+    "en": "Ascended Fiend",
+    "freq": 1,
+    "tooltip": "LOW_RAPHAEL_MONSTER_FORM",
+    "zh": "多重攻击"
+  },
+  "LOW_RAPHAEL_OVERCHARGE|Soul Overcharge": {
+    "en": "Soul Overcharge",
+    "freq": 1,
+    "tooltip": "LOW_RAPHAEL_OVERCHARGE",
+    "zh": "灵魂过度充能"
+  },
+  "LOW_RAPHAEL_REPELLING_DIVINITY|Punish Divinity": {
+    "en": "Punish Divinity",
+    "freq": 2,
+    "tooltip": "LOW_RAPHAEL_REPELLING_DIVINITY",
+    "zh": "惩罚神圣"
+  },
+  "LOW_RAPHAEL_SOULLESS|Severed Soul": {
+    "en": "Severed Soul",
+    "freq": 1,
+    "tooltip": "LOW_RAPHAEL_SOULLESS",
+    "zh": "断裂灵魂"
+  },
+  "LOW_RAPHAEL_SOULLESS|Severs": {
+    "en": "Severs",
+    "freq": 1,
+    "tooltip": "LOW_RAPHAEL_SOULLESS",
+    "zh": "切断"
+  },
+  "LOW_RAPHAEL_SOULLESS|Soul Wrenched": {
+    "en": "Soul Wrenched",
+    "freq": 1,
+    "tooltip": "LOW_RAPHAEL_SOULLESS",
+    "zh": "灵魂扭曲"
+  },
+  "LOW_RAPHAEL_STUNNED|Infernally Stunned": {
+    "en": "Infernally Stunned",
+    "freq": 1,
+    "tooltip": "LOW_RAPHAEL_STUNNED",
+    "zh": "炼狱震慑"
+  },
+  "LOW_RAPHAEL_STUNNED|Soul Wrenched": {
+    "en": "Soul Wrenched",
+    "freq": 1,
+    "tooltip": "LOW_RAPHAEL_STUNNED",
+    "zh": "灵魂扭曲"
+  },
+  "LOW_RAPHAEL_STUNNED|Stun": {
+    "en": "Stun",
+    "freq": 2,
+    "tooltip": "LOW_RAPHAEL_STUNNED",
+    "zh": "震慑"
+  },
+  "LOW_REDCAP_BLOODLUST|Bloodlust": {
+    "en": "Bloodlust",
+    "freq": 1,
+    "tooltip": "LOW_REDCAP_BLOODLUST",
+    "zh": "嗜血"
+  },
+  "LOW_RISENSKELETON_MYRKULVEIL|Necrotic Veil": {
+    "en": "Necrotic Veil",
+    "freq": 1,
+    "tooltip": "LOW_RISENSKELETON_MYRKULVEIL",
+    "zh": "黯蚀面纱"
+  },
+  "LOW_RamazithsTower_ElementalSiphon|Siphoned": {
+    "en": "Siphoned",
+    "freq": 2,
+    "tooltip": "LOW_RamazithsTower_ElementalSiphon",
+    "zh": "吸取"
+  },
+  "LOW_Raphael_DancingFlame|Igniting Sparks": {
+    "en": "Igniting Sparks",
+    "freq": 1,
+    "tooltip": "LOW_Raphael_DancingFlame",
+    "zh": "爆燃火花"
+  },
+  "LOW_SAREVOK_DEATHBRINGER_ACTIVE|Deathbringer's Legacy": {
+    "en": "Deathbringer's Legacy",
+    "freq": 3,
+    "tooltip": "LOW_SAREVOK_DEATHBRINGER_ACTIVE",
+    "zh": "死亡使者的遗赠"
+  },
+  "LOW_SAREVOK_ESSENCE_ABAZIGAL|Abagizal": {
+    "en": "Abagizal",
+    "freq": 1,
+    "tooltip": "LOW_SAREVOK_ESSENCE_ABAZIGAL",
+    "zh": "阿巴济戈"
+  },
+  "LOW_SAREVOK_ESSENCE_AMELYSSAN|Amelyssan": {
+    "en": "Amelyssan",
+    "freq": 1,
+    "tooltip": "LOW_SAREVOK_ESSENCE_AMELYSSAN",
+    "zh": "阿梅丽萨"
+  },
+  "LOW_SAREVOK_ESSENCE_ILLASERA|Illasera": {
+    "en": "Illasera",
+    "freq": 1,
+    "tooltip": "LOW_SAREVOK_ESSENCE_ILLASERA",
+    "zh": "伊拉赛菈"
+  },
+  "LOW_SAREVOK_ESSENCE_SENDAI_IMAGE1|Sendai": {
+    "en": "Sendai",
+    "freq": 1,
+    "tooltip": "LOW_SAREVOK_ESSENCE_SENDAI_IMAGE1",
+    "zh": "森代"
+  },
+  "LOW_VICONIA_DARKSANCTUARY|Sanctuary of Loss": {
+    "en": "Sanctuary of Loss",
+    "freq": 2,
+    "tooltip": "LOW_VICONIA_DARKSANCTUARY",
+    "zh": "失落庇护"
+  },
+  "LURING_SONG|Lure": {
+    "en": "Lure",
+    "freq": 1,
+    "tooltip": "LURING_SONG",
+    "zh": "诱使"
+  },
+  "LURING_SONG|Lured": {
+    "en": "Lured",
+    "freq": 2,
+    "tooltip": "LURING_SONG",
+    "zh": "诱惑"
+  },
+  "Larian Account Webpage": {
+    "en": "Larian Account Webpage",
+    "freq": 1,
+    "tooltip": null,
+    "zh": "Larian账户页面"
+  },
+  "LayOnHandsCharge|Lay on Hands Charge": {
+    "en": "Lay on Hands Charge",
+    "freq": 1,
+    "tooltip": "LayOnHandsCharge",
+    "zh": "圣疗充能"
+  },
+  "Light|Light": {
+    "en": "Light",
+    "freq": 3,
+    "tooltip": "Light",
+    "zh": "轻型"
+  },
+  "Light|Light Weapon": {
+    "en": "Light Weapon",
+    "freq": 1,
+    "tooltip": "Light",
+    "zh": "轻型武器"
+  },
+  "LongRest|Long": {
+    "en": "Long",
+    "freq": 1,
+    "tooltip": "LongRest",
+    "zh": "短休"
+  },
+  "LongRest|Long Rest": {
+    "en": "Long Rest",
+    "freq": 122,
+    "tooltip": "LongRest",
+    "zh": "长休"
+  },
+  "LongRest|Long Rests": {
+    "en": "Long Rests",
+    "freq": 3,
+    "tooltip": "LongRest",
+    "zh": "长休"
+  },
+  "LuckPoint|Luck Point": {
+    "en": "Luck Point",
+    "freq": 6,
+    "tooltip": "LuckPoint",
+    "zh": "幸运点"
+  },
+  "LuckPoint|Luck Points": {
+    "en": "Luck Points",
+    "freq": 1,
+    "tooltip": "LuckPoint",
+    "zh": "幸运点"
+  },
+  "MADNESS|Mad": {
+    "en": "Mad",
+    "freq": 4,
+    "tooltip": "MADNESS",
+    "zh": "疯狂"
+  },
+  "MAGE_ARMOR|Mage Armour": {
+    "en": "Mage Armour",
+    "freq": 2,
+    "tooltip": "MAGE_ARMOR",
+    "zh": "魔法护甲"
+  },
+  "MAG_ACID_NOXIOUS_FUMES|Noxious Fumes": {
+    "en": "Noxious Fumes",
+    "freq": 4,
+    "tooltip": "MAG_ACID_NOXIOUS_FUMES",
+    "zh": "有毒烟雾"
+  },
+  "MAG_ATTACK_DEBUFF|Reeling": {
+    "en": "Reeling",
+    "freq": 6,
+    "tooltip": "MAG_ATTACK_DEBUFF",
+    "zh": "手酸臂软"
+  },
+  "MAG_BLOODFEEDER_SCARLET_REMITTANCE_1|Scarlet Remittance": {
+    "en": "Scarlet Remittance",
+    "freq": 1,
+    "tooltip": "MAG_BLOODFEEDER_SCARLET_REMITTANCE_1",
+    "zh": "猩红叠加"
+  },
+  "MAG_BLOODFEEDER_SCARLET_REMITTANCE_3|Scarlet Remittance": {
+    "en": "Scarlet Remittance",
+    "freq": 4,
+    "tooltip": "MAG_BLOODFEEDER_SCARLET_REMITTANCE_3",
+    "zh": "猩红叠加"
+  },
+  "MAG_BLOODREND|Bloodrender": {
+    "en": "Bloodrender",
+    "freq": 1,
+    "tooltip": "MAG_BLOODREND",
+    "zh": "血腥高歌"
+  },
+  "MAG_BULLS_STRENGTH|Bull's Strength": {
+    "en": "Bull's Strength",
+    "freq": 1,
+    "tooltip": "MAG_BULLS_STRENGTH",
+    "zh": "牛之蛮力"
+  },
+  "MAG_BlackSporeCloud|Timmask Spores": {
+    "en": "Timmask Spores",
+    "freq": 1,
+    "tooltip": "MAG_BlackSporeCloud",
+    "zh": "鬼头蘑菇孢子"
+  },
+  "MAG_CATS_GRACE|Cat's Grace": {
+    "en": "Cat's Grace",
+    "freq": 1,
+    "tooltip": "MAG_CATS_GRACE",
+    "zh": "猫之轻灵"
+  },
+  "MAG_CELESTIAL_HASTE|Hastened": {
+    "en": "Hastened",
+    "freq": 1,
+    "tooltip": "MAG_CELESTIAL_HASTE",
+    "zh": "加速"
+  },
+  "MAG_CHARGED_LIGHTNING_AURA_ELECTRIFIED|Jolted": {
+    "en": "Jolted",
+    "freq": 2,
+    "tooltip": "MAG_CHARGED_LIGHTNING_AURA_ELECTRIFIED",
+    "zh": "触电"
+  },
+  "MAG_CHARGED_LIGHTNING_AURA_ELECTRIFIED|Jolts": {
+    "en": "Jolts",
+    "freq": 2,
+    "tooltip": "MAG_CHARGED_LIGHTNING_AURA_ELECTRIFIED",
+    "zh": "触电"
+  },
+  "MAG_CHARGED_LIGHTNING|Lightning Charge": {
+    "en": "Lightning Charge",
+    "freq": 5,
+    "tooltip": "MAG_CHARGED_LIGHTNING",
+    "zh": "闪电充能"
+  },
+  "MAG_CHARGED_LIGHTNING|Lightning Charges": {
+    "en": "Lightning Charges",
+    "freq": 15,
+    "tooltip": "MAG_CHARGED_LIGHTNING",
+    "zh": "闪电充能"
+  },
+  "MAG_DEATH_DO_SHADOW_POSSESION|Shadow Possession": {
+    "en": "Shadow Possession",
+    "freq": 1,
+    "tooltip": "MAG_DEATH_DO_SHADOW_POSSESION",
+    "zh": "暗影附身"
+  },
+  "MAG_FIRE_HEAT|Heat": {
+    "en": "Heat",
+    "freq": 12,
+    "tooltip": "MAG_FIRE_HEAT",
+    "zh": "灼热"
+  },
+  "MAG_FROST|Encrusted with Frost": {
+    "en": "Encrusted with Frost",
+    "freq": 6,
+    "tooltip": "MAG_FROST",
+    "zh": "覆霜"
+  },
+  "MAG_FROST|Frost": {
+    "en": "Frost",
+    "freq": 1,
+    "tooltip": "MAG_FROST",
+    "zh": "霜冻术"
+  },
+  "MAG_Fire_Heat_Convergence_Passive|Heat Convergence": {
+    "en": "Heat Convergence",
+    "freq": 1,
+    "tooltip": "MAG_Fire_Heat_Convergence_Passive",
+    "zh": "灼热趋同"
+  },
+  "MAG_GISH_ARCANE_ACUITY|Arcane Acuity": {
+    "en": "Arcane Acuity",
+    "freq": 7,
+    "tooltip": "MAG_GISH_ARCANE_ACUITY",
+    "zh": "奥术敏锐"
+  },
+  "MAG_GISH_ARCANE_CHARGE|Arcane Charge": {
+    "en": "Arcane Charge",
+    "freq": 2,
+    "tooltip": "MAG_GISH_ARCANE_CHARGE",
+    "zh": "奥术蓄能"
+  },
+  "MAG_GISH_ARCANE_SYNERGY|Arcane Synergy": {
+    "en": "Arcane Synergy",
+    "freq": 1,
+    "tooltip": "MAG_GISH_ARCANE_SYNERGY",
+    "zh": "奥术协同"
+  },
+  "MAG_GREATER_NECROMANCY_LIFE_ESSENCE|Life Essence": {
+    "en": "Life Essence",
+    "freq": 1,
+    "tooltip": "MAG_GREATER_NECROMANCY_LIFE_ESSENCE",
+    "zh": "生命精华"
+  },
+  "MAG_GreenSporeCloud|Bibberbang Spores": {
+    "en": "Bibberbang Spores",
+    "freq": 1,
+    "tooltip": "MAG_GreenSporeCloud",
+    "zh": "噼啪砰孢子"
+  },
+  "MAG_INCREASED_DAMAGE_COLD|Frostbite": {
+    "en": "Frostbite",
+    "freq": 1,
+    "tooltip": "MAG_INCREASED_DAMAGE_COLD",
+    "zh": "霜噬"
+  },
+  "MAG_INVISIBLE_WEAPON|Invisible": {
+    "en": "Invisible",
+    "freq": 1,
+    "tooltip": "MAG_INVISIBLE_WEAPON",
+    "zh": "隐形"
+  },
+  "MAG_MOMENTUM|Momentum": {
+    "en": "Momentum",
+    "freq": 8,
+    "tooltip": "MAG_MOMENTUM",
+    "zh": "亢奋"
+  },
+  "MAG_PSYCHIC_MENTAL_FATIGUE|Mental Fatigue": {
+    "en": "Mental Fatigue",
+    "freq": 3,
+    "tooltip": "MAG_PSYCHIC_MENTAL_FATIGUE",
+    "zh": "精神疲劳"
+  },
+  "MAG_Paladin_SmiteSpellsSupport_Helmet_Passive|Bolstering Smite": {
+    "en": "Bolstering Smite",
+    "freq": 1,
+    "tooltip": "MAG_Paladin_SmiteSpellsSupport_Helmet_Passive",
+    "zh": "临时生命值"
+  },
+  "MAG_RADIANT_RADIATING_ORB|Radiating Orb": {
+    "en": "Radiating Orb",
+    "freq": 6,
+    "tooltip": "MAG_RADIANT_RADIATING_ORB",
+    "zh": "光耀法球"
+  },
+  "MAG_THUNDER_REVERBERATION|Reverberating": {
+    "en": "Reverberating",
+    "freq": 1,
+    "tooltip": "MAG_THUNDER_REVERBERATION",
+    "zh": "残响"
+  },
+  "MAG_THUNDER_REVERBERATION|Reverberation": {
+    "en": "Reverberation",
+    "freq": 7,
+    "tooltip": "MAG_THUNDER_REVERBERATION",
+    "zh": "残响"
+  },
+  "MAG_TWN_BREWERY_CLUB_ACID|Brewery Club: Acid": {
+    "en": "Brewery Club: Acid",
+    "freq": 1,
+    "tooltip": "MAG_TWN_BREWERY_CLUB_ACID",
+    "zh": "酿酒俱乐部：强酸"
+  },
+  "MAG_VIOLENCE|Wrath": {
+    "en": "Wrath",
+    "freq": 5,
+    "tooltip": "MAG_VIOLENCE",
+    "zh": "狂怒"
+  },
+  "MAG_WhiteSporeCloud|Haste Spores": {
+    "en": "Haste Spores",
+    "freq": 1,
+    "tooltip": "MAG_WhiteSporeCloud",
+    "zh": "加速孢子"
+  },
+  "MAG_ZOC_FORCE_CONDUIT|Force Conduit": {
+    "en": "Force Conduit",
+    "freq": 7,
+    "tooltip": "MAG_ZOC_FORCE_CONDUIT",
+    "zh": "导力"
+  },
+  "MEPHIT_MUD_RESTRAINED|Muddy": {
+    "en": "Muddy",
+    "freq": 1,
+    "tooltip": "MEPHIT_MUD_RESTRAINED",
+    "zh": "多重攻击"
+  },
+  "MEPHIT_MUD_RESTRAINED|Restrain": {
+    "en": "Restrain",
+    "freq": 1,
+    "tooltip": "MEPHIT_MUD_RESTRAINED",
+    "zh": "抑制"
+  },
+  "MEPHIT_MUD_RESTRAINED|Restraining": {
+    "en": "Restraining",
+    "freq": 2,
+    "tooltip": "MEPHIT_MUD_RESTRAINED",
+    "zh": "束缚"
+  },
+  "MIRROR_IMAGE_1|Mirror Images": {
+    "en": "Mirror Images",
+    "freq": 1,
+    "tooltip": "MIRROR_IMAGE_1",
+    "zh": "镜像"
+  },
+  "MIXCHANGE_ACID_BUFF_BREWER|Caustic Brew": {
+    "en": "Caustic Brew",
+    "freq": 1,
+    "tooltip": "MIXCHANGE_ACID_BUFF_BREWER",
+    "zh": "腐蚀精酿"
+  },
+  "MIXCHANGE_COLD_BUFF_BREWER|Cold Brew": {
+    "en": "Cold Brew",
+    "freq": 1,
+    "tooltip": "MIXCHANGE_COLD_BUFF_BREWER",
+    "zh": "寒冷精酿"
+  },
+  "MIXCHANGE_FIRE_BUFF_BREWER|Fiery Brew": {
+    "en": "Fiery Brew",
+    "freq": 1,
+    "tooltip": "MIXCHANGE_FIRE_BUFF_BREWER",
+    "zh": "火焰精酿"
+  },
+  "MIXCHANGE_LIGHTNING_BUFF_BREWER|Lightning Brew": {
+    "en": "Lightning Brew",
+    "freq": 1,
+    "tooltip": "MIXCHANGE_LIGHTNING_BUFF_BREWER",
+    "zh": "闪电精酿"
+  },
+  "MIXCHANGE_NECROTIC_BUFF_BREWER|Wasting Brew": {
+    "en": "Wasting Brew",
+    "freq": 1,
+    "tooltip": "MIXCHANGE_NECROTIC_BUFF_BREWER",
+    "zh": "消耗精酿"
+  },
+  "MIXCHANGE_PHYSICAL_BUFF_BREWER|Bolstering Brew": {
+    "en": "Bolstering Brew",
+    "freq": 1,
+    "tooltip": "MIXCHANGE_PHYSICAL_BUFF_BREWER",
+    "zh": "强化精酿"
+  },
+  "MIXCHANGE_POISON_BUFF_BREWER|Venomous Brew": {
+    "en": "Venomous Brew",
+    "freq": 1,
+    "tooltip": "MIXCHANGE_POISON_BUFF_BREWER",
+    "zh": "猛毒精酿"
+  },
+  "MOONBEAM|Moonbeam": {
+    "en": "Moonbeam",
+    "freq": 1,
+    "tooltip": "MOONBEAM",
+    "zh": "月华之光"
+  },
+  "MOO_COMMANDTROOPS|Deadly Orders": {
+    "en": "Deadly Orders",
+    "freq": 2,
+    "tooltip": "MOO_COMMANDTROOPS",
+    "zh": "集群冲击"
+  },
+  "MOO_MAG_KETHERIC_STUPEFIED|Numbs": {
+    "en": "Numbs",
+    "freq": 1,
+    "tooltip": "MOO_MAG_KETHERIC_STUPEFIED",
+    "zh": "麻木"
+  },
+  "MYRKULS_BOON|Reaper's Reward": {
+    "en": "Reaper's Reward",
+    "freq": 2,
+    "tooltip": "MYRKULS_BOON",
+    "zh": "收割者奖励"
+  },
+  "MagicResistance|Magic Resistance": {
+    "en": "Magic Resistance",
+    "freq": 1,
+    "tooltip": "MagicResistance",
+    "zh": "魔法抗性"
+  },
+  "Malice": {
+    "en": "Malice",
+    "freq": 1,
+    "tooltip": null,
+    "zh": "豁免检定"
+  },
+  "Manifestation_of_Body|Manifestation of Body": {
+    "en": "Manifestation of Body",
+    "freq": 2,
+    "tooltip": "Manifestation_of_Body",
+    "zh": "肉身具现"
+  },
+  "Manifestation_of_Mind|Manifestation of Mind": {
+    "en": "Manifestation of Mind",
+    "freq": 2,
+    "tooltip": "Manifestation_of_Mind",
+    "zh": "心灵具现"
+  },
+  "Manifestation_of_Soul|Manifestation of Soul": {
+    "en": "Manifestation of Soul",
+    "freq": 2,
+    "tooltip": "Manifestation_of_Soul",
+    "zh": "灵魂具现"
+  },
+  "Medicine|Medicine": {
+    "en": "Medicine",
+    "freq": 1,
+    "tooltip": "Medicine",
+    "zh": "威吓"
+  },
+  "MeleeSpellAttack|Melee": {
+    "en": "Melee",
+    "freq": 1,
+    "tooltip": "MeleeSpellAttack",
+    "zh": "近战"
+  },
+  "MeleeWeaponAttack|melee weapon attack": {
+    "en": "melee weapon attack",
+    "freq": 1,
+    "tooltip": "MeleeWeaponAttack",
+    "zh": "重击"
+  },
+  "MeleeWeaponAttack|melee weapon attacks": {
+    "en": "melee weapon attacks",
+    "freq": 2,
+    "tooltip": "MeleeWeaponAttack",
+    "zh": "近战武器攻击"
+  },
+  "Metamagic_Distant|Distant Spell": {
+    "en": "Distant Spell",
+    "freq": 1,
+    "tooltip": "Metamagic_Distant",
+    "zh": "远距法术"
+  },
+  "Mind Sanctuary": {
+    "en": "Mind Sanctuary",
+    "freq": 1,
+    "tooltip": null,
+    "zh": "心灵庇护"
+  },
+  "Modding Privacy Policy": {
+    "en": "Modding Privacy Policy",
+    "freq": 1,
+    "tooltip": null,
+    "zh": "Mod隐私政策"
+  },
+  "Modding Terms of Use": {
+    "en": "Modding Terms of Use",
+    "freq": 1,
+    "tooltip": null,
+    "zh": "Mod使用条款"
+  },
+  "MonkWeapon|Monk Weapon": {
+    "en": "Monk Weapon",
+    "freq": 1,
+    "tooltip": "MonkWeapon",
+    "zh": "武僧武器"
+  },
+  "MonkWeapon|Monk Weapons": {
+    "en": "Monk Weapons",
+    "freq": 1,
+    "tooltip": "MonkWeapon",
+    "zh": "熟练项"
+  },
+  "MovementSpeed|Movement": {
+    "en": "Movement",
+    "freq": 1,
+    "tooltip": "MovementSpeed",
+    "zh": "移动速度"
+  },
+  "MovementSpeed|Movement Speed": {
+    "en": "Movement Speed",
+    "freq": 13,
+    "tooltip": "MovementSpeed",
+    "zh": "移动速度"
+  },
+  "MovementSpeed|Movement speed": {
+    "en": "Movement speed",
+    "freq": 25,
+    "tooltip": "MovementSpeed",
+    "zh": "移动速度"
+  },
+  "MovementSpeed|This character's movement speed": {
+    "en": "This character's movement speed",
+    "freq": 1,
+    "tooltip": "MovementSpeed",
+    "zh": "移动速度"
+  },
+  "MovementSpeed|movement": {
+    "en": "movement",
+    "freq": 4,
+    "tooltip": "MovementSpeed",
+    "zh": "移动"
+  },
+  "MovementSpeed|movement speed": {
+    "en": "movement speed",
+    "freq": 107,
+    "tooltip": "MovementSpeed",
+    "zh": "移动速度"
+  },
+  "MusicalInstrumentProficiency|Musical Instrument Proficiency": {
+    "en": "Musical Instrument Proficiency",
+    "freq": 1,
+    "tooltip": "MusicalInstrumentProficiency",
+    "zh": "乐器熟练项"
+  },
+  "MusicalInstrumentProficiency|Proficient": {
+    "en": "Proficient",
+    "freq": 1,
+    "tooltip": "MusicalInstrumentProficiency",
+    "zh": "熟练项"
+  },
+  "NATURES_WRATH|Restrain": {
+    "en": "Restrain",
+    "freq": 1,
+    "tooltip": "NATURES_WRATH",
+    "zh": "束缚"
+  },
+  "NET|Ensnare": {
+    "en": "Ensnare",
+    "freq": 1,
+    "tooltip": "NET",
+    "zh": "捕获"
+  },
+  "NaturesStep_Dryad|Nature's Step": {
+    "en": "Nature's Step",
+    "freq": 1,
+    "tooltip": "NaturesStep_Dryad",
+    "zh": "自然步伐"
+  },
+  "Nature|Nature": {
+    "en": "Nature",
+    "freq": 1,
+    "tooltip": "Nature",
+    "zh": "求生"
+  },
+  "OBLITERATIONORB_AURA|Orb of Negation": {
+    "en": "Orb of Negation",
+    "freq": 1,
+    "tooltip": "OBLITERATIONORB_AURA",
+    "zh": "否决之球"
+  },
+  "OFF_BALANCED|Off Balance": {
+    "en": "Off Balance",
+    "freq": 4,
+    "tooltip": "OFF_BALANCED",
+    "zh": "失衡"
+  },
+  "OMEN_RAVEN|Cursed": {
+    "en": "Cursed",
+    "freq": 1,
+    "tooltip": "OMEN_RAVEN",
+    "zh": "被诅咒"
+  },
+  "OMEN_TECHNICAL|Omen": {
+    "en": "Omen",
+    "freq": 1,
+    "tooltip": "OMEN_TECHNICAL",
+    "zh": "预兆"
+  },
+  "OPEN_HAND_NO_REACTIONS|Stagger": {
+    "en": "Stagger",
+    "freq": 1,
+    "tooltip": "OPEN_HAND_NO_REACTIONS",
+    "zh": "惊惧"
+  },
+  "OpportunityAttack|Opportunity Attack": {
+    "en": "Opportunity Attack",
+    "freq": 14,
+    "tooltip": "OpportunityAttack",
+    "zh": "借机攻击"
+  },
+  "OpportunityAttack|Opportunity Attacks": {
+    "en": "Opportunity Attacks",
+    "freq": 20,
+    "tooltip": "OpportunityAttack",
+    "zh": "借机攻击"
+  },
+  "PACT_BLADE|Pact Weapon": {
+    "en": "Pact Weapon",
+    "freq": 3,
+    "tooltip": "PACT_BLADE",
+    "zh": "魔契武器"
+  },
+  "PANACHE|Panache: Disadvantage": {
+    "en": "Panache: Disadvantage",
+    "freq": 1,
+    "tooltip": "PANACHE",
+    "zh": "潇洒气质：劣势"
+  },
+  "PARALYSED|Paralysed": {
+    "en": "Paralysed",
+    "freq": 1,
+    "tooltip": "PARALYSED",
+    "zh": "麻痹"
+  },
+  "PARALYZED_SPECTATOR|Paralyses": {
+    "en": "Paralyses",
+    "freq": 2,
+    "tooltip": "PARALYZED_SPECTATOR",
+    "zh": "麻痹"
+  },
+  "PARALYZED_SPECTATOR|Paralyzes": {
+    "en": "Paralyzes",
+    "freq": 1,
+    "tooltip": "PARALYZED_SPECTATOR",
+    "zh": "麻痹"
+  },
+  "PARALYZED|Paralyse": {
+    "en": "Paralyse",
+    "freq": 4,
+    "tooltip": "PARALYZED",
+    "zh": "麻痹"
+  },
+  "PARALYZED|Paralysed": {
+    "en": "Paralysed",
+    "freq": 23,
+    "tooltip": "PARALYZED",
+    "zh": "麻痹"
+  },
+  "PARALYZED|Paralyses": {
+    "en": "Paralyses",
+    "freq": 3,
+    "tooltip": "PARALYZED",
+    "zh": "麻痹"
+  },
+  "PARALYZED|Paralysing": {
+    "en": "Paralysing",
+    "freq": 1,
+    "tooltip": "PARALYZED",
+    "zh": "麻痹"
+  },
+  "PARALYZED|Paralysis": {
+    "en": "Paralysis",
+    "freq": 2,
+    "tooltip": "PARALYZED",
+    "zh": "麻痹"
+  },
+  "PARALYZED|Paralyze": {
+    "en": "Paralyze",
+    "freq": 1,
+    "tooltip": "PARALYZED",
+    "zh": "麻痹"
+  },
+  "PATIENT_DEFENCE|Patient Defence": {
+    "en": "Patient Defence",
+    "freq": 3,
+    "tooltip": "PATIENT_DEFENCE",
+    "zh": "坚强防御"
+  },
+  "PETRIFIED|Petrification": {
+    "en": "Petrification",
+    "freq": 1,
+    "tooltip": "PETRIFIED",
+    "zh": "石化"
+  },
+  "PETRIFIED|Petrified": {
+    "en": "Petrified",
+    "freq": 5,
+    "tooltip": "PETRIFIED",
+    "zh": "石化"
+  },
+  "PETRIFIED|Petrify": {
+    "en": "Petrify",
+    "freq": 1,
+    "tooltip": "PETRIFIED",
+    "zh": "豁免检定"
+  },
+  "PHANTASMAL_FORCE|Phantasmal Force": {
+    "en": "Phantasmal Force",
+    "freq": 1,
+    "tooltip": "PHANTASMAL_FORCE",
+    "zh": "魅影之力"
+  },
+  "PIN_DOWN|Pin Down": {
+    "en": "Pin Down",
+    "freq": 1,
+    "tooltip": "PIN_DOWN",
+    "zh": "约束"
+  },
+  "PLANT_GROWTH|Plant Growth Surface": {
+    "en": "Plant Growth Surface",
+    "freq": 1,
+    "tooltip": "PLANT_GROWTH",
+    "zh": "植物滋长地表"
+  },
+  "PLA_ConflictedFlind_Flail_Broken_Passive|Yeenoghu's Gift": {
+    "en": "Yeenoghu's Gift",
+    "freq": 1,
+    "tooltip": "PLA_ConflictedFlind_Flail_Broken_Passive",
+    "zh": "伊诺胡之馈赠"
+  },
+  "POISONED|Poison": {
+    "en": "Poison",
+    "freq": 16,
+    "tooltip": "POISONED",
+    "zh": "中毒"
+  },
+  "POISONED|Poisoned": {
+    "en": "Poisoned",
+    "freq": 41,
+    "tooltip": "POISONED",
+    "zh": "中毒"
+  },
+  "POISONED|Poisoning": {
+    "en": "Poisoning",
+    "freq": 2,
+    "tooltip": "POISONED",
+    "zh": "中毒"
+  },
+  "POISONED|Poisons": {
+    "en": "Poisons",
+    "freq": 9,
+    "tooltip": "POISONED",
+    "zh": "中毒"
+  },
+  "POISON_CRAWLER_MUCUS_CONDITION|Crawler Mucus": {
+    "en": "Crawler Mucus",
+    "freq": 1,
+    "tooltip": "POISON_CRAWLER_MUCUS_CONDITION",
+    "zh": "豁免检定"
+  },
+  "POISON_DROW_CONDITION|Drow Poison": {
+    "en": "Drow Poison",
+    "freq": 1,
+    "tooltip": "POISON_DROW_CONDITION",
+    "zh": "豁免检定"
+  },
+  "POISON_SIMPLE_CONDITION|Basic Poison": {
+    "en": "Basic Poison",
+    "freq": 1,
+    "tooltip": "POISON_SIMPLE_CONDITION",
+    "zh": "豁免检定"
+  },
+  "POLYMORPHED|Polymorphed": {
+    "en": "Polymorphed",
+    "freq": 2,
+    "tooltip": "POLYMORPHED",
+    "zh": "变形"
+  },
+  "POLYMORPH_SHEEP|Polymorphed": {
+    "en": "Polymorphed",
+    "freq": 2,
+    "tooltip": "POLYMORPH_SHEEP",
+    "zh": "变形"
+  },
+  "PRONE|Prone": {
+    "en": "Prone",
+    "freq": 103,
+    "tooltip": "PRONE",
+    "zh": "倒伏"
+  },
+  "PactOfTheTome|Book of Shadows": {
+    "en": "Book of Shadows",
+    "freq": 1,
+    "tooltip": "PactOfTheTome",
+    "zh": "阴影之书"
+  },
+  "Paralysed": {
+    "en": "Paralysed",
+    "freq": 1,
+    "tooltip": null,
+    "zh": "麻痹"
+  },
+  "Parry_Githyanki|Parried": {
+    "en": "Parried",
+    "freq": 1,
+    "tooltip": "Parry_Githyanki",
+    "zh": "招架"
+  },
+  "Perception|Perception": {
+    "en": "Perception",
+    "freq": 3,
+    "tooltip": "Perception",
+    "zh": "熟练项"
+  },
+  "Perception|Perception Skill": {
+    "en": "Perception Skill",
+    "freq": 1,
+    "tooltip": "Perception",
+    "zh": "察觉技能"
+  },
+  "Performance|Performance": {
+    "en": "Performance",
+    "freq": 2,
+    "tooltip": "Performance",
+    "zh": "熟练项"
+  },
+  "Persuasion|Persuasion": {
+    "en": "Persuasion",
+    "freq": 4,
+    "tooltip": "Persuasion",
+    "zh": "熟练项"
+  },
+  "PortentDice|Portent Die": {
+    "en": "Portent Die",
+    "freq": 12,
+    "tooltip": "PortentDice",
+    "zh": "预兆骰子"
+  },
+  "PortentDie|Portent Dice": {
+    "en": "Portent Dice",
+    "freq": 1,
+    "tooltip": "PortentDie",
+    "zh": "预兆骰子会在"
+  },
+  "PortentDie|Portent Die": {
+    "en": "Portent Die",
+    "freq": 1,
+    "tooltip": "PortentDie",
+    "zh": "预兆骰子"
+  },
+  "PreparedSpells|Prepared": {
+    "en": "Prepared",
+    "freq": 1,
+    "tooltip": "PreparedSpells",
+    "zh": "预备"
+  },
+  "Privacy Policy": {
+    "en": "Privacy Policy",
+    "freq": 2,
+    "tooltip": null,
+    "zh": "隐私政策"
+  },
+  "ProficiencyBonus|Proficiency Bonus": {
+    "en": "Proficiency Bonus",
+    "freq": 65,
+    "tooltip": "ProficiencyBonus",
+    "zh": "攻击掷骰"
+  },
+  "ProficiencyBonus|Proficient": {
+    "en": "Proficient",
+    "freq": 2,
+    "tooltip": "ProficiencyBonus",
+    "zh": "熟练项加值"
+  },
+  "Proficiency|Proficiency": {
+    "en": "Proficiency",
+    "freq": 34,
+    "tooltip": "Proficiency",
+    "zh": "熟练项"
+  },
+  "Proficiency|Proficiency Bonus": {
+    "en": "Proficiency Bonus",
+    "freq": 1,
+    "tooltip": "Proficiency",
+    "zh": "熟练项加值"
+  },
+  "Proficiency|Proficient": {
+    "en": "Proficient",
+    "freq": 15,
+    "tooltip": "Proficiency",
+    "zh": "熟练项"
+  },
+  "Proficiency|Skill Proficiencies": {
+    "en": "Skill Proficiencies",
+    "freq": 1,
+    "tooltip": "Proficiency",
+    "zh": "技能熟练项"
+  },
+  "ProjectileStrike_SteelWatcher_Quadruped_HellfireMissiles|Hellfire Missiles": {
+    "en": "Hellfire Missiles",
+    "freq": 3,
+    "tooltip": "ProjectileStrike_SteelWatcher_Quadruped_HellfireMissiles",
+    "zh": "地狱火飞弹"
+  },
+  "Projectile_AcidArrow|Melf's Acid Arrow": {
+    "en": "Melf's Acid Arrow",
+    "freq": 1,
+    "tooltip": "Projectile_AcidArrow",
+    "zh": "马友夫强酸箭"
+  },
+  "Projectile_AirBlast_Elemental_Air|Gushing Air": {
+    "en": "Gushing Air",
+    "freq": 1,
+    "tooltip": "Projectile_AirBlast_Elemental_Air",
+    "zh": "涌动之风"
+  },
+  "Projectile_Belch_Acid_Brewer|Acidic Regurgitation": {
+    "en": "Acidic Regurgitation",
+    "freq": 1,
+    "tooltip": "Projectile_Belch_Acid_Brewer",
+    "zh": "强酸回流"
+  },
+  "Projectile_Belch_Cold_Brewer|Icy Regurgitation": {
+    "en": "Icy Regurgitation",
+    "freq": 1,
+    "tooltip": "Projectile_Belch_Cold_Brewer",
+    "zh": "寒冰回流"
+  },
+  "Projectile_Belch_Fire_Brewer|Fiery Regurgitation": {
+    "en": "Fiery Regurgitation",
+    "freq": 1,
+    "tooltip": "Projectile_Belch_Fire_Brewer",
+    "zh": "火焰回流"
+  },
+  "Projectile_Belch_Lightning_Brewer|Electrified Regurgitation": {
+    "en": "Electrified Regurgitation",
+    "freq": 1,
+    "tooltip": "Projectile_Belch_Lightning_Brewer",
+    "zh": "闪电回流"
+  },
+  "Projectile_Belch_Necro_Brewer|Rotting Regurgitation": {
+    "en": "Rotting Regurgitation",
+    "freq": 1,
+    "tooltip": "Projectile_Belch_Necro_Brewer",
+    "zh": "腐蚀回流"
+  },
+  "Projectile_Belch_Poison_Brewer|Venomous Regurgitation": {
+    "en": "Venomous Regurgitation",
+    "freq": 1,
+    "tooltip": "Projectile_Belch_Poison_Brewer",
+    "zh": "毒液回流"
+  },
+  "Projectile_BladeFlourish_Mobile|ranged": {
+    "en": "ranged",
+    "freq": 1,
+    "tooltip": "Projectile_BladeFlourish_Mobile",
+    "zh": "远程"
+  },
+  "Projectile_Bladesong_Finisher|Bladesong Climax": {
+    "en": "Bladesong Climax",
+    "freq": 4,
+    "tooltip": "Projectile_Bladesong_Finisher",
+    "zh": "巅峰剑歌"
+  },
+  "Projectile_Burst_Blight_Needle|Needle Burst": {
+    "en": "Needle Burst",
+    "freq": 1,
+    "tooltip": "Projectile_Burst_Blight_Needle",
+    "zh": "针爆"
+  },
+  "Projectile_CRE_BreweryKobolds_FirewineBelly_Explosion|Firewine Explosion": {
+    "en": "Firewine Explosion",
+    "freq": 1,
+    "tooltip": "Projectile_CRE_BreweryKobolds_FirewineBelly_Explosion",
+    "zh": "火酒爆炸"
+  },
+  "Projectile_CRE_GithyankiInquisitor_Mindsteal_Link|Mindsteal Link": {
+    "en": "Mindsteal Link",
+    "freq": 3,
+    "tooltip": "Projectile_CRE_GithyankiInquisitor_Mindsteal_Link",
+    "zh": "夺心连接"
+  },
+  "Projectile_ChainLightning|Chain Lightning": {
+    "en": "Chain Lightning",
+    "freq": 2,
+    "tooltip": "Projectile_ChainLightning",
+    "zh": "链状闪电"
+  },
+  "Projectile_ChainStaticBolt|Leaping Static": {
+    "en": "Leaping Static",
+    "freq": 2,
+    "tooltip": "Projectile_ChainStaticBolt",
+    "zh": "弹跳静电"
+  },
+  "Projectile_ChromaticOrb_Cold|Hurl": {
+    "en": "Hurl",
+    "freq": 1,
+    "tooltip": "Projectile_ChromaticOrb_Cold",
+    "zh": "猛投"
+  },
+  "Projectile_ChromaticOrb_Poison|Chromatic Orb: Poison": {
+    "en": "Chromatic Orb: Poison",
+    "freq": 1,
+    "tooltip": "Projectile_ChromaticOrb_Poison",
+    "zh": "繁彩球：毒素"
+  },
+  "Projectile_ChromaticOrb|Chromatic Orb": {
+    "en": "Chromatic Orb",
+    "freq": 1,
+    "tooltip": "Projectile_ChromaticOrb",
+    "zh": "繁彩球"
+  },
+  "Projectile_CorrosiveSpit_Dilophosaurus|Corrosive Spit": {
+    "en": "Corrosive Spit",
+    "freq": 1,
+    "tooltip": "Projectile_CorrosiveSpit_Dilophosaurus",
+    "zh": "腐蚀唾液"
+  },
+  "Projectile_DeathBurst_IntellectDevourer|Morphic Brine Explosion": {
+    "en": "Morphic Brine Explosion",
+    "freq": 2,
+    "tooltip": "Projectile_DeathBurst_IntellectDevourer",
+    "zh": "形态卤水爆炸"
+  },
+  "Projectile_Deflect_Missiles|Deflect the Missile": {
+    "en": "Deflect the Missile",
+    "freq": 2,
+    "tooltip": "Projectile_Deflect_Missiles",
+    "zh": "拨挡飞弹"
+  },
+  "Projectile_Disintegrate|Disintegrate": {
+    "en": "Disintegrate",
+    "freq": 1,
+    "tooltip": "Projectile_Disintegrate",
+    "zh": "崩溃"
+  },
+  "Projectile_DivingStrike|Diving Strike": {
+    "en": "Diving Strike",
+    "freq": 2,
+    "tooltip": "Projectile_DivingStrike",
+    "zh": "俯冲突袭"
+  },
+  "Projectile_EldritchBlast|Eldritch Blast": {
+    "en": "Eldritch Blast",
+    "freq": 5,
+    "tooltip": "Projectile_EldritchBlast",
+    "zh": "魔能爆"
+  },
+  "Projectile_EnervationRay|Karsite Grip": {
+    "en": "Karsite Grip",
+    "freq": 1,
+    "tooltip": "Projectile_EnervationRay",
+    "zh": "卡尔萨斯之握"
+  },
+  "Projectile_EnsnaringStrike|ranged": {
+    "en": "ranged",
+    "freq": 1,
+    "tooltip": "Projectile_EnsnaringStrike",
+    "zh": "远程"
+  },
+  "Projectile_EruptingCinder_Elemental_Fire|Erupting Cinder": {
+    "en": "Erupting Cinder",
+    "freq": 1,
+    "tooltip": "Projectile_EruptingCinder_Elemental_Fire",
+    "zh": "爆裂余烬"
+  },
+  "Projectile_ExplosiveIcicle_Myrmidon_Water|Explosive Icicle": {
+    "en": "Explosive Icicle",
+    "freq": 2,
+    "tooltip": "Projectile_ExplosiveIcicle_Myrmidon_Water",
+    "zh": "三棱冰柱"
+  },
+  "Projectile_FOR_SpiderQueen_SilkTomb|Gossamer Tomb": {
+    "en": "Gossamer Tomb",
+    "freq": 1,
+    "tooltip": "Projectile_FOR_SpiderQueen_SilkTomb",
+    "zh": "蛛丝坟墓"
+  },
+  "Projectile_FingerOfDeath_Apostle|Finger of Death": {
+    "en": "Finger of Death",
+    "freq": 3,
+    "tooltip": "Projectile_FingerOfDeath_Apostle",
+    "zh": "死亡一指"
+  },
+  "Projectile_FireRay_Cambion|Rays of Fire": {
+    "en": "Rays of Fire",
+    "freq": 2,
+    "tooltip": "Projectile_FireRay_Cambion",
+    "zh": "火焰射线"
+  },
+  "Projectile_Fireball_Dragon|Fire Breath": {
+    "en": "Fire Breath",
+    "freq": 1,
+    "tooltip": "Projectile_Fireball_Dragon",
+    "zh": "火焰吐息"
+  },
+  "Projectile_Fireball|Fireball": {
+    "en": "Fireball",
+    "freq": 4,
+    "tooltip": "Projectile_Fireball",
+    "zh": "火球术"
+  },
+  "Projectile_Fly_Spell|Fly": {
+    "en": "Fly",
+    "freq": 1,
+    "tooltip": "Projectile_Fly_Spell",
+    "zh": "飞行术"
+  },
+  "Projectile_Fly_TempestuousMagic|Fly": {
+    "en": "Fly",
+    "freq": 1,
+    "tooltip": "Projectile_Fly_TempestuousMagic",
+    "zh": "飞行"
+  },
+  "Projectile_Fly_WrithingTide|Writhing Tide": {
+    "en": "Writhing Tide",
+    "freq": 3,
+    "tooltip": "Projectile_Fly_WrithingTide",
+    "zh": "翻腾浪涌"
+  },
+  "Projectile_Fly|Fly": {
+    "en": "Fly",
+    "freq": 9,
+    "tooltip": "Projectile_Fly",
+    "zh": "飞行"
+  },
+  "Projectile_FreezingSphere_Hurl|Otiluke's Freezing Sphere": {
+    "en": "Otiluke's Freezing Sphere",
+    "freq": 3,
+    "tooltip": "Projectile_FreezingSphere_Hurl",
+    "zh": "欧提路克冰封法球"
+  },
+  "Projectile_GuidingBolt_StarMap|Guiding Bolt": {
+    "en": "Guiding Bolt",
+    "freq": 3,
+    "tooltip": "Projectile_GuidingBolt_StarMap",
+    "zh": "曳光弹"
+  },
+  "Projectile_Jump|Jump": {
+    "en": "Jump",
+    "freq": 10,
+    "tooltip": "Projectile_Jump",
+    "zh": "跳跃"
+  },
+  "Projectile_Jump|Jumps": {
+    "en": "Jumps",
+    "freq": 1,
+    "tooltip": "Projectile_Jump",
+    "zh": "跳跃"
+  },
+  "Projectile_LOW_Hag_Mushroom_MushroomExplosion|explode": {
+    "en": "explode",
+    "freq": 1,
+    "tooltip": "Projectile_LOW_Hag_Mushroom_MushroomExplosion",
+    "zh": "爆炸"
+  },
+  "Projectile_LOW_Houndmaster_GraveShot|Grave Shot": {
+    "en": "Grave Shot",
+    "freq": 1,
+    "tooltip": "Projectile_LOW_Houndmaster_GraveShot",
+    "zh": "坟墓射击"
+  },
+  "Projectile_LOW_IronThrone_Mizora_ExplodingSpiderlings_Explosion|Detonates": {
+    "en": "Detonates",
+    "freq": 1,
+    "tooltip": "Projectile_LOW_IronThrone_Mizora_ExplodingSpiderlings_Explosion",
+    "zh": "爆炸"
+  },
+  "Projectile_LOW_IronThrone_Mizora_ExplodingSpiderlings_Explosion|Detonating": {
+    "en": "Detonating",
+    "freq": 1,
+    "tooltip": "Projectile_LOW_IronThrone_Mizora_ExplodingSpiderlings_Explosion",
+    "zh": "爆炸"
+  },
+  "Projectile_LOW_Raphael_PrimordialHell_Chain|Igniting Sparks": {
+    "en": "Igniting Sparks",
+    "freq": 1,
+    "tooltip": "Projectile_LOW_Raphael_PrimordialHell_Chain",
+    "zh": "燃烧火花"
+  },
+  "Projectile_LightningBreath_Dragon_Skeletal|Lightning Breath": {
+    "en": "Lightning Breath",
+    "freq": 1,
+    "tooltip": "Projectile_LightningBreath_Dragon_Skeletal",
+    "zh": "闪电吐息"
+  },
+  "Projectile_MAG_Automaton_FireballShot_Recreate|Fiery Shot": {
+    "en": "Fiery Shot",
+    "freq": 1,
+    "tooltip": "Projectile_MAG_Automaton_FireballShot_Recreate",
+    "zh": "火热射击"
+  },
+  "Projectile_MAG_BlackSporeCloud|Timmask Spores": {
+    "en": "Timmask Spores",
+    "freq": 1,
+    "tooltip": "Projectile_MAG_BlackSporeCloud",
+    "zh": "鬼头蘑菇孢子"
+  },
+  "Projectile_MAG_GreenSporeCloud|Bibberbang Spores": {
+    "en": "Bibberbang Spores",
+    "freq": 1,
+    "tooltip": "Projectile_MAG_GreenSporeCloud",
+    "zh": "噼啪砰孢子"
+  },
+  "Projectile_MAG_Legendary_Chromatic_MelfAcidArrow|Melf's Acid Arrow": {
+    "en": "Melf's Acid Arrow",
+    "freq": 2,
+    "tooltip": "Projectile_MAG_Legendary_Chromatic_MelfAcidArrow",
+    "zh": "马友夫强酸箭"
+  },
+  "Projectile_MAG_Radiant_RadiatingOrb_Explosion|Radiant Shockwave": {
+    "en": "Radiant Shockwave",
+    "freq": 1,
+    "tooltip": "Projectile_MAG_Radiant_RadiatingOrb_Explosion",
+    "zh": "光耀震荡波"
+  },
+  "Projectile_MAG_WhiteSporeCloud|Haste Spores": {
+    "en": "Haste Spores",
+    "freq": 1,
+    "tooltip": "Projectile_MAG_WhiteSporeCloud",
+    "zh": "加速孢子"
+  },
+  "Projectile_MOO_BloodPotion_AcidArrow|Acid Arrow": {
+    "en": "Acid Arrow",
+    "freq": 2,
+    "tooltip": "Projectile_MOO_BloodPotion_AcidArrow",
+    "zh": "长休"
+  },
+  "Projectile_MOO_BloodPotion_Fireball|Fireball": {
+    "en": "Fireball",
+    "freq": 2,
+    "tooltip": "Projectile_MOO_BloodPotion_Fireball",
+    "zh": "长休"
+  },
+  "Projectile_MOO_BloodPotion_RayOfSickness|Ray of Sickness": {
+    "en": "Ray of Sickness",
+    "freq": 2,
+    "tooltip": "Projectile_MOO_BloodPotion_RayOfSickness",
+    "zh": "长休"
+  },
+  "Projectile_MOO_Ketheric_GeneralsWrath|Hordestrike": {
+    "en": "Hordestrike",
+    "freq": 2,
+    "tooltip": "Projectile_MOO_Ketheric_GeneralsWrath",
+    "zh": "死亡指令"
+  },
+  "Projectile_MagicMissile|Magic Missile": {
+    "en": "Magic Missile",
+    "freq": 4,
+    "tooltip": "Projectile_MagicMissile",
+    "zh": "魔法飞弹"
+  },
+  "Projectile_MidasWrath_TollCollector|Sublimate": {
+    "en": "Sublimate",
+    "freq": 1,
+    "tooltip": "Projectile_MidasWrath_TollCollector",
+    "zh": "纯化"
+  },
+  "Projectile_MineExplosion_Orthon|Fiendish Flameblast": {
+    "en": "Fiendish Flameblast",
+    "freq": 1,
+    "tooltip": "Projectile_MineExplosion_Orthon",
+    "zh": "邪魔爆焰"
+  },
+  "Projectile_PiercingShot|Piercing Shot": {
+    "en": "Piercing Shot",
+    "freq": 2,
+    "tooltip": "Projectile_PiercingShot",
+    "zh": "穿刺射击"
+  },
+  "Projectile_RayOfSickness|Ray of Sickness": {
+    "en": "Ray of Sickness",
+    "freq": 3,
+    "tooltip": "Projectile_RayOfSickness",
+    "zh": "疾病射线"
+  },
+  "Projectile_SHA_Orthon_BlindingPursuit_Ranged|Blinding Ambush": {
+    "en": "Blinding Ambush",
+    "freq": 1,
+    "tooltip": "Projectile_SHA_Orthon_BlindingPursuit_Ranged",
+    "zh": "捕猎"
+  },
+  "Projectile_Stalactite_Explosion|Shattering": {
+    "en": "Shattering",
+    "freq": 1,
+    "tooltip": "Projectile_Stalactite_Explosion",
+    "zh": "粉碎"
+  },
+  "Projectile_StarryForm_Archer_Damage|Luminous Arrow": {
+    "en": "Luminous Arrow",
+    "freq": 3,
+    "tooltip": "Projectile_StarryForm_Archer_Damage",
+    "zh": "发光箭"
+  },
+  "Projectile_SteelWatcher_Biped_SelfDestructExplosion|Self-Detonate": {
+    "en": "Self-Detonate",
+    "freq": 1,
+    "tooltip": "Projectile_SteelWatcher_Biped_SelfDestructExplosion",
+    "zh": "自爆"
+  },
+  "Projectile_SteelWatcher_Biped_SelfDestructExplosion|Self-Detonation": {
+    "en": "Self-Detonation",
+    "freq": 3,
+    "tooltip": "Projectile_SteelWatcher_Biped_SelfDestructExplosion",
+    "zh": "自爆"
+  },
+  "Projectile_SteelWatcher_Quadruped_SelfDestructExplosion|Detonates": {
+    "en": "Detonates",
+    "freq": 1,
+    "tooltip": "Projectile_SteelWatcher_Quadruped_SelfDestructExplosion",
+    "zh": "爆炸"
+  },
+  "Projectile_SteelWatcher_Quadruped_SelfDestructExplosion|Self-Detonate": {
+    "en": "Self-Detonate",
+    "freq": 2,
+    "tooltip": "Projectile_SteelWatcher_Quadruped_SelfDestructExplosion",
+    "zh": "自爆"
+  },
+  "Projectile_UND_Nere_PsychicMirror_Explosion|Detonate": {
+    "en": "Detonate",
+    "freq": 2,
+    "tooltip": "Projectile_UND_Nere_PsychicMirror_Explosion",
+    "zh": "引爆"
+  },
+  "Projectile_UND_Nere_PsychicMirror_Explosion|Shatter": {
+    "en": "Shatter",
+    "freq": 3,
+    "tooltip": "Projectile_UND_Nere_PsychicMirror_Explosion",
+    "zh": "碎裂"
+  },
+  "Projectile_WYR_GrenadeLauncher_Gortash_Explosion|Concussion Grenade": {
+    "en": "Concussion Grenade",
+    "freq": 1,
+    "tooltip": "Projectile_WYR_GrenadeLauncher_Gortash_Explosion",
+    "zh": "震荡爆弹"
+  },
+  "Projectile_WildMagicBarbarian_LightBolt|Bolt of Light": {
+    "en": "Bolt of Light",
+    "freq": 1,
+    "tooltip": "Projectile_WildMagicBarbarian_LightBolt",
+    "zh": "光箭"
+  },
+  "RAGE_FRENZY_BURNOUT|Frenzied Strain": {
+    "en": "Frenzied Strain",
+    "freq": 1,
+    "tooltip": "RAGE_FRENZY_BURNOUT",
+    "zh": "狂乱恍惚"
+  },
+  "RAGE_FRENZY|Frenzied": {
+    "en": "Frenzied",
+    "freq": 1,
+    "tooltip": "RAGE_FRENZY",
+    "zh": "狂乱"
+  },
+  "RAGE_SAHUAGIN|Blood Frenzied": {
+    "en": "Blood Frenzied",
+    "freq": 1,
+    "tooltip": "RAGE_SAHUAGIN",
+    "zh": "血腥狂怒"
+  },
+  "RAGE_SAHUAGIN|Blood-scent Frenzy": {
+    "en": "Blood-scent Frenzy",
+    "freq": 2,
+    "tooltip": "RAGE_SAHUAGIN",
+    "zh": "血腥狂怒"
+  },
+  "RAGE|Enraged": {
+    "en": "Enraged",
+    "freq": 2,
+    "tooltip": "RAGE",
+    "zh": "生命值"
+  },
+  "RAGE|Rage": {
+    "en": "Rage",
+    "freq": 32,
+    "tooltip": "RAGE",
+    "zh": "狂暴"
+  },
+  "RAGE|Raging": {
+    "en": "Raging",
+    "freq": 12,
+    "tooltip": "RAGE",
+    "zh": "狂暴"
+  },
+  "RAT_INFECTED|Infect": {
+    "en": "Infect",
+    "freq": 1,
+    "tooltip": "RAT_INFECTED",
+    "zh": "感染"
+  },
+  "REDUCED|Reduced": {
+    "en": "Reduced",
+    "freq": 1,
+    "tooltip": "REDUCED",
+    "zh": "缩小"
+  },
+  "REDUCE|Reduce": {
+    "en": "Reduce",
+    "freq": 2,
+    "tooltip": "REDUCE",
+    "zh": "缩小"
+  },
+  "REGENERATION_SABERTOOTH|regenerate": {
+    "en": "regenerate",
+    "freq": 1,
+    "tooltip": "REGENERATION_SABERTOOTH",
+    "zh": "恢复"
+  },
+  "REPAIR_MATRIX|Repair": {
+    "en": "Repair",
+    "freq": 1,
+    "tooltip": "REPAIR_MATRIX",
+    "zh": "修理"
+  },
+  "REPAIR_MATRIX|Repair Matrix": {
+    "en": "Repair Matrix",
+    "freq": 1,
+    "tooltip": "REPAIR_MATRIX",
+    "zh": "修复矩阵"
+  },
+  "RESISTANCE|Resistance": {
+    "en": "Resistance",
+    "freq": 1,
+    "tooltip": "RESISTANCE",
+    "zh": "抗性"
+  },
+  "RESTRAINED|Restrain": {
+    "en": "Restrain",
+    "freq": 1,
+    "tooltip": "RESTRAINED",
+    "zh": "束缚"
+  },
+  "RESTRAINED|Restrained": {
+    "en": "Restrained",
+    "freq": 16,
+    "tooltip": "RESTRAINED",
+    "zh": "束缚"
+  },
+  "RESTRAINED|Restrains": {
+    "en": "Restrains",
+    "freq": 2,
+    "tooltip": "RESTRAINED",
+    "zh": "束缚"
+  },
+  "RESTRAINED|Restraints": {
+    "en": "Restraints",
+    "freq": 1,
+    "tooltip": "RESTRAINED",
+    "zh": "束缚"
+  },
+  "Rage|Rage Charge": {
+    "en": "Rage Charge",
+    "freq": 1,
+    "tooltip": "Rage",
+    "zh": "狂暴"
+  },
+  "RangedSpellAttack|Ranged Spell Attack": {
+    "en": "Ranged Spell Attack",
+    "freq": 1,
+    "tooltip": "RangedSpellAttack",
+    "zh": "远程法术攻击"
+  },
+  "RangedSpellAttack|Ranged Spell Attacks": {
+    "en": "Ranged Spell Attacks",
+    "freq": 3,
+    "tooltip": "RangedSpellAttack",
+    "zh": "远程法术攻击"
+  },
+  "RangedWeaponAttack|Ranged weapon attacks": {
+    "en": "Ranged weapon attacks",
+    "freq": 2,
+    "tooltip": "RangedWeaponAttack",
+    "zh": "远程武器攻击"
+  },
+  "RangedWeaponAttack|ranged weapon attack": {
+    "en": "ranged weapon attack",
+    "freq": 1,
+    "tooltip": "RangedWeaponAttack",
+    "zh": "远程武器攻击"
+  },
+  "RangedWeaponAttack|ranged weapon attacks": {
+    "en": "ranged weapon attacks",
+    "freq": 10,
+    "tooltip": "RangedWeaponAttack",
+    "zh": "远程武器攻击"
+  },
+  "Reach|Extra Reach": {
+    "en": "Extra Reach",
+    "freq": 1,
+    "tooltip": "Reach",
+    "zh": "额外范围"
+  },
+  "Reach|Reach Weapon": {
+    "en": "Reach Weapon",
+    "freq": 1,
+    "tooltip": "Reach",
+    "zh": "长型武器"
+  },
+  "ReactionActionPoint|reaction": {
+    "en": "reaction",
+    "freq": 34,
+    "tooltip": "ReactionActionPoint",
+    "zh": "反应"
+  },
+  "ReactionActionPoint|reactions": {
+    "en": "reactions",
+    "freq": 1,
+    "tooltip": "ReactionActionPoint",
+    "zh": "反应"
+  },
+  "Religion|Religion": {
+    "en": "Religion",
+    "freq": 2,
+    "tooltip": "Religion",
+    "zh": "熟练项"
+  },
+  "Resistance|Resistance": {
+    "en": "Resistance",
+    "freq": 2,
+    "tooltip": "Resistance",
+    "zh": "抗性"
+  },
+  "Resistant|Immune": {
+    "en": "Immune",
+    "freq": 1,
+    "tooltip": "Resistant",
+    "zh": "免疫"
+  },
+  "Resistant|Resistance": {
+    "en": "Resistance",
+    "freq": 179,
+    "tooltip": "Resistant",
+    "zh": "抗性"
+  },
+  "Resistant|Resistances": {
+    "en": "Resistances",
+    "freq": 4,
+    "tooltip": "Resistant",
+    "zh": "抗性"
+  },
+  "Resistant|Resistant": {
+    "en": "Resistant",
+    "freq": 70,
+    "tooltip": "Resistant",
+    "zh": "抗性"
+  },
+  "Resistant|half the damage": {
+    "en": "half the damage",
+    "freq": 2,
+    "tooltip": "Resistant",
+    "zh": "减半"
+  },
+  "Restrained": {
+    "en": "Restrained",
+    "freq": 1,
+    "tooltip": null,
+    "zh": "束缚"
+  },
+  "RitualSpell|ritual spells": {
+    "en": "ritual spells",
+    "freq": 2,
+    "tooltip": "RitualSpell",
+    "zh": "仪式法术"
+  },
+  "Rush_Charger_Attack|Charger: Weapon Attack": {
+    "en": "Charger: Weapon Attack",
+    "freq": 1,
+    "tooltip": "Rush_Charger_Attack",
+    "zh": "冲锋：武器攻击"
+  },
+  "Rush_Charger_Push|Charger: Shove": {
+    "en": "Charger: Shove",
+    "freq": 1,
+    "tooltip": "Rush_Charger_Push",
+    "zh": "冲锋：推击。"
+  },
+  "Rush_Charger_Push|Shove": {
+    "en": "Shove",
+    "freq": 1,
+    "tooltip": "Rush_Charger_Push",
+    "zh": "冲锋：武器攻击"
+  },
+  "Rush_MAG_Mobility_SprintForMomentum_Action|Sprint": {
+    "en": "Sprint",
+    "freq": 1,
+    "tooltip": "Rush_MAG_Mobility_SprintForMomentum_Action",
+    "zh": "冲刺"
+  },
+  "Rush_Primal_Stampede|Primal Stampede": {
+    "en": "Primal Stampede",
+    "freq": 2,
+    "tooltip": "Rush_Primal_Stampede",
+    "zh": "原始践踏"
+  },
+  "Rush_Rush_Boar_Summon|Charge": {
+    "en": "Charge",
+    "freq": 2,
+    "tooltip": "Rush_Rush_Boar_Summon",
+    "zh": "冲锋"
+  },
+  "Rush_Rush_DeepRothe|Charges": {
+    "en": "Charges",
+    "freq": 1,
+    "tooltip": "Rush_Rush_DeepRothe",
+    "zh": "冲锋"
+  },
+  "SACRED_WEAPON|Sacred Weapon": {
+    "en": "Sacred Weapon",
+    "freq": 1,
+    "tooltip": "SACRED_WEAPON",
+    "zh": "神圣武器"
+  },
+  "SANCTUARY_BLOCK|Sanctuary Blocked": {
+    "en": "Sanctuary Blocked",
+    "freq": 1,
+    "tooltip": "SANCTUARY_BLOCK",
+    "zh": "庇护受阻"
+  },
+  "SANCTUARY|Sanctuary": {
+    "en": "Sanctuary",
+    "freq": 2,
+    "tooltip": "SANCTUARY",
+    "zh": "庇护术"
+  },
+  "SCL_OLIVER_CURSEDOME_AURA|The Wasting Quiet": {
+    "en": "The Wasting Quiet",
+    "freq": 4,
+    "tooltip": "SCL_OLIVER_CURSEDOME_AURA",
+    "zh": "消耗静谧"
+  },
+  "SHA_JUSTICIAR_CALLOFTHEDARK|Call of the Dark Lady": {
+    "en": "Call of the Dark Lady",
+    "freq": 1,
+    "tooltip": "SHA_JUSTICIAR_CALLOFTHEDARK",
+    "zh": "黑暗女士的召唤"
+  },
+  "SHA_JUSTICIAR_UMBRAL_FORM|Umbral Form": {
+    "en": "Umbral Form",
+    "freq": 2,
+    "tooltip": "SHA_JUSTICIAR_UMBRAL_FORM",
+    "zh": "阴影形态"
+  },
+  "SHA_NECROMANCER_FLESH_BERSERK|Berserk": {
+    "en": "Berserk",
+    "freq": 4,
+    "tooltip": "SHA_NECROMANCER_FLESH_BERSERK",
+    "zh": "失心狂怒"
+  },
+  "SHA_NECROMANCER_LANDOFTHEDEAD_AURA|The Dead Wastes": {
+    "en": "The Dead Wastes",
+    "freq": 2,
+    "tooltip": "SHA_NECROMANCER_LANDOFTHEDEAD_AURA",
+    "zh": "死亡废料"
+  },
+  "SHA_NECROMANCER_SPECTRALFORM|Spectral Aspect": {
+    "en": "Spectral Aspect",
+    "freq": 3,
+    "tooltip": "SHA_NECROMANCER_SPECTRALFORM",
+    "zh": "幽灵面貌"
+  },
+  "SHA_ORTHON_TRACKED|Hunted": {
+    "en": "Hunted",
+    "freq": 4,
+    "tooltip": "SHA_ORTHON_TRACKED",
+    "zh": "目盲"
+  },
+  "SHA_TORTURETRIAL_SHAR_DEBUFF_1|Cheater's Folly": {
+    "en": "Cheater's Folly",
+    "freq": 1,
+    "tooltip": "SHA_TORTURETRIAL_SHAR_DEBUFF_1",
+    "zh": "作弊者的愚蠢"
+  },
+  "SHA_WITHERINGLIFE|Withering Life Force": {
+    "en": "Withering Life Force",
+    "freq": 1,
+    "tooltip": "SHA_WITHERINGLIFE",
+    "zh": "枯萎生命力场"
+  },
+  "SHIELD_OF_FAITH|Shield of Faith": {
+    "en": "Shield of Faith",
+    "freq": 4,
+    "tooltip": "SHIELD_OF_FAITH",
+    "zh": "虔诚护盾"
+  },
+  "SHILLELAGH|Shillelagh": {
+    "en": "Shillelagh",
+    "freq": 2,
+    "tooltip": "SHILLELAGH",
+    "zh": "橡棍术"
+  },
+  "SHOCKED_SURFACE|Electrocuted": {
+    "en": "Electrocuted",
+    "freq": 4,
+    "tooltip": "SHOCKED_SURFACE",
+    "zh": "电击"
+  },
+  "SHOCKED|Shock": {
+    "en": "Shock",
+    "freq": 6,
+    "tooltip": "SHOCKED",
+    "zh": "感电"
+  },
+  "SHOCKED|Shocked": {
+    "en": "Shocked",
+    "freq": 4,
+    "tooltip": "SHOCKED",
+    "zh": "感电"
+  },
+  "SHOCKED|Shocking": {
+    "en": "Shocking",
+    "freq": 2,
+    "tooltip": "SHOCKED",
+    "zh": "感电"
+  },
+  "SHROUD_SELF|Invisible": {
+    "en": "Invisible",
+    "freq": 1,
+    "tooltip": "SHROUD_SELF",
+    "zh": "隐形"
+  },
+  "SILENCED|Silence": {
+    "en": "Silence",
+    "freq": 3,
+    "tooltip": "SILENCED",
+    "zh": "沉默"
+  },
+  "SILENCED|Silenced": {
+    "en": "Silenced",
+    "freq": 29,
+    "tooltip": "SILENCED",
+    "zh": "沉默"
+  },
+  "SILENCED|Silences": {
+    "en": "Silences",
+    "freq": 2,
+    "tooltip": "SILENCED",
+    "zh": "沉默"
+  },
+  "SILENCED|Silencing": {
+    "en": "Silencing",
+    "freq": 2,
+    "tooltip": "SILENCED",
+    "zh": "沉默"
+  },
+  "SLEEPING|Sleeping": {
+    "en": "Sleeping",
+    "freq": 3,
+    "tooltip": "SLEEPING",
+    "zh": "沉睡"
+  },
+  "SLEEP|Asleep": {
+    "en": "Asleep",
+    "freq": 3,
+    "tooltip": "SLEEP",
+    "zh": "睡眠"
+  },
+  "SLEEP|Sleep": {
+    "en": "Sleep",
+    "freq": 7,
+    "tooltip": "SLEEP",
+    "zh": "睡眠"
+  },
+  "SLEEP|sleep": {
+    "en": "sleep",
+    "freq": 1,
+    "tooltip": "SLEEP",
+    "zh": "睡眠"
+  },
+  "SLOWED|Slow": {
+    "en": "Slow",
+    "freq": 1,
+    "tooltip": "SLOWED",
+    "zh": "缓速"
+  },
+  "SLOWED|Slowed": {
+    "en": "Slowed",
+    "freq": 1,
+    "tooltip": "SLOWED",
+    "zh": "减速"
+  },
+  "SLOWED|Slows": {
+    "en": "Slows",
+    "freq": 1,
+    "tooltip": "SLOWED",
+    "zh": "缓速"
+  },
+  "SLOW|Slow": {
+    "en": "Slow",
+    "freq": 6,
+    "tooltip": "SLOW",
+    "zh": "减速"
+  },
+  "SLOW|Slowed": {
+    "en": "Slowed",
+    "freq": 5,
+    "tooltip": "SLOW",
+    "zh": "缓速"
+  },
+  "SLOW|Slowing": {
+    "en": "Slowing",
+    "freq": 1,
+    "tooltip": "SLOW",
+    "zh": "减速"
+  },
+  "SLOW|Slows": {
+    "en": "Slows",
+    "freq": 3,
+    "tooltip": "SLOW",
+    "zh": "减速"
+  },
+  "SNEAKING|Hidden": {
+    "en": "Hidden",
+    "freq": 1,
+    "tooltip": "SNEAKING",
+    "zh": "隐藏"
+  },
+  "SNEAKING|Hiding": {
+    "en": "Hiding",
+    "freq": 2,
+    "tooltip": "SNEAKING",
+    "zh": "隐形"
+  },
+  "SPIDER_INFESTATION|Infest": {
+    "en": "Infest",
+    "freq": 1,
+    "tooltip": "SPIDER_INFESTATION",
+    "zh": "骚扰"
+  },
+  "SPIDER_INFESTATION|Infested": {
+    "en": "Infested",
+    "freq": 4,
+    "tooltip": "SPIDER_INFESTATION",
+    "zh": "感染"
+  },
+  "SPIDER_INFESTATION|Infesting": {
+    "en": "Infesting",
+    "freq": 1,
+    "tooltip": "SPIDER_INFESTATION",
+    "zh": "感染"
+  },
+  "STAGGERING_SMITE|Stagger": {
+    "en": "Stagger",
+    "freq": 1,
+    "tooltip": "STAGGERING_SMITE",
+    "zh": "惊惧"
+  },
+  "STATIC_DISCHARGE_AURA|Static Discharge Aura": {
+    "en": "Static Discharge Aura",
+    "freq": 1,
+    "tooltip": "STATIC_DISCHARGE_AURA",
+    "zh": "静电放射灵光"
+  },
+  "STEELWATCHER_THRESHOLD|Unyielding": {
+    "en": "Unyielding",
+    "freq": 2,
+    "tooltip": "STEELWATCHER_THRESHOLD",
+    "zh": "不屈"
+  },
+  "STEP_OF_THE_WIND|Step of The Wind": {
+    "en": "Step of The Wind",
+    "freq": 1,
+    "tooltip": "STEP_OF_THE_WIND",
+    "zh": "飞檐走壁"
+  },
+  "STINKING_CLOUD|Nauseate": {
+    "en": "Nauseate",
+    "freq": 1,
+    "tooltip": "STINKING_CLOUD",
+    "zh": "作呕"
+  },
+  "STINKING_CLOUD|Nauseates": {
+    "en": "Nauseates",
+    "freq": 1,
+    "tooltip": "STINKING_CLOUD",
+    "zh": "作呕"
+  },
+  "STINKING_CLOUD|Nauseous": {
+    "en": "Nauseous",
+    "freq": 2,
+    "tooltip": "STINKING_CLOUD",
+    "zh": "作呕"
+  },
+  "STUNNED|Stun": {
+    "en": "Stun",
+    "freq": 8,
+    "tooltip": "STUNNED",
+    "zh": "震慑"
+  },
+  "STUNNED|Stunned": {
+    "en": "Stunned",
+    "freq": 20,
+    "tooltip": "STUNNED",
+    "zh": "震慑"
+  },
+  "STUNNED|Stunning": {
+    "en": "Stunning",
+    "freq": 2,
+    "tooltip": "STUNNED",
+    "zh": "震慑"
+  },
+  "STUNNED|Stuns": {
+    "en": "Stuns",
+    "freq": 3,
+    "tooltip": "STUNNED",
+    "zh": "震慑"
+  },
+  "SUNBEAM|Blinds": {
+    "en": "Blinds",
+    "freq": 2,
+    "tooltip": "SUNBEAM",
+    "zh": "目盲"
+  },
+  "SURPRISED|Surprised": {
+    "en": "Surprised",
+    "freq": 10,
+    "tooltip": "SURPRISED",
+    "zh": "受惊"
+  },
+  "SWARM_RAVEN|ravens": {
+    "en": "ravens",
+    "freq": 1,
+    "tooltip": "SWARM_RAVEN",
+    "zh": "乌鸦"
+  },
+  "SYMBIOTIC_ENTITY|Symbiotic Entity": {
+    "en": "Symbiotic Entity",
+    "freq": 2,
+    "tooltip": "SYMBIOTIC_ENTITY",
+    "zh": "共生实体"
+  },
+  "SavingThow|Saving Throw": {
+    "en": "Saving Throw",
+    "freq": 1,
+    "tooltip": "SavingThow",
+    "zh": "豁免检定"
+  },
+  "SavingThow|Saving Throws": {
+    "en": "Saving Throws",
+    "freq": 1,
+    "tooltip": "SavingThow",
+    "zh": "劣势"
+  },
+  "SavingThrows|Saving Throws": {
+    "en": "Saving Throws",
+    "freq": 2,
+    "tooltip": "SavingThrows",
+    "zh": "豁免检定"
+  },
+  "SavingThrow|Saves": {
+    "en": "Saves",
+    "freq": 1,
+    "tooltip": "SavingThrow",
+    "zh": "检定"
+  },
+  "SavingThrow|Saving Throw": {
+    "en": "Saving Throw",
+    "freq": 181,
+    "tooltip": "SavingThrow",
+    "zh": "豁免检定"
+  },
+  "SavingThrow|Saving Thrown": {
+    "en": "Saving Thrown",
+    "freq": 1,
+    "tooltip": "SavingThrow",
+    "zh": "豁免检定"
+  },
+  "SavingThrow|Saving Throws": {
+    "en": "Saving Throws",
+    "freq": 145,
+    "tooltip": "SavingThrow",
+    "zh": "豁免检定"
+  },
+  "SavingThrow|save": {
+    "en": "save",
+    "freq": 2,
+    "tooltip": "SavingThrow",
+    "zh": "豁免检定"
+  },
+  "SavingThrow|saves": {
+    "en": "saves",
+    "freq": 2,
+    "tooltip": "SavingThrow",
+    "zh": "豁免检定"
+  },
+  "ShortRest|Short": {
+    "en": "Short",
+    "freq": 5,
+    "tooltip": "ShortRest",
+    "zh": "短休"
+  },
+  "ShortRest|Short Rest": {
+    "en": "Short Rest",
+    "freq": 29,
+    "tooltip": "ShortRest",
+    "zh": "短休"
+  },
+  "ShortRest|Short Rests": {
+    "en": "Short Rests",
+    "freq": 7,
+    "tooltip": "ShortRest",
+    "zh": "短休"
+  },
+  "Shout_AspectOfTheElk|Aspect of the Elk": {
+    "en": "Aspect of the Elk",
+    "freq": 1,
+    "tooltip": "Shout_AspectOfTheElk",
+    "zh": "驼鹿面貌"
+  },
+  "Shout_AspectOfTheWolf|Aspect of the Wolf": {
+    "en": "Aspect of the Wolf",
+    "freq": 1,
+    "tooltip": "Shout_AspectOfTheWolf",
+    "zh": "狼之面貌"
+  },
+  "Shout_Bard_Perform_Whistle|Performing": {
+    "en": "Performing",
+    "freq": 1,
+    "tooltip": "Shout_Bard_Perform_Whistle",
+    "zh": "表演"
+  },
+  "Shout_Bladesong|Bladesong": {
+    "en": "Bladesong",
+    "freq": 4,
+    "tooltip": "Shout_Bladesong",
+    "zh": "剑歌"
+  },
+  "Shout_Blink|Blink": {
+    "en": "Blink",
+    "freq": 1,
+    "tooltip": "Shout_Blink",
+    "zh": "闪现"
+  },
+  "Shout_Blur|Blur": {
+    "en": "Blur",
+    "freq": 2,
+    "tooltip": "Shout_Blur",
+    "zh": "朦胧术"
+  },
+  "Shout_BurningRage_Myrmidon_Fire|Myrmidon's Immolation": {
+    "en": "Myrmidon's Immolation",
+    "freq": 1,
+    "tooltip": "Shout_BurningRage_Myrmidon_Fire",
+    "zh": "元素执政官自燃"
+  },
+  "Shout_Dash|Dash": {
+    "en": "Dash",
+    "freq": 10,
+    "tooltip": "Shout_Dash",
+    "zh": "疾走"
+  },
+  "Shout_Dash|Dashes": {
+    "en": "Dashes",
+    "freq": 3,
+    "tooltip": "Shout_Dash",
+    "zh": "疾走"
+  },
+  "Shout_Dash|Dashing": {
+    "en": "Dashing",
+    "freq": 2,
+    "tooltip": "Shout_Dash",
+    "zh": "疾走"
+  },
+  "Shout_Dash|dash": {
+    "en": "dash",
+    "freq": 1,
+    "tooltip": "Shout_Dash",
+    "zh": "疾走"
+  },
+  "Shout_DeathBurst_Chosen_IceMephit|Explode": {
+    "en": "Explode",
+    "freq": 1,
+    "tooltip": "Shout_DeathBurst_Chosen_IceMephit",
+    "zh": "爆炸"
+  },
+  "Shout_DeathBurst_Chosen_MudMephit|Explode": {
+    "en": "Explode",
+    "freq": 1,
+    "tooltip": "Shout_DeathBurst_Chosen_MudMephit",
+    "zh": "爆炸"
+  },
+  "Shout_DestructiveWave|Destructive Wave": {
+    "en": "Destructive Wave",
+    "freq": 2,
+    "tooltip": "Shout_DestructiveWave",
+    "zh": "湮灭波"
+  },
+  "Shout_DiamondScalesBurst_Bulette|Shredding Scales": {
+    "en": "Shredding Scales",
+    "freq": 2,
+    "tooltip": "Shout_DiamondScalesBurst_Bulette",
+    "zh": "撕裂鳞片"
+  },
+  "Shout_Disengage|Disengage": {
+    "en": "Disengage",
+    "freq": 2,
+    "tooltip": "Shout_Disengage",
+    "zh": "撤离"
+  },
+  "Shout_Disengage|Disengages": {
+    "en": "Disengages",
+    "freq": 1,
+    "tooltip": "Shout_Disengage",
+    "zh": "撤离"
+  },
+  "Shout_Disengage|Disengaging": {
+    "en": "Disengaging",
+    "freq": 1,
+    "tooltip": "Shout_Disengage",
+    "zh": "撤离"
+  },
+  "Shout_DisguiseSelf|Disguise Self": {
+    "en": "Disguise Self",
+    "freq": 1,
+    "tooltip": "Shout_DisguiseSelf",
+    "zh": "伪装术"
+  },
+  "Shout_Distract_Cat_Summon|Meow": {
+    "en": "Meow",
+    "freq": 2,
+    "tooltip": "Shout_Distract_Cat_Summon",
+    "zh": "猫叫"
+  },
+  "Shout_DivineIntervention|Divine Intervention": {
+    "en": "Divine Intervention",
+    "freq": 1,
+    "tooltip": "Shout_DivineIntervention",
+    "zh": "神圣干预"
+  },
+  "Shout_EyebeamNova_Spectator|Ocular Nightmare": {
+    "en": "Ocular Nightmare",
+    "freq": 5,
+    "tooltip": "Shout_EyebeamNova_Spectator",
+    "zh": "魔眼噩梦"
+  },
+  "Shout_FalseLife|False Life": {
+    "en": "False Life",
+    "freq": 1,
+    "tooltip": "Shout_FalseLife",
+    "zh": "虚假生命"
+  },
+  "Shout_FerociousAppetite|Unrelenting Ferocity": {
+    "en": "Unrelenting Ferocity",
+    "freq": 2,
+    "tooltip": "Shout_FerociousAppetite",
+    "zh": "无情残暴"
+  },
+  "Shout_FlameBlade|Flame Blade": {
+    "en": "Flame Blade",
+    "freq": 2,
+    "tooltip": "Shout_FlameBlade",
+    "zh": "燃烧之手"
+  },
+  "Shout_GOB_Dror_Galvanise|Galvanise": {
+    "en": "Galvanise",
+    "freq": 2,
+    "tooltip": "Shout_GOB_Dror_Galvanise",
+    "zh": "激励"
+  },
+  "Shout_GoadingRoar_Bear_Summon|Goad": {
+    "en": "Goad",
+    "freq": 1,
+    "tooltip": "Shout_GoadingRoar_Bear_Summon",
+    "zh": "嘲讽"
+  },
+  "Shout_GoadingRoar_Bear_Summon|Goading Roar": {
+    "en": "Goading Roar",
+    "freq": 2,
+    "tooltip": "Shout_GoadingRoar_Bear_Summon",
+    "zh": "挑衅咆哮"
+  },
+  "Shout_HAG_Counterswap|Weird Magic Surge": {
+    "en": "Weird Magic Surge",
+    "freq": 1,
+    "tooltip": "Shout_HAG_Counterswap",
+    "zh": "狂野魔法浪涌"
+  },
+  "Shout_HealingMist_Myrmidon_Water|Healing Vapours": {
+    "en": "Healing Vapours",
+    "freq": 2,
+    "tooltip": "Shout_HealingMist_Myrmidon_Water",
+    "zh": "治愈薄雾"
+  },
+  "Shout_HellishRebuke|Hellish Rebuke": {
+    "en": "Hellish Rebuke",
+    "freq": 2,
+    "tooltip": "Shout_HellishRebuke",
+    "zh": "奇术"
+  },
+  "Shout_Hexblade_Bind|Bind Hexed Weapon": {
+    "en": "Bind Hexed Weapon",
+    "freq": 1,
+    "tooltip": "Shout_Hexblade_Bind",
+    "zh": "诅咒武器誓缚"
+  },
+  "Shout_Hide|Hide": {
+    "en": "Hide",
+    "freq": 1,
+    "tooltip": "Shout_Hide",
+    "zh": "躲藏"
+  },
+  "Shout_KineticArmor_AdamantineGolem|Reverberate": {
+    "en": "Reverberate",
+    "freq": 1,
+    "tooltip": "Shout_KineticArmor_AdamantineGolem",
+    "zh": "残响"
+  },
+  "Shout_KineticArmor_AdamantineGolem|Reverberates": {
+    "en": "Reverberates",
+    "freq": 1,
+    "tooltip": "Shout_KineticArmor_AdamantineGolem",
+    "zh": "残响"
+  },
+  "Shout_LOW_BhaalCultist_PowerWordKill_Ritual|Bhaal's Power Word Kill": {
+    "en": "Bhaal's Power Word Kill",
+    "freq": 2,
+    "tooltip": "Shout_LOW_BhaalCultist_PowerWordKill_Ritual",
+    "zh": "巴尔律令死亡"
+  },
+  "Shout_LOW_BhaalCultist_PowerWordKill_Ritual|Power Word Kill": {
+    "en": "Power Word Kill",
+    "freq": 1,
+    "tooltip": "Shout_LOW_BhaalCultist_PowerWordKill_Ritual",
+    "zh": "律令死亡"
+  },
+  "Shout_LOW_GreaseWizard_RaiseFire|Invigorating Flame": {
+    "en": "Invigorating Flame",
+    "freq": 1,
+    "tooltip": "Shout_LOW_GreaseWizard_RaiseFire",
+    "zh": "活化火焰"
+  },
+  "Shout_LOW_MistyEscape_Astarion|Gaseous form": {
+    "en": "Gaseous form",
+    "freq": 1,
+    "tooltip": "Shout_LOW_MistyEscape_Astarion",
+    "zh": "气化形体"
+  },
+  "Shout_LOW_OpenGate_BringReinforcements|Summon": {
+    "en": "Summon",
+    "freq": 1,
+    "tooltip": "Shout_LOW_OpenGate_BringReinforcements",
+    "zh": "召唤"
+  },
+  "Shout_LOW_OpenGate_BringReinforcements|Summoning": {
+    "en": "Summoning",
+    "freq": 1,
+    "tooltip": "Shout_LOW_OpenGate_BringReinforcements",
+    "zh": "召唤"
+  },
+  "Shout_LuringSong_Harpy|Luring Song": {
+    "en": "Luring Song",
+    "freq": 1,
+    "tooltip": "Shout_LuringSong_Harpy",
+    "zh": "豁免检定"
+  },
+  "Shout_MAG_Harpers_SingingSword_Shriek|Shriek": {
+    "en": "Shriek",
+    "freq": 1,
+    "tooltip": "Shout_MAG_Harpers_SingingSword_Shriek",
+    "zh": "尖叫"
+  },
+  "Shout_MAG_Harpers_SingingSword_Sing|Sing": {
+    "en": "Sing",
+    "freq": 1,
+    "tooltip": "Shout_MAG_Harpers_SingingSword_Sing",
+    "zh": "歌唱"
+  },
+  "Shout_MAG_WeaponAction_UndeadTurningBolt|Sacred Munitions": {
+    "en": "Sacred Munitions",
+    "freq": 1,
+    "tooltip": "Shout_MAG_WeaponAction_UndeadTurningBolt",
+    "zh": "神圣弹药"
+  },
+  "Shout_MetalCoating_Myrmidon_Earth|Muck to Metal": {
+    "en": "Muck to Metal",
+    "freq": 2,
+    "tooltip": "Shout_MetalCoating_Myrmidon_Earth",
+    "zh": "点泥成金"
+  },
+  "Shout_MirrorImage|Mirror Image": {
+    "en": "Mirror Image",
+    "freq": 2,
+    "tooltip": "Shout_MirrorImage",
+    "zh": "镜像术"
+  },
+  "Shout_Moan_Cloaker|Moans": {
+    "en": "Moans",
+    "freq": 1,
+    "tooltip": "Shout_Moan_Cloaker",
+    "zh": "呻吟"
+  },
+  "Shout_MudSlap_Myrmidon_Earth|Sludgy Sling": {
+    "en": "Sludgy Sling",
+    "freq": 1,
+    "tooltip": "Shout_MudSlap_Myrmidon_Earth",
+    "zh": "泥泞投掷"
+  },
+  "Shout_OneWithShadows|One with Shadows": {
+    "en": "One with Shadows",
+    "freq": 1,
+    "tooltip": "Shout_OneWithShadows",
+    "zh": "融身入影"
+  },
+  "Shout_Overheat_Azer|Overheat": {
+    "en": "Overheat",
+    "freq": 1,
+    "tooltip": "Shout_Overheat_Azer",
+    "zh": "过热"
+  },
+  "Shout_Owlbear_Wildshape_Enrage|Enraged": {
+    "en": "Enraged",
+    "freq": 1,
+    "tooltip": "Shout_Owlbear_Wildshape_Enrage",
+    "zh": "激怒"
+  },
+  "Shout_Owlbear_Wildshape_Smash|Rupture": {
+    "en": "Rupture",
+    "freq": 1,
+    "tooltip": "Shout_Owlbear_Wildshape_Smash",
+    "zh": "裂地"
+  },
+  "Shout_PackHowl_Barbarian|Inciting Howl": {
+    "en": "Inciting Howl",
+    "freq": 2,
+    "tooltip": "Shout_PackHowl_Barbarian",
+    "zh": "激励咆哮"
+  },
+  "Shout_PackHowl_Wolf_Dire|Incite": {
+    "en": "Incite",
+    "freq": 1,
+    "tooltip": "Shout_PackHowl_Wolf_Dire",
+    "zh": "激励"
+  },
+  "Shout_PactOfTheBlade_Bind|Bind": {
+    "en": "Bind",
+    "freq": 2,
+    "tooltip": "Shout_PactOfTheBlade_Bind",
+    "zh": "誓缚"
+  },
+  "Shout_PactOfTheBlade|Summon": {
+    "en": "Summon",
+    "freq": 1,
+    "tooltip": "Shout_PactOfTheBlade",
+    "zh": "召唤"
+  },
+  "Shout_PassWithoutTrace|Pass Without Trace": {
+    "en": "Pass Without Trace",
+    "freq": 1,
+    "tooltip": "Shout_PassWithoutTrace",
+    "zh": "行动无踪"
+  },
+  "Shout_Prowl_Panther|Prowl": {
+    "en": "Prowl",
+    "freq": 1,
+    "tooltip": "Shout_Prowl_Panther",
+    "zh": "潜行"
+  },
+  "Shout_Rage|Rage": {
+    "en": "Rage",
+    "freq": 8,
+    "tooltip": "Shout_Rage",
+    "zh": "狂暴"
+  },
+  "Shout_SeeInvisibility|See Invisibility": {
+    "en": "See Invisibility",
+    "freq": 1,
+    "tooltip": "Shout_SeeInvisibility",
+    "zh": "隐形"
+  },
+  "Shout_SeismicStrike_Elemental_Earth|Seismic Strike": {
+    "en": "Seismic Strike",
+    "freq": 1,
+    "tooltip": "Shout_SeismicStrike_Elemental_Earth",
+    "zh": "撼地锤击"
+  },
+  "Shout_SpeakWithAnimals|Speak with Animals": {
+    "en": "Speak with Animals",
+    "freq": 1,
+    "tooltip": "Shout_SpeakWithAnimals",
+    "zh": "动物交谈"
+  },
+  "Shout_Speak_With_Animals|Speak With Animals": {
+    "en": "Speak With Animals",
+    "freq": 1,
+    "tooltip": "Shout_Speak_With_Animals",
+    "zh": "动物交谈"
+  },
+  "Shout_SteelWatcher_Quadruped_Repel|Repel": {
+    "en": "Repel",
+    "freq": 1,
+    "tooltip": "Shout_SteelWatcher_Quadruped_Repel",
+    "zh": "击退"
+  },
+  "Shout_SteelWatcher_Quadruped_Repel|Repelling Protocol": {
+    "en": "Repelling Protocol",
+    "freq": 1,
+    "tooltip": "Shout_SteelWatcher_Quadruped_Repel",
+    "zh": "推斥协议"
+  },
+  "Shout_SteelWatcher_Quadruped_SelfDestruct_Begin|Self-Detonation Protocol": {
+    "en": "Self-Detonation Protocol",
+    "freq": 1,
+    "tooltip": "Shout_SteelWatcher_Quadruped_SelfDestruct_Begin",
+    "zh": "自爆程序"
+  },
+  "Shout_StillnessOfMind|Stillness of Mind": {
+    "en": "Stillness of Mind",
+    "freq": 1,
+    "tooltip": "Shout_StillnessOfMind",
+    "zh": "心如止水"
+  },
+  "Shout_SymbioticEntity|Symbiotic Entity": {
+    "en": "Symbiotic Entity",
+    "freq": 2,
+    "tooltip": "Shout_SymbioticEntity",
+    "zh": "共生实体"
+  },
+  "Shout_TWN_MindScreech_Nurse|Wail of Loss": {
+    "en": "Wail of Loss",
+    "freq": 4,
+    "tooltip": "Shout_TWN_MindScreech_Nurse",
+    "zh": "失落哀嚎"
+  },
+  "Shout_Thaumaturgy|Thaumaturgy": {
+    "en": "Thaumaturgy",
+    "freq": 2,
+    "tooltip": "Shout_Thaumaturgy",
+    "zh": "长休"
+  },
+  "Shout_TurnUndead|Turn": {
+    "en": "Turn",
+    "freq": 1,
+    "tooltip": "Shout_TurnUndead",
+    "zh": "驱散"
+  },
+  "Shout_TurnUndead|Turn Undead": {
+    "en": "Turn Undead",
+    "freq": 2,
+    "tooltip": "Shout_TurnUndead",
+    "zh": "优势"
+  },
+  "Shout_UND_Nere_PsychicMirror|Psionic Visage": {
+    "en": "Psionic Visage",
+    "freq": 2,
+    "tooltip": "Shout_UND_Nere_PsychicMirror",
+    "zh": "灵能面容"
+  },
+  "Shout_Whirlwind_Elemental_Air|Primordial Gales": {
+    "en": "Primordial Gales",
+    "freq": 1,
+    "tooltip": "Shout_Whirlwind_Elemental_Air",
+    "zh": "原始雷暴"
+  },
+  "Shout_WildShape|Wild Shape": {
+    "en": "Wild Shape",
+    "freq": 3,
+    "tooltip": "Shout_WildShape",
+    "zh": "荒野形态"
+  },
+  "Shout_Wildshape_Star_Archer|Starry Form: Archer": {
+    "en": "Starry Form: Archer",
+    "freq": 1,
+    "tooltip": "Shout_Wildshape_Star_Archer",
+    "zh": "星耀形态：射手座"
+  },
+  "Shout_Wildshape_Star_Chalice|Starry Form: Chalice": {
+    "en": "Starry Form: Chalice",
+    "freq": 1,
+    "tooltip": "Shout_Wildshape_Star_Chalice",
+    "zh": "星耀形态：圣杯座"
+  },
+  "Shout_Wildshape_Star_Dragon|Starry Form: Dragon": {
+    "en": "Starry Form: Dragon",
+    "freq": 1,
+    "tooltip": "Shout_Wildshape_Star_Dragon",
+    "zh": "星耀形态：巨龙座"
+  },
+  "Silence": {
+    "en": "Silence",
+    "freq": 3,
+    "tooltip": null,
+    "zh": "沉默"
+  },
+  "SkillChecks|Checks": {
+    "en": "Checks",
+    "freq": 2,
+    "tooltip": "SkillChecks",
+    "zh": "熟练项"
+  },
+  "SkillCheck|Checks": {
+    "en": "Checks",
+    "freq": 18,
+    "tooltip": "SkillCheck",
+    "zh": "检定"
+  },
+  "SkillCheck|Skill Checks": {
+    "en": "Skill Checks",
+    "freq": 1,
+    "tooltip": "SkillCheck",
+    "zh": "技能检定"
+  },
+  "Skill|Skill": {
+    "en": "Skill",
+    "freq": 5,
+    "tooltip": "Skill",
+    "zh": "技能"
+  },
+  "Skill|Skills": {
+    "en": "Skills",
+    "freq": 5,
+    "tooltip": "Skill",
+    "zh": "熟练项"
+  },
+  "Skill|skills": {
+    "en": "skills",
+    "freq": 2,
+    "tooltip": "Skill",
+    "zh": "熟练项"
+  },
+  "SleightOfHand|Sleight Of Hand": {
+    "en": "Sleight Of Hand",
+    "freq": 1,
+    "tooltip": "SleightOfHand",
+    "zh": "熟练项"
+  },
+  "SleightOfHand|Sleight of Hand": {
+    "en": "Sleight of Hand",
+    "freq": 1,
+    "tooltip": "SleightOfHand",
+    "zh": "熟练项"
+  },
+  "SorceryPoint|Sorcery Point": {
+    "en": "Sorcery Point",
+    "freq": 11,
+    "tooltip": "SorceryPoint",
+    "zh": "术法点"
+  },
+  "SorceryPoint|Sorcery Points": {
+    "en": "Sorcery Points",
+    "freq": 1,
+    "tooltip": "SorceryPoint",
+    "zh": "术法点"
+  },
+  "SpellDifficultyClass|Spell Difficulty Class": {
+    "en": "Spell Difficulty Class",
+    "freq": 1,
+    "tooltip": "SpellDifficultyClass",
+    "zh": "法术难度等级"
+  },
+  "SpellDifficultyClass|Spell Save DC": {
+    "en": "Spell Save DC",
+    "freq": 8,
+    "tooltip": "SpellDifficultyClass",
+    "zh": "法术豁免难度等级"
+  },
+  "SpellSlot|Spell Slot": {
+    "en": "Spell Slot",
+    "freq": 10,
+    "tooltip": "SpellSlot",
+    "zh": "法术位"
+  },
+  "SpellSlot|Spell Slots": {
+    "en": "Spell Slots",
+    "freq": 8,
+    "tooltip": "SpellSlot",
+    "zh": "法术位"
+  },
+  "SpellSlot|Spell slots": {
+    "en": "Spell slots",
+    "freq": 1,
+    "tooltip": "SpellSlot",
+    "zh": "法术位"
+  },
+  "SpellSlot|spell slot": {
+    "en": "spell slot",
+    "freq": 80,
+    "tooltip": "SpellSlot",
+    "zh": "法术位"
+  },
+  "SpellSlot|spell slots": {
+    "en": "spell slots",
+    "freq": 30,
+    "tooltip": "SpellSlot",
+    "zh": "法术位"
+  },
+  "SpellcastingAbilityModifier|Spellcasting Ability": {
+    "en": "Spellcasting Ability",
+    "freq": 7,
+    "tooltip": "SpellcastingAbilityModifier",
+    "zh": "施法关键属性"
+  },
+  "SpellcastingAbilityModifier|Spellcasting Ability Modifier": {
+    "en": "Spellcasting Ability Modifier",
+    "freq": 6,
+    "tooltip": "SpellcastingAbilityModifier",
+    "zh": "施法关键属性调整值"
+  },
+  "SpellcastingAbilityModifier|Spellcasting Modifier": {
+    "en": "Spellcasting Modifier",
+    "freq": 6,
+    "tooltip": "SpellcastingAbilityModifier",
+    "zh": "施法调整值"
+  },
+  "SpellcastingAbilityModifier|modifier": {
+    "en": "modifier",
+    "freq": 2,
+    "tooltip": "SpellcastingAbilityModifier",
+    "zh": "施法属性"
+  },
+  "SpellcastingAbility|Spellcasting Ability": {
+    "en": "Spellcasting Ability",
+    "freq": 7,
+    "tooltip": "SpellcastingAbility",
+    "zh": "施法关键属性"
+  },
+  "Spindleweb Fanatic": {
+    "en": "Spindleweb Fanatic",
+    "freq": 4,
+    "tooltip": null,
+    "zh": "织网盲信者"
+  },
+  "Stealth|Stealth": {
+    "en": "Stealth",
+    "freq": 6,
+    "tooltip": "Stealth",
+    "zh": "熟练项"
+  },
+  "Stealth|Stealth checks": {
+    "en": "Stealth checks",
+    "freq": 1,
+    "tooltip": "Stealth",
+    "zh": "隐匿检定"
+  },
+  "Strength|Strength": {
+    "en": "Strength",
+    "freq": 68,
+    "tooltip": "Strength",
+    "zh": "力量"
+  },
+  "SuperiorDarkvision|Darkvision": {
+    "en": "Darkvision",
+    "freq": 1,
+    "tooltip": "SuperiorDarkvision",
+    "zh": "黑暗视觉"
+  },
+  "SuperiorDarkvision|Superior Darkvision": {
+    "en": "Superior Darkvision",
+    "freq": 2,
+    "tooltip": "SuperiorDarkvision",
+    "zh": "高级黑暗视觉"
+  },
+  "SuperiorityDie|Superiority Dice": {
+    "en": "Superiority Dice",
+    "freq": 2,
+    "tooltip": "SuperiorityDie",
+    "zh": "卓越骰子"
+  },
+  "SuperiorityDie|Superiority Die": {
+    "en": "Superiority Die",
+    "freq": 4,
+    "tooltip": "SuperiorityDie",
+    "zh": "卓越骰子"
+  },
+  "SuperiorityDie|bonus damage": {
+    "en": "bonus damage",
+    "freq": 1,
+    "tooltip": "SuperiorityDie",
+    "zh": "附加伤害"
+  },
+  "Survival|Survival": {
+    "en": "Survival",
+    "freq": 6,
+    "tooltip": "Survival",
+    "zh": "熟练项"
+  },
+  "TAD_BLACK_HOLE_SLOW|Slows": {
+    "en": "Slows",
+    "freq": 1,
+    "tooltip": "TAD_BLACK_HOLE_SLOW",
+    "zh": "缓速"
+  },
+  "TAD_DrainAbility|Ability Drain": {
+    "en": "Ability Drain",
+    "freq": 5,
+    "tooltip": "TAD_DrainAbility",
+    "zh": "吸取属性"
+  },
+  "THREATENED|Threatened": {
+    "en": "Threatened",
+    "freq": 1,
+    "tooltip": "THREATENED",
+    "zh": "威胁"
+  },
+  "TIMMASK_SPORES|Befuddle": {
+    "en": "Befuddle",
+    "freq": 3,
+    "tooltip": "TIMMASK_SPORES",
+    "zh": "昏沉"
+  },
+  "TIMMASK_SPORES|Befuddled": {
+    "en": "Befuddled",
+    "freq": 2,
+    "tooltip": "TIMMASK_SPORES",
+    "zh": "昏沉"
+  },
+  "TREMBLINGFEET_ELEMENTAL_EARTH|Trembling Legs": {
+    "en": "Trembling Legs",
+    "freq": 1,
+    "tooltip": "TREMBLINGFEET_ELEMENTAL_EARTH",
+    "zh": "双腿颤抖"
+  },
+  "TRUE_STRIKE|True Strike": {
+    "en": "True Strike",
+    "freq": 3,
+    "tooltip": "TRUE_STRIKE",
+    "zh": "克敌机先"
+  },
+  "TURNED|Turn": {
+    "en": "Turn",
+    "freq": 3,
+    "tooltip": "TURNED",
+    "zh": "驱散"
+  },
+  "TURNED|Turned": {
+    "en": "Turned",
+    "freq": 4,
+    "tooltip": "TURNED",
+    "zh": "驱散"
+  },
+  "TWN_OOZE_PUTRID_AURA_STATUS|Fetid Fumes": {
+    "en": "Fetid Fumes",
+    "freq": 1,
+    "tooltip": "TWN_OOZE_PUTRID_AURA_STATUS",
+    "zh": "恶臭烟气"
+  },
+  "TWN_TOLLCOLLECTOR_MIDASEXPLOSION_GOLDIFIED|solid gold": {
+    "en": "solid gold",
+    "freq": 1,
+    "tooltip": "TWN_TOLLCOLLECTOR_MIDASEXPLOSION_GOLDIFIED",
+    "zh": "纯金"
+  },
+  "TWN_TOLLHOUSE_GOLDIFIED|gold": {
+    "en": "gold",
+    "freq": 1,
+    "tooltip": "TWN_TOLLHOUSE_GOLDIFIED",
+    "zh": "纯金"
+  },
+  "TWN_VLAAKITHKILLERS_SOULSYPHON_3|Vlaakith's Undying Aspect": {
+    "en": "Vlaakith's Undying Aspect",
+    "freq": 2,
+    "tooltip": "TWN_VLAAKITHKILLERS_SOULSYPHON_3",
+    "zh": "维拉基斯的不朽面容"
+  },
+  "Target_AnimateDead_Skeleton|Animate Dead: Skeleton": {
+    "en": "Animate Dead: Skeleton",
+    "freq": 1,
+    "tooltip": "Target_AnimateDead_Skeleton",
+    "zh": "操纵死尸：骷髅"
+  },
+  "Target_AnimateDead|Animate Dead": {
+    "en": "Animate Dead",
+    "freq": 5,
+    "tooltip": "Target_AnimateDead",
+    "zh": "操纵死尸"
+  },
+  "Target_ArcaneLock|Arcane Lock": {
+    "en": "Arcane Lock",
+    "freq": 1,
+    "tooltip": "Target_ArcaneLock",
+    "zh": "秘法锁"
+  },
+  "Target_AuraOfVitality_Activate|Restore Vitality": {
+    "en": "Restore Vitality",
+    "freq": 3,
+    "tooltip": "Target_AuraOfVitality_Activate",
+    "zh": "恢复活力"
+  },
+  "Target_BanesWrath|Bane's Wrath": {
+    "en": "Bane's Wrath",
+    "freq": 2,
+    "tooltip": "Target_BanesWrath",
+    "zh": "班恩之怒"
+  },
+  "Target_BardicInspiration_Combat|Combat Inspiration": {
+    "en": "Combat Inspiration",
+    "freq": 1,
+    "tooltip": "Target_BardicInspiration_Combat",
+    "zh": "战斗激励"
+  },
+  "Target_BardicInspiration|Bardic Inspiration": {
+    "en": "Bardic Inspiration",
+    "freq": 4,
+    "tooltip": "Target_BardicInspiration",
+    "zh": "诗人激励"
+  },
+  "Target_Barkskin|Barkskin": {
+    "en": "Barkskin",
+    "freq": 1,
+    "tooltip": "Target_Barkskin",
+    "zh": "树肤术"
+  },
+  "Target_BestowCurse|Bestow Curse": {
+    "en": "Bestow Curse",
+    "freq": 1,
+    "tooltip": "Target_BestowCurse",
+    "zh": "邪术师法术位"
+  },
+  "Target_Bite_GiantSpider_Summon|Bite": {
+    "en": "Bite",
+    "freq": 1,
+    "tooltip": "Target_Bite_GiantSpider_Summon",
+    "zh": "啃咬"
+  },
+  "Target_Bite_Rat_Summon|Infectious Bite": {
+    "en": "Infectious Bite",
+    "freq": 2,
+    "tooltip": "Target_Bite_Rat_Summon",
+    "zh": "感染啃咬"
+  },
+  "Target_Bite_TinySpider_Familiar|Bite": {
+    "en": "Bite",
+    "freq": 2,
+    "tooltip": "Target_Bite_TinySpider_Familiar",
+    "zh": "啃咬"
+  },
+  "Target_Bite_Wolf_Dire_Wildshape|Distract": {
+    "en": "Distract",
+    "freq": 1,
+    "tooltip": "Target_Bite_Wolf_Dire_Wildshape",
+    "zh": "分心"
+  },
+  "Target_Bite_Wolf_Summon|Lunging Bite": {
+    "en": "Lunging Bite",
+    "freq": 2,
+    "tooltip": "Target_Bite_Wolf_Summon",
+    "zh": "飞扑啃咬"
+  },
+  "Target_BladeFlourish_Mobile_FollowUp|Teleport": {
+    "en": "Teleport",
+    "freq": 2,
+    "tooltip": "Target_BladeFlourish_Mobile_FollowUp",
+    "zh": "传送"
+  },
+  "Target_BladeFlourish_Mobile|Blade Flourish": {
+    "en": "Blade Flourish",
+    "freq": 1,
+    "tooltip": "Target_BladeFlourish_Mobile",
+    "zh": "利刃华舞"
+  },
+  "Target_BladeFlourish_Mobile|Mobile Flourish": {
+    "en": "Mobile Flourish",
+    "freq": 1,
+    "tooltip": "Target_BladeFlourish_Mobile",
+    "zh": "移动华舞"
+  },
+  "Target_BladeFlourish_Mobile|melee": {
+    "en": "melee",
+    "freq": 1,
+    "tooltip": "Target_BladeFlourish_Mobile",
+    "zh": "近战"
+  },
+  "Target_Blight|Blight": {
+    "en": "Blight",
+    "freq": 2,
+    "tooltip": "Target_Blight",
+    "zh": "枯萎术"
+  },
+  "Target_Bufotoxin_Frog_Summon|Bufotoxin": {
+    "en": "Bufotoxin",
+    "freq": 1,
+    "tooltip": "Target_Bufotoxin_Frog_Summon",
+    "zh": "蟾蜍毒"
+  },
+  "Target_Burrow_GiantBadger|Burrow": {
+    "en": "Burrow",
+    "freq": 1,
+    "tooltip": "Target_Burrow_GiantBadger",
+    "zh": "打洞"
+  },
+  "Target_Burrow_Myrmidon_Earth|Burrow": {
+    "en": "Burrow",
+    "freq": 1,
+    "tooltip": "Target_Burrow_Myrmidon_Earth",
+    "zh": "掘穴"
+  },
+  "Target_CRE_GithyankiInquisitor_VlaakithsMindSword|Mind-Claw of Tu'narath": {
+    "en": "Mind-Claw of Tu'narath",
+    "freq": 2,
+    "tooltip": "Target_CRE_GithyankiInquisitor_VlaakithsMindSword",
+    "zh": "图'纳拉斯心灵之钳"
+  },
+  "Target_CallLightning_LightningBolt_4|Call Lightning": {
+    "en": "Call Lightning",
+    "freq": 1,
+    "tooltip": "Target_CallLightning_LightningBolt_4",
+    "zh": "法术位"
+  },
+  "Target_CallLightning_LightningBolt_5|Call Lightning": {
+    "en": "Call Lightning",
+    "freq": 1,
+    "tooltip": "Target_CallLightning_LightningBolt_5",
+    "zh": "法术位"
+  },
+  "Target_CallLightning_LightningBolt_6|Call Lightning": {
+    "en": "Call Lightning",
+    "freq": 1,
+    "tooltip": "Target_CallLightning_LightningBolt_6",
+    "zh": "法术位"
+  },
+  "Target_CallLightning_LightningBolt|Call Lightning": {
+    "en": "Call Lightning",
+    "freq": 1,
+    "tooltip": "Target_CallLightning_LightningBolt",
+    "zh": "法术位"
+  },
+  "Target_CallLightning|Call Lighting": {
+    "en": "Call Lighting",
+    "freq": 1,
+    "tooltip": "Target_CallLightning",
+    "zh": "召雷术"
+  },
+  "Target_CallLightning|Call Lightning": {
+    "en": "Call Lightning",
+    "freq": 2,
+    "tooltip": "Target_CallLightning",
+    "zh": "召雷术"
+  },
+  "Target_CalmEmotions|Calm Emotions": {
+    "en": "Calm Emotions",
+    "freq": 1,
+    "tooltip": "Target_CalmEmotions",
+    "zh": "安定心神"
+  },
+  "Target_Cloudkill|Cloudkill": {
+    "en": "Cloudkill",
+    "freq": 6,
+    "tooltip": "Target_Cloudkill",
+    "zh": "死云术"
+  },
+  "Target_ConcussiveSmash|Concussive Smash": {
+    "en": "Concussive Smash",
+    "freq": 3,
+    "tooltip": "Target_ConcussiveSmash",
+    "zh": "震荡猛击"
+  },
+  "Target_ConfusionRay_Spectator|Confuse": {
+    "en": "Confuse",
+    "freq": 2,
+    "tooltip": "Target_ConfusionRay_Spectator",
+    "zh": "困惑"
+  },
+  "Target_Confusion|Confusion": {
+    "en": "Confusion",
+    "freq": 1,
+    "tooltip": "Target_Confusion",
+    "zh": "邪术师法术位"
+  },
+  "Target_ConjureElemental_Container|Conjure Elemental": {
+    "en": "Conjure Elemental",
+    "freq": 2,
+    "tooltip": "Target_ConjureElemental_Container",
+    "zh": "召唤元素生物"
+  },
+  "Target_ConjureElementals_Minor_Container|Conjure Minor Elemental": {
+    "en": "Conjure Minor Elemental",
+    "freq": 2,
+    "tooltip": "Target_ConjureElementals_Minor_Container",
+    "zh": "召唤初级元素生物"
+  },
+  "Target_Contagion|Contagion": {
+    "en": "Contagion",
+    "freq": 3,
+    "tooltip": "Target_Contagion",
+    "zh": "疫病术"
+  },
+  "Target_CreateIllusion_DisplacerBeast|Illusory Copy": {
+    "en": "Illusory Copy",
+    "freq": 1,
+    "tooltip": "Target_CreateIllusion_DisplacerBeast",
+    "zh": "幻影复制体"
+  },
+  "Target_CripplingPinch_Crab_Summon|Crippling Pinch": {
+    "en": "Crippling Pinch",
+    "freq": 2,
+    "tooltip": "Target_CripplingPinch_Crab_Summon",
+    "zh": "致残钳击"
+  },
+  "Target_CureWounds_Mass|Mass Cure Wounds": {
+    "en": "Mass Cure Wounds",
+    "freq": 1,
+    "tooltip": "Target_CureWounds_Mass",
+    "zh": "群体疗伤术"
+  },
+  "Target_CursedTome_WakeTheDead|Danse Macabre": {
+    "en": "Danse Macabre",
+    "freq": 2,
+    "tooltip": "Target_CursedTome_WakeTheDead",
+    "zh": "死亡之舞"
+  },
+  "Target_DancingLights|Dancing Lights": {
+    "en": "Dancing Lights",
+    "freq": 2,
+    "tooltip": "Target_DancingLights",
+    "zh": "舞光术"
+  },
+  "Target_Darkness|Darkness": {
+    "en": "Darkness",
+    "freq": 1,
+    "tooltip": "Target_Darkness",
+    "zh": "黑暗术"
+  },
+  "Target_Daylight|Daylight": {
+    "en": "Daylight",
+    "freq": 1,
+    "tooltip": "Target_Daylight",
+    "zh": "昼明术"
+  },
+  "Target_Devour_ShadowMound|Devour": {
+    "en": "Devour",
+    "freq": 1,
+    "tooltip": "Target_Devour_ShadowMound",
+    "zh": "吞噬"
+  },
+  "Target_Devour_ShadowMound|Devoured": {
+    "en": "Devoured",
+    "freq": 2,
+    "tooltip": "Target_Devour_ShadowMound",
+    "zh": "束缚"
+  },
+  "Target_Dig|Dig": {
+    "en": "Dig",
+    "freq": 1,
+    "tooltip": "Target_Dig",
+    "zh": "挖掘"
+  },
+  "Target_DispelEvilAndGood_BreakEnchantment|Break Enchantments": {
+    "en": "Break Enchantments",
+    "freq": 1,
+    "tooltip": "Target_DispelEvilAndGood_BreakEnchantment",
+    "zh": "魅惑"
+  },
+  "Target_DispelEvilAndGood_BreakEnchantment|break": {
+    "en": "break",
+    "freq": 1,
+    "tooltip": "Target_DispelEvilAndGood_BreakEnchantment",
+    "zh": "破坏"
+  },
+  "Target_DominateBeast|Dominate Beast": {
+    "en": "Dominate Beast",
+    "freq": 2,
+    "tooltip": "Target_DominateBeast",
+    "zh": "支配野兽"
+  },
+  "Target_DrainingKiss_Cambion|Draining Kiss": {
+    "en": "Draining Kiss",
+    "freq": 1,
+    "tooltip": "Target_DrainingKiss_Cambion",
+    "zh": "汲命之吻"
+  },
+  "Target_END_AllyAbilities_StunningGaze|Stunning Gaze": {
+    "en": "Stunning Gaze",
+    "freq": 1,
+    "tooltip": "Target_END_AllyAbilities_StunningGaze",
+    "zh": "震慑凝视"
+  },
+  "Target_END_Mindflayer_CrownDomination|Karsus' Compulsion": {
+    "en": "Karsus' Compulsion",
+    "freq": 3,
+    "tooltip": "Target_END_Mindflayer_CrownDomination",
+    "zh": "卡尔萨斯强迫术"
+  },
+  "Target_EnhanceAbility_BearsEndurance|Bear's Endurance": {
+    "en": "Bear's Endurance",
+    "freq": 1,
+    "tooltip": "Target_EnhanceAbility_BearsEndurance",
+    "zh": "熊之坚韧"
+  },
+  "Target_EnhanceAbility_BullsStrength|Bull's Strength": {
+    "en": "Bull's Strength",
+    "freq": 1,
+    "tooltip": "Target_EnhanceAbility_BullsStrength",
+    "zh": "牛之蛮力"
+  },
+  "Target_EnhanceAbility_CatsGrace|Cat's Grace": {
+    "en": "Cat's Grace",
+    "freq": 1,
+    "tooltip": "Target_EnhanceAbility_CatsGrace",
+    "zh": "猫之轻灵"
+  },
+  "Target_EnhanceAbility_EaglesSplendor|Eagle's Splendour": {
+    "en": "Eagle's Splendour",
+    "freq": 1,
+    "tooltip": "Target_EnhanceAbility_EaglesSplendor",
+    "zh": "鹰之光彩"
+  },
+  "Target_EnhanceAbility_FoxsCunning|Fox's Cunning": {
+    "en": "Fox's Cunning",
+    "freq": 1,
+    "tooltip": "Target_EnhanceAbility_FoxsCunning",
+    "zh": "狐之狡黠"
+  },
+  "Target_EnhanceAbility_OwlsWisdom|Owl's Wisdom": {
+    "en": "Owl's Wisdom",
+    "freq": 1,
+    "tooltip": "Target_EnhanceAbility_OwlsWisdom",
+    "zh": "枭之感知"
+  },
+  "Target_EnsnaringStrike|melee": {
+    "en": "melee",
+    "freq": 1,
+    "tooltip": "Target_EnsnaringStrike",
+    "zh": "近战"
+  },
+  "Target_Entangle|Entangle": {
+    "en": "Entangle",
+    "freq": 1,
+    "tooltip": "Target_Entangle",
+    "zh": "纠缠"
+  },
+  "Target_Eyebite|Eyebite": {
+    "en": "Eyebite",
+    "freq": 1,
+    "tooltip": "Target_Eyebite",
+    "zh": "法术位"
+  },
+  "Target_FearRay_Spectator|Frighten": {
+    "en": "Frighten",
+    "freq": 2,
+    "tooltip": "Target_FearRay_Spectator",
+    "zh": "恐慌"
+  },
+  "Target_FeignDeath|Feign Death": {
+    "en": "Feign Death",
+    "freq": 1,
+    "tooltip": "Target_FeignDeath",
+    "zh": "短休"
+  },
+  "Target_FiendishCharm_Cambion|Fiendish Charm": {
+    "en": "Fiendish Charm",
+    "freq": 2,
+    "tooltip": "Target_FiendishCharm_Cambion",
+    "zh": "邪魔魅惑"
+  },
+  "Target_FiendishCharm_Incubus|Incubus Charm": {
+    "en": "Incubus Charm",
+    "freq": 1,
+    "tooltip": "Target_FiendishCharm_Incubus",
+    "zh": "被魅惑"
+  },
+  "Target_FieryStrike_Myrmidon_Fire|Scorching Strike": {
+    "en": "Scorching Strike",
+    "freq": 2,
+    "tooltip": "Target_FieryStrike_Myrmidon_Fire",
+    "zh": "炽热打击"
+  },
+  "Target_FindFamiliar|Find Familiar": {
+    "en": "Find Familiar",
+    "freq": 1,
+    "tooltip": "Target_FindFamiliar",
+    "zh": "法术位"
+  },
+  "Target_FindFamiliar|familiar": {
+    "en": "familiar",
+    "freq": 1,
+    "tooltip": "Target_FindFamiliar",
+    "zh": "魔宠"
+  },
+  "Target_Firebolt|Firebolt": {
+    "en": "Firebolt",
+    "freq": 1,
+    "tooltip": "Target_Firebolt",
+    "zh": "火焰箭"
+  },
+  "Target_Flail_Gnoll_Madness|Flail of Madness": {
+    "en": "Flail of Madness",
+    "freq": 1,
+    "tooltip": "Target_Flail_Gnoll_Madness",
+    "zh": "疯狂链枷"
+  },
+  "Target_Flail_Gnoll_Pain|Flail of Pain": {
+    "en": "Flail of Pain",
+    "freq": 1,
+    "tooltip": "Target_Flail_Gnoll_Pain",
+    "zh": "痛苦链枷"
+  },
+  "Target_Flail_Gnoll_Paralysis|Flail of Paralysis": {
+    "en": "Flail of Paralysis",
+    "freq": 1,
+    "tooltip": "Target_Flail_Gnoll_Paralysis",
+    "zh": "麻痹链枷"
+  },
+  "Target_FleshToStone|Flesh to Stone": {
+    "en": "Flesh to Stone",
+    "freq": 1,
+    "tooltip": "Target_FleshToStone",
+    "zh": "石化术"
+  },
+  "Target_Fly|Flight": {
+    "en": "Flight",
+    "freq": 1,
+    "tooltip": "Target_Fly",
+    "zh": "飞行术"
+  },
+  "Target_ForcedManeuver|Forced Manoeuvre": {
+    "en": "Forced Manoeuvre",
+    "freq": 3,
+    "tooltip": "Target_ForcedManeuver",
+    "zh": "强制策动"
+  },
+  "Target_FreedomOfMovement|Freedom of Movement": {
+    "en": "Freedom of Movement",
+    "freq": 3,
+    "tooltip": "Target_FreedomOfMovement",
+    "zh": "行动自如"
+  },
+  "Target_FreezingStrike_Myrmidon_Water|Hiemal Strike": {
+    "en": "Hiemal Strike",
+    "freq": 2,
+    "tooltip": "Target_FreezingStrike_Myrmidon_Water",
+    "zh": "寒冬打击"
+  },
+  "Target_FrenziedStrike_Boar|Frenzied Strike": {
+    "en": "Frenzied Strike",
+    "freq": 1,
+    "tooltip": "Target_FrenziedStrike_Boar",
+    "zh": "狂怒攻击"
+  },
+  "Target_FrenziedStrike|Frenzied Strike": {
+    "en": "Frenzied Strike",
+    "freq": 1,
+    "tooltip": "Target_FrenziedStrike",
+    "zh": "狂乱打击"
+  },
+  "Target_GOB_WolfPens_HalsinMultiAttack_Bear|Multiattack": {
+    "en": "Multiattack",
+    "freq": 1,
+    "tooltip": "Target_GOB_WolfPens_HalsinMultiAttack_Bear",
+    "zh": "多重攻击"
+  },
+  "Target_GaseousForm|Gaseous Form": {
+    "en": "Gaseous Form",
+    "freq": 1,
+    "tooltip": "Target_GaseousForm",
+    "zh": "气化形体"
+  },
+  "Target_Gaze_Apostle_LegendaryAction|Gaze of the Dead": {
+    "en": "Gaze of the Dead",
+    "freq": 2,
+    "tooltip": "Target_Gaze_Apostle_LegendaryAction",
+    "zh": "死亡凝视"
+  },
+  "Target_GraspingVine|Grasping Vine": {
+    "en": "Grasping Vine",
+    "freq": 2,
+    "tooltip": "Target_GraspingVine",
+    "zh": "贪婪藤蔓"
+  },
+  "Target_GreaterRestoration|Greater Restoration": {
+    "en": "Greater Restoration",
+    "freq": 3,
+    "tooltip": "Target_GreaterRestoration",
+    "zh": "高等复原术"
+  },
+  "Target_Guidance|Guidance": {
+    "en": "Guidance",
+    "freq": 1,
+    "tooltip": "Target_Guidance",
+    "zh": "神导术"
+  },
+  "Target_HaloOfSpores|Halo of Spores": {
+    "en": "Halo of Spores",
+    "freq": 2,
+    "tooltip": "Target_HaloOfSpores",
+    "zh": "环形孢子"
+  },
+  "Target_Haste|Haste": {
+    "en": "Haste",
+    "freq": 3,
+    "tooltip": "Target_Haste",
+    "zh": "加速术"
+  },
+  "Target_Healer_Heal|Seal Wounds": {
+    "en": "Seal Wounds",
+    "freq": 1,
+    "tooltip": "Target_Healer_Heal",
+    "zh": "闭合伤口"
+  },
+  "Target_Help|Help": {
+    "en": "Help",
+    "freq": 4,
+    "tooltip": "Target_Help",
+    "zh": "协助"
+  },
+  "Target_Help|Helped": {
+    "en": "Helped",
+    "freq": 11,
+    "tooltip": "Target_Help",
+    "zh": "协助"
+  },
+  "Target_Help|Helping": {
+    "en": "Helping",
+    "freq": 2,
+    "tooltip": "Target_Help",
+    "zh": "协助"
+  },
+  "Target_Help|Helps": {
+    "en": "Helps",
+    "freq": 1,
+    "tooltip": "Target_Help",
+    "zh": "协助"
+  },
+  "Target_HoldPerson_Monk|Clench of the North Wind": {
+    "en": "Clench of the North Wind",
+    "freq": 1,
+    "tooltip": "Target_HoldPerson_Monk",
+    "zh": "北风之握"
+  },
+  "Target_HoldPerson|Hold Person": {
+    "en": "Hold Person",
+    "freq": 2,
+    "tooltip": "Target_HoldPerson",
+    "zh": "人类定身术"
+  },
+  "Target_HuntersMark|Hunter's Mark": {
+    "en": "Hunter's Mark",
+    "freq": 6,
+    "tooltip": "Target_HuntersMark",
+    "zh": "猎人印记"
+  },
+  "Target_HypnoticGaze_Maintain|Maintain": {
+    "en": "Maintain",
+    "freq": 2,
+    "tooltip": "Target_HypnoticGaze_Maintain",
+    "zh": "维持"
+  },
+  "Target_HypnoticGaze|Hypnotic Gaze": {
+    "en": "Hypnotic Gaze",
+    "freq": 2,
+    "tooltip": "Target_HypnoticGaze",
+    "zh": "催眠凝视"
+  },
+  "Target_HypnoticPattern|Hypnotic Pattern": {
+    "en": "Hypnotic Pattern",
+    "freq": 1,
+    "tooltip": "Target_HypnoticPattern",
+    "zh": "催眠图纹"
+  },
+  "Target_IceStorm|Ice Storm": {
+    "en": "Ice Storm",
+    "freq": 3,
+    "tooltip": "Target_IceStorm",
+    "zh": "冰风暴"
+  },
+  "Target_ImprovedMinorIllusion|Minor Illusion": {
+    "en": "Minor Illusion",
+    "freq": 2,
+    "tooltip": "Target_ImprovedMinorIllusion",
+    "zh": "初级幻影"
+  },
+  "Target_InsectPlague|Insect Plague": {
+    "en": "Insect Plague",
+    "freq": 3,
+    "tooltip": "Target_InsectPlague",
+    "zh": "虫群瘟疫"
+  },
+  "Target_IntimidatingPresence_Maintain|Maintain Intimidating Presence": {
+    "en": "Maintain Intimidating Presence",
+    "freq": 1,
+    "tooltip": "Target_IntimidatingPresence_Maintain",
+    "zh": "维持威慑之姿"
+  },
+  "Target_IntimidatingPresence|Intimidating Presence": {
+    "en": "Intimidating Presence",
+    "freq": 1,
+    "tooltip": "Target_IntimidatingPresence",
+    "zh": "恐惧"
+  },
+  "Target_IntoxicatingStrike|Intoxicating Strike": {
+    "en": "Intoxicating Strike",
+    "freq": 1,
+    "tooltip": "Target_IntoxicatingStrike",
+    "zh": "醉酒打击"
+  },
+  "Target_Invisibility_Greater|Greater Invisibility": {
+    "en": "Greater Invisibility",
+    "freq": 1,
+    "tooltip": "Target_Invisibility_Greater",
+    "zh": "高等隐形术"
+  },
+  "Target_Invisibility|Invisibility": {
+    "en": "Invisibility",
+    "freq": 3,
+    "tooltip": "Target_Invisibility",
+    "zh": "隐形术"
+  },
+  "Target_Invisibility|Invisible": {
+    "en": "Invisible",
+    "freq": 1,
+    "tooltip": "Target_Invisibility",
+    "zh": "隐形"
+  },
+  "Target_Jump_2|Invigorate Leap": {
+    "en": "Invigorate Leap",
+    "freq": 1,
+    "tooltip": "Target_Jump_2",
+    "zh": "活力之跃"
+  },
+  "Target_Jump|Enhance Leap": {
+    "en": "Enhance Leap",
+    "freq": 1,
+    "tooltip": "Target_Jump",
+    "zh": "法术位"
+  },
+  "Target_KiResonation_Blast|Ki Resonation: Blast": {
+    "en": "Ki Resonation: Blast",
+    "freq": 2,
+    "tooltip": "Target_KiResonation_Blast",
+    "zh": "共鸣之气：爆炸"
+  },
+  "Target_Knock|Knock": {
+    "en": "Knock",
+    "freq": 3,
+    "tooltip": "Target_Knock",
+    "zh": "敲击术"
+  },
+  "Target_KnowYourEnemy|examining": {
+    "en": "examining",
+    "freq": 1,
+    "tooltip": "Target_KnowYourEnemy",
+    "zh": "优势"
+  },
+  "Target_LOW_Astarion_VampireAscendant|Ascendant Bite": {
+    "en": "Ascendant Bite",
+    "freq": 1,
+    "tooltip": "Target_LOW_Astarion_VampireAscendant",
+    "zh": "飞升噬咬"
+  },
+  "Target_LOW_DeathbringerAssault_Orin|Deathbringer Assault": {
+    "en": "Deathbringer Assault",
+    "freq": 2,
+    "tooltip": "Target_LOW_DeathbringerAssault_Orin",
+    "zh": "死亡使者袭击"
+  },
+  "Target_LOW_DeathbringerAssault_Orin|Deathbringer's Assault": {
+    "en": "Deathbringer's Assault",
+    "freq": 3,
+    "tooltip": "Target_LOW_DeathbringerAssault_Orin",
+    "zh": "死亡使者的袭击"
+  },
+  "Target_LOW_DeathbringerAssault_Sarevok|Deathbringer Assault": {
+    "en": "Deathbringer Assault",
+    "freq": 4,
+    "tooltip": "Target_LOW_DeathbringerAssault_Sarevok",
+    "zh": "死亡使者的袭击"
+  },
+  "Target_LOW_DeathbringerAssault_Sarevok|Deathbringer's Assault": {
+    "en": "Deathbringer's Assault",
+    "freq": 3,
+    "tooltip": "Target_LOW_DeathbringerAssault_Sarevok",
+    "zh": "死亡使者的袭击"
+  },
+  "Target_LOW_GithyankiPaladin_VlaakithsCry|Tu'narath's Embrace": {
+    "en": "Tu'narath's Embrace",
+    "freq": 2,
+    "tooltip": "Target_LOW_GithyankiPaladin_VlaakithsCry",
+    "zh": "图'纳拉斯之拥"
+  },
+  "Target_LOW_OpenGate|Astral Rift": {
+    "en": "Astral Rift",
+    "freq": 2,
+    "tooltip": "Target_LOW_OpenGate",
+    "zh": "星界裂缝"
+  },
+  "Target_LOW_OskarsBeloved_Possession|Possessing": {
+    "en": "Possessing",
+    "freq": 1,
+    "tooltip": "Target_LOW_OskarsBeloved_Possession",
+    "zh": "附身"
+  },
+  "Target_LOW_RamazithsTower_Dummy|Elemental Retort": {
+    "en": "Elemental Retort",
+    "freq": 6,
+    "tooltip": "Target_LOW_RamazithsTower_Dummy",
+    "zh": "元素叱喝"
+  },
+  "Target_LOW_RamazithsTower_Nightsong_Flame_Deva|Selûne's Ire": {
+    "en": "Selûne's Ire",
+    "freq": 1,
+    "tooltip": "Target_LOW_RamazithsTower_Nightsong_Flame_Deva",
+    "zh": "塞伦涅之怒"
+  },
+  "Target_LOW_Raphael_BeguilingRebuke|Beguile": {
+    "en": "Beguile",
+    "freq": 3,
+    "tooltip": "Target_LOW_Raphael_BeguilingRebuke",
+    "zh": "诱骗"
+  },
+  "Target_LOW_Raphael_CascadeOfSouls|Soul Ascension": {
+    "en": "Soul Ascension",
+    "freq": 4,
+    "tooltip": "Target_LOW_Raphael_CascadeOfSouls",
+    "zh": "灵魂飞升"
+  },
+  "Target_LOW_Raphael_Multiattack|Multiattack": {
+    "en": "Multiattack",
+    "freq": 1,
+    "tooltip": "Target_LOW_Raphael_Multiattack",
+    "zh": "进化邪魔"
+  },
+  "Target_LOW_Raphael_RepelDivinity_SoulDrain|Drain": {
+    "en": "Drain",
+    "freq": 2,
+    "tooltip": "Target_LOW_Raphael_RepelDivinity_SoulDrain",
+    "zh": "吸取"
+  },
+  "Target_LOW_Raphael_RepelDivinity_SoulDrain|Soul Drain": {
+    "en": "Soul Drain",
+    "freq": 1,
+    "tooltip": "Target_LOW_Raphael_RepelDivinity_SoulDrain",
+    "zh": "吸取灵魂"
+  },
+  "Target_LOW_Raphael_RestoreSoul|Restore Soul": {
+    "en": "Restore Soul",
+    "freq": 1,
+    "tooltip": "Target_LOW_Raphael_RestoreSoul",
+    "zh": "恢复灵魂"
+  },
+  "Target_LOW_Viconia_DarkSentinel|Sanctuary of Loss": {
+    "en": "Sanctuary of Loss",
+    "freq": 1,
+    "tooltip": "Target_LOW_Viconia_DarkSentinel",
+    "zh": "失落庇护"
+  },
+  "Target_LOW_Viconia_HeartWrench|Heartwrench": {
+    "en": "Heartwrench",
+    "freq": 4,
+    "tooltip": "Target_LOW_Viconia_HeartWrench",
+    "zh": "心灵扭曲"
+  },
+  "Target_LesserRestoration|Lesser Restoration": {
+    "en": "Lesser Restoration",
+    "freq": 1,
+    "tooltip": "Target_LesserRestoration",
+    "zh": "次级复原术"
+  },
+  "Target_LesserRestoration|Restored": {
+    "en": "Restored",
+    "freq": 1,
+    "tooltip": "Target_LesserRestoration",
+    "zh": "恢复"
+  },
+  "Target_Levitate|Levitate": {
+    "en": "Levitate",
+    "freq": 1,
+    "tooltip": "Target_Levitate",
+    "zh": "浮空术"
+  },
+  "Target_LightningStrike_Myrmidon_Air|Electrified Flail": {
+    "en": "Electrified Flail",
+    "freq": 2,
+    "tooltip": "Target_LightningStrike_Myrmidon_Air",
+    "zh": "电气猛击"
+  },
+  "Target_MAG_Legendary_Chromatic_HungerOfHadar|Hunger of Hadar": {
+    "en": "Hunger of Hadar",
+    "freq": 2,
+    "tooltip": "Target_MAG_Legendary_Chromatic_HungerOfHadar",
+    "zh": "哈达之饥渴"
+  },
+  "Target_MF_Imperil_Recast|Shatter Psyche": {
+    "en": "Shatter Psyche",
+    "freq": 1,
+    "tooltip": "Target_MF_Imperil_Recast",
+    "zh": "灵魂破碎"
+  },
+  "Target_MOO_BloodPotion_IceStorm|Ice Storm": {
+    "en": "Ice Storm",
+    "freq": 2,
+    "tooltip": "Target_MOO_BloodPotion_IceStorm",
+    "zh": "长休"
+  },
+  "Target_MageArmor|Mage Armour": {
+    "en": "Mage Armour",
+    "freq": 1,
+    "tooltip": "Target_MageArmor",
+    "zh": "魔法护甲"
+  },
+  "Target_MageHand|Mage Hand": {
+    "en": "Mage Hand",
+    "freq": 1,
+    "tooltip": "Target_MageHand",
+    "zh": "法师之手"
+  },
+  "Target_MainHandAttack_GuardianOfFaith|attacks": {
+    "en": "attacks",
+    "freq": 1,
+    "tooltip": "Target_MainHandAttack_GuardianOfFaith",
+    "zh": "攻击"
+  },
+  "Target_MistyEscape_ShadarKai_GloomWeaver|Shadowslip": {
+    "en": "Shadowslip",
+    "freq": 1,
+    "tooltip": "Target_MistyEscape_ShadarKai_GloomWeaver",
+    "zh": "阴影潜行"
+  },
+  "Target_MistyStep|Misty Step": {
+    "en": "Misty Step",
+    "freq": 7,
+    "tooltip": "Target_MistyStep",
+    "zh": "迷踪步"
+  },
+  "Target_Misty_Step|Misty Step": {
+    "en": "Misty Step",
+    "freq": 1,
+    "tooltip": "Target_Misty_Step",
+    "zh": "隐形"
+  },
+  "Target_Multiattack_Automaton|Multiattack": {
+    "en": "Multiattack",
+    "freq": 1,
+    "tooltip": "Target_Multiattack_Automaton",
+    "zh": "静电放射灵光"
+  },
+  "Target_Multiattack_Cloaker|Multiattack": {
+    "en": "Multiattack",
+    "freq": 1,
+    "tooltip": "Target_Multiattack_Cloaker",
+    "zh": "恐慌"
+  },
+  "Target_Multiattack_Doppelganger|Multiattack": {
+    "en": "Multiattack",
+    "freq": 1,
+    "tooltip": "Target_Multiattack_Doppelganger",
+    "zh": "伏击"
+  },
+  "Target_Multiattack_Drider|Multiattack": {
+    "en": "Multiattack",
+    "freq": 1,
+    "tooltip": "Target_Multiattack_Drider",
+    "zh": "生命值"
+  },
+  "Target_Multiattack_Ettercap|Multiattack": {
+    "en": "Multiattack",
+    "freq": 1,
+    "tooltip": "Target_Multiattack_Ettercap",
+    "zh": "网缚"
+  },
+  "Target_Multiattack_FleshGolem|Multiattacks": {
+    "en": "Multiattacks",
+    "freq": 1,
+    "tooltip": "Target_Multiattack_FleshGolem",
+    "zh": "多重攻击"
+  },
+  "Target_Multiattack_GiantEagle|Multiattack": {
+    "en": "Multiattack",
+    "freq": 1,
+    "tooltip": "Target_Multiattack_GiantEagle",
+    "zh": "倒伏"
+  },
+  "Target_Multiattack_Harpy|Multiattack": {
+    "en": "Multiattack",
+    "freq": 1,
+    "tooltip": "Target_Multiattack_Harpy",
+    "zh": "受惑"
+  },
+  "Target_Multiattack_HookHorror|Multiattack": {
+    "en": "Multiattack",
+    "freq": 1,
+    "tooltip": "Target_Multiattack_HookHorror",
+    "zh": "多重攻击"
+  },
+  "Target_Multiattack_Mummy|Multiattack": {
+    "en": "Multiattack",
+    "freq": 1,
+    "tooltip": "Target_Multiattack_Mummy",
+    "zh": "恐慌"
+  },
+  "Target_Multiattack_Myconid|Multiattack": {
+    "en": "Multiattack",
+    "freq": 1,
+    "tooltip": "Target_Multiattack_Myconid",
+    "zh": "昏沉"
+  },
+  "Target_Multiattack_Owlbear|Multiattack": {
+    "en": "Multiattack",
+    "freq": 1,
+    "tooltip": "Target_Multiattack_Owlbear",
+    "zh": "枭熊之怒"
+  },
+  "Target_Multiattack_Redcap|Multiattack": {
+    "en": "Multiattack",
+    "freq": 1,
+    "tooltip": "Target_Multiattack_Redcap",
+    "zh": "嗜血"
+  },
+  "Target_Multiattack_Surgeon|Multiattack": {
+    "en": "Multiattack",
+    "freq": 1,
+    "tooltip": "Target_Multiattack_Surgeon",
+    "zh": "生命值"
+  },
+  "Target_Multiattack_Werewolf|Multiattack": {
+    "en": "Multiattack",
+    "freq": 1,
+    "tooltip": "Target_Multiattack_Werewolf",
+    "zh": "倒伏"
+  },
+  "Target_Panache|Panache": {
+    "en": "Panache",
+    "freq": 1,
+    "tooltip": "Target_Panache",
+    "zh": "劣势"
+  },
+  "Target_ParalyzingRay_Spectator|Paralyse": {
+    "en": "Paralyse",
+    "freq": 2,
+    "tooltip": "Target_ParalyzingRay_Spectator",
+    "zh": "麻痹"
+  },
+  "Target_PlantGrowth|Plant Growth": {
+    "en": "Plant Growth",
+    "freq": 1,
+    "tooltip": "Target_PlantGrowth",
+    "zh": "植物滋长"
+  },
+  "Target_Polymorph_Shapechanger|Polymorph": {
+    "en": "Polymorph",
+    "freq": 1,
+    "tooltip": "Target_Polymorph_Shapechanger",
+    "zh": "变形术"
+  },
+  "Target_Polymorph|Polymorph": {
+    "en": "Polymorph",
+    "freq": 1,
+    "tooltip": "Target_Polymorph",
+    "zh": "邪术师法术位"
+  },
+  "Target_ProtectionFromEnergy|Protection from Energy": {
+    "en": "Protection from Energy",
+    "freq": 1,
+    "tooltip": "Target_ProtectionFromEnergy",
+    "zh": "防护能量伤害"
+  },
+  "Target_ProtectionFromEvilAndGood|Protection from Evil and Good": {
+    "en": "Protection from Evil and Good",
+    "freq": 1,
+    "tooltip": "Target_ProtectionFromEvilAndGood",
+    "zh": "防护善恶"
+  },
+  "Target_PsionicRebuke_Netherbrain|Brainquakes": {
+    "en": "Brainquakes",
+    "freq": 1,
+    "tooltip": "Target_PsionicRebuke_Netherbrain",
+    "zh": "脑震"
+  },
+  "Target_RagingVortex_Myrmidon_Air|Raging Vortex": {
+    "en": "Raging Vortex",
+    "freq": 2,
+    "tooltip": "Target_RagingVortex_Myrmidon_Air",
+    "zh": "狂暴漩涡"
+  },
+  "Target_RemoveCurse|Remove Curse": {
+    "en": "Remove Curse",
+    "freq": 1,
+    "tooltip": "Target_RemoveCurse",
+    "zh": "移除诅咒"
+  },
+  "Target_RendVision_RavenFamiliar_Summon|Blind": {
+    "en": "Blind",
+    "freq": 3,
+    "tooltip": "Target_RendVision_RavenFamiliar_Summon",
+    "zh": "目盲"
+  },
+  "Target_RendVision_Raven_Summon|Blind": {
+    "en": "Blind",
+    "freq": 3,
+    "tooltip": "Target_RendVision_Raven_Summon",
+    "zh": "目盲"
+  },
+  "Target_RipandShred_SaberTooth_Tiger|Shred Armour": {
+    "en": "Shred Armour",
+    "freq": 1,
+    "tooltip": "Target_RipandShred_SaberTooth_Tiger",
+    "zh": "破甲撕裂"
+  },
+  "Target_SCL_Drider_PsionicVengeance|Retaliate": {
+    "en": "Retaliate",
+    "freq": 1,
+    "tooltip": "Target_SCL_Drider_PsionicVengeance",
+    "zh": "反击"
+  },
+  "Target_SHA_Justiciar_UntenableSecret_Ally|Share Untenable Secret": {
+    "en": "Share Untenable Secret",
+    "freq": 2,
+    "tooltip": "Target_SHA_Justiciar_UntenableSecret_Ally",
+    "zh": "分享难守秘密"
+  },
+  "Target_SHA_Justiciar_UntenableSecret|Untenable Secret": {
+    "en": "Untenable Secret",
+    "freq": 2,
+    "tooltip": "Target_SHA_Justiciar_UntenableSecret",
+    "zh": "难守秘密"
+  },
+  "Target_SHA_Orthon_BlindingPursuit_Ranged|Blinding Ambush": {
+    "en": "Blinding Ambush",
+    "freq": 2,
+    "tooltip": "Target_SHA_Orthon_BlindingPursuit_Ranged",
+    "zh": "致盲伏击"
+  },
+  "Target_SacredFlame|Sacred Flame": {
+    "en": "Sacred Flame",
+    "freq": 1,
+    "tooltip": "Target_SacredFlame",
+    "zh": "圣火术"
+  },
+  "Target_Scare_Quasit_Summon|Scare": {
+    "en": "Scare",
+    "freq": 1,
+    "tooltip": "Target_Scare_Quasit_Summon",
+    "zh": "恐吓"
+  },
+  "Target_ScorchingRay_Monk|Embrace of the Inferno": {
+    "en": "Embrace of the Inferno",
+    "freq": 1,
+    "tooltip": "Target_ScorchingRay_Monk",
+    "zh": "地狱之拥"
+  },
+  "Target_Shatter|Shatter": {
+    "en": "Shatter",
+    "freq": 2,
+    "tooltip": "Target_Shatter",
+    "zh": "粉碎音波"
+  },
+  "Target_ShieldShove|Shove": {
+    "en": "Shove",
+    "freq": 3,
+    "tooltip": "Target_ShieldShove",
+    "zh": "推击"
+  },
+  "Target_ShockingGrasp|Shocking Grasp": {
+    "en": "Shocking Grasp",
+    "freq": 2,
+    "tooltip": "Target_ShockingGrasp",
+    "zh": "电爪"
+  },
+  "Target_Shove|Shove": {
+    "en": "Shove",
+    "freq": 1,
+    "tooltip": "Target_Shove",
+    "zh": "推击"
+  },
+  "Target_Shove|Shoved": {
+    "en": "Shoved",
+    "freq": 1,
+    "tooltip": "Target_Shove",
+    "zh": "推击"
+  },
+  "Target_Shove|Shoving": {
+    "en": "Shoving",
+    "freq": 1,
+    "tooltip": "Target_Shove",
+    "zh": "推击"
+  },
+  "Target_Silence|Silence": {
+    "en": "Silence",
+    "freq": 2,
+    "tooltip": "Target_Silence",
+    "zh": "沉默术"
+  },
+  "Target_Slam_Elemental_Earth|Soil-Clogged Slam": {
+    "en": "Soil-Clogged Slam",
+    "freq": 1,
+    "tooltip": "Target_Slam_Elemental_Earth",
+    "zh": "泥泞猛击"
+  },
+  "Target_Slam_Elemental_Water|Slam": {
+    "en": "Slam",
+    "freq": 1,
+    "tooltip": "Target_Slam_Elemental_Water",
+    "zh": "猛击"
+  },
+  "Target_SleetStorm|Sleet Storm": {
+    "en": "Sleet Storm",
+    "freq": 2,
+    "tooltip": "Target_SleetStorm",
+    "zh": "雪雨暴"
+  },
+  "Target_Slow|Slow": {
+    "en": "Slow",
+    "freq": 1,
+    "tooltip": "Target_Slow",
+    "zh": "邪术师法术位"
+  },
+  "Target_Smite_Divine|Divine Smite": {
+    "en": "Divine Smite",
+    "freq": 1,
+    "tooltip": "Target_Smite_Divine",
+    "zh": "重击"
+  },
+  "Target_Smite_Divine|Smite": {
+    "en": "Smite",
+    "freq": 1,
+    "tooltip": "Target_Smite_Divine",
+    "zh": "至圣斩"
+  },
+  "Target_SmolderingTouch_Elemental_Fire|Smouldering Touch": {
+    "en": "Smouldering Touch",
+    "freq": 1,
+    "tooltip": "Target_SmolderingTouch_Elemental_Fire",
+    "zh": "阴燃之触"
+  },
+  "Target_SneakAttack|Sneak Attack": {
+    "en": "Sneak Attack",
+    "freq": 9,
+    "tooltip": "Target_SneakAttack",
+    "zh": "偷袭"
+  },
+  "Target_Sneak_Attack|Sneak Attack": {
+    "en": "Sneak Attack",
+    "freq": 1,
+    "tooltip": "Target_Sneak_Attack",
+    "zh": "偷袭"
+  },
+  "Target_SpeakWithDead|Speak with Dead": {
+    "en": "Speak with Dead",
+    "freq": 2,
+    "tooltip": "Target_SpeakWithDead",
+    "zh": "法术位"
+  },
+  "Target_SpikeGrowth|Spike Growth": {
+    "en": "Spike Growth",
+    "freq": 2,
+    "tooltip": "Target_SpikeGrowth",
+    "zh": "荆棘丛生"
+  },
+  "Target_SpreadingSpores|Spreading Spores": {
+    "en": "Spreading Spores",
+    "freq": 1,
+    "tooltip": "Target_SpreadingSpores",
+    "zh": "传播孢子"
+  },
+  "Target_StarryForm_Chalice_Heal|Chalice Healing": {
+    "en": "Chalice Healing",
+    "freq": 3,
+    "tooltip": "Target_StarryForm_Chalice_Heal",
+    "zh": "圣杯疗愈"
+  },
+  "Target_SteelWatcher_Greatsword_Quadruped_Multiattack|Multiattack": {
+    "en": "Multiattack",
+    "freq": 1,
+    "tooltip": "Target_SteelWatcher_Greatsword_Quadruped_Multiattack",
+    "zh": "倒伏"
+  },
+  "Target_Sting_Imp_Summon|Sting": {
+    "en": "Sting",
+    "freq": 1,
+    "tooltip": "Target_Sting_Imp_Summon",
+    "zh": "钉刺"
+  },
+  "Target_StinkingCloud|Stinking Cloud": {
+    "en": "Stinking Cloud",
+    "freq": 2,
+    "tooltip": "Target_StinkingCloud",
+    "zh": "臭云术"
+  },
+  "Target_Stoneskin|Stoneskin": {
+    "en": "Stoneskin",
+    "freq": 1,
+    "tooltip": "Target_Stoneskin",
+    "zh": "石肤术"
+  },
+  "Target_Summon_WoodWoad_Dryad|Summon": {
+    "en": "Summon",
+    "freq": 1,
+    "tooltip": "Target_Summon_WoodWoad_Dryad",
+    "zh": "召唤"
+  },
+  "Target_SurgeryAttack_Bonesaw_Surgeon|Bloody Bonesaw": {
+    "en": "Bloody Bonesaw",
+    "freq": 1,
+    "tooltip": "Target_SurgeryAttack_Bonesaw_Surgeon",
+    "zh": "血腥骨锯"
+  },
+  "Target_SurgeryAttack_Bonesaw_Surgeon|Bonesaw": {
+    "en": "Bonesaw",
+    "freq": 1,
+    "tooltip": "Target_SurgeryAttack_Bonesaw_Surgeon",
+    "zh": "骨锯术"
+  },
+  "Target_SurgeryAttack_Leech_Surgeon|Leech": {
+    "en": "Leech",
+    "freq": 2,
+    "tooltip": "Target_SurgeryAttack_Leech_Surgeon",
+    "zh": "吸血术"
+  },
+  "Target_SurgeryAttack_Syringe_Surgeon|Inject": {
+    "en": "Inject",
+    "freq": 1,
+    "tooltip": "Target_SurgeryAttack_Syringe_Surgeon",
+    "zh": "注射术"
+  },
+  "Target_SurgeryAttack_Syringe_Surgeon|This Won't Hurt A Bit": {
+    "en": "This Won't Hurt A Bit",
+    "freq": 1,
+    "tooltip": "Target_SurgeryAttack_Syringe_Surgeon",
+    "zh": "一点都不疼"
+  },
+  "Target_SurgeryAttack_Trepan_Surgeon|Terror Trepan": {
+    "en": "Terror Trepan",
+    "freq": 1,
+    "tooltip": "Target_SurgeryAttack_Trepan_Surgeon",
+    "zh": "恐怖环钻"
+  },
+  "Target_SurgeryAttack_Trepan_Surgeon|Trepan": {
+    "en": "Trepan",
+    "freq": 1,
+    "tooltip": "Target_SurgeryAttack_Trepan_Surgeon",
+    "zh": "环锯术"
+  },
+  "Target_TAD_AbsorbIntellect|Absorb Intellect": {
+    "en": "Absorb Intellect",
+    "freq": 1,
+    "tooltip": "Target_TAD_AbsorbIntellect",
+    "zh": "吞噬智力"
+  },
+  "Target_TAD_Imperil_Recast|Shatter Psyche": {
+    "en": "Shatter Psyche",
+    "freq": 1,
+    "tooltip": "Target_TAD_Imperil_Recast",
+    "zh": "灵魂破碎"
+  },
+  "Target_TWN_GrapplingArm_Surgeon|Grasp": {
+    "en": "Grasp",
+    "freq": 1,
+    "tooltip": "Target_TWN_GrapplingArm_Surgeon",
+    "zh": "抓住"
+  },
+  "Target_TWN_GrapplingArm_Surgeon|Grasping Appendage": {
+    "en": "Grasping Appendage",
+    "freq": 1,
+    "tooltip": "Target_TWN_GrapplingArm_Surgeon",
+    "zh": "附体之握"
+  },
+  "Target_TWN_SoulSyphon_VlaakithKillers|Sacrifice": {
+    "en": "Sacrifice",
+    "freq": 2,
+    "tooltip": "Target_TWN_SoulSyphon_VlaakithKillers",
+    "zh": "献祭"
+  },
+  "Target_Tentacle_DisplacerBeast|attack": {
+    "en": "attack",
+    "freq": 1,
+    "tooltip": "Target_Tentacle_DisplacerBeast",
+    "zh": "攻击"
+  },
+  "Target_ThornWhip|Thorn Whip": {
+    "en": "Thorn Whip",
+    "freq": 1,
+    "tooltip": "Target_ThornWhip",
+    "zh": "荆棘之鞭"
+  },
+  "Target_TransmutersStone|Transmuter's Stones": {
+    "en": "Transmuter's Stones",
+    "freq": 1,
+    "tooltip": "Target_TransmutersStone",
+    "zh": "变形术士之石"
+  },
+  "Target_TrueStrike|True Strike": {
+    "en": "True Strike",
+    "freq": 1,
+    "tooltip": "Target_TrueStrike",
+    "zh": "克敌机先"
+  },
+  "Target_UND_Multiattack_Myconid_Glut|Multiattack": {
+    "en": "Multiattack",
+    "freq": 1,
+    "tooltip": "Target_UND_Multiattack_Myconid_Glut",
+    "zh": "倒伏"
+  },
+  "Target_UnarmedStrike_Monk|Unarmed Strike": {
+    "en": "Unarmed Strike",
+    "freq": 3,
+    "tooltip": "Target_UnarmedStrike_Monk",
+    "zh": "徒手打击"
+  },
+  "Target_VampiricTouch_Free|Vampiric Touch": {
+    "en": "Vampiric Touch",
+    "freq": 1,
+    "tooltip": "Target_VampiricTouch_Free",
+    "zh": "吸血鬼之触"
+  },
+  "Target_VampiricTouch|Vampiric Touch": {
+    "en": "Vampiric Touch",
+    "freq": 1,
+    "tooltip": "Target_VampiricTouch",
+    "zh": "吸血鬼之触"
+  },
+  "Target_ViciousMockery|Vicious Mockery": {
+    "en": "Vicious Mockery",
+    "freq": 1,
+    "tooltip": "Target_ViciousMockery",
+    "zh": "恶毒嘲笑"
+  },
+  "Target_WYR_DivineBeckoning_Gortash|Brand": {
+    "en": "Brand",
+    "freq": 2,
+    "tooltip": "Target_WYR_DivineBeckoning_Gortash",
+    "zh": "烙印"
+  },
+  "Target_WYR_MultiAttack_MudElemental|Multiattack": {
+    "en": "Multiattack",
+    "freq": 1,
+    "tooltip": "Target_WYR_MultiAttack_MudElemental",
+    "zh": "泥泞"
+  },
+  "Target_WardingBond|Warding Bond": {
+    "en": "Warding Bond",
+    "freq": 2,
+    "tooltip": "Target_WardingBond",
+    "zh": "守护之链"
+  },
+  "Target_Web_Spider_Summon|Webs": {
+    "en": "Webs",
+    "freq": 2,
+    "tooltip": "Target_Web_Spider_Summon",
+    "zh": "蛛网"
+  },
+  "Target_Web_Spider|Enweb": {
+    "en": "Enweb",
+    "freq": 1,
+    "tooltip": "Target_Web_Spider",
+    "zh": "网缚"
+  },
+  "Target_Web|Web": {
+    "en": "Web",
+    "freq": 1,
+    "tooltip": "Target_Web",
+    "zh": "蛛网术"
+  },
+  "Target_Whirlwind_Djinni|Sweetplum Gales": {
+    "en": "Sweetplum Gales",
+    "freq": 1,
+    "tooltip": "Target_Whirlwind_Djinni",
+    "zh": "甜莓狂风"
+  },
+  "Target_WildMagicBarbarian_ExplodingFlumph|Intangible Spirit": {
+    "en": "Intangible Spirit",
+    "freq": 1,
+    "tooltip": "Target_WildMagicBarbarian_ExplodingFlumph",
+    "zh": "无形精魂"
+  },
+  "Target_WildMagicBarbarian_Teleport|Teleport": {
+    "en": "Teleport",
+    "freq": 2,
+    "tooltip": "Target_WildMagicBarbarian_Teleport",
+    "zh": "传送"
+  },
+  "Target_WoundingRay_Spectator|Wound": {
+    "en": "Wound",
+    "freq": 2,
+    "tooltip": "Target_WoundingRay_Spectator",
+    "zh": "受伤"
+  },
+  "Target_Wrathful_Smite_Deva|Wrathful Smite": {
+    "en": "Wrathful Smite",
+    "freq": 3,
+    "tooltip": "Target_Wrathful_Smite_Deva",
+    "zh": "激愤斩"
+  },
+  "Teleportation_Dimension_Door|Dimension Door": {
+    "en": "Dimension Door",
+    "freq": 1,
+    "tooltip": "Teleportation_Dimension_Door",
+    "zh": "任意门"
+  },
+  "Teleportation_Displacement_DisplacerBeast|Displace": {
+    "en": "Displace",
+    "freq": 1,
+    "tooltip": "Teleportation_Displacement_DisplacerBeast",
+    "zh": "移位"
+  },
+  "Teleportation_Revivify|Revive": {
+    "en": "Revive",
+    "freq": 1,
+    "tooltip": "Teleportation_Revivify",
+    "zh": "复活"
+  },
+  "Teleportation_Revivify|Revivify": {
+    "en": "Revivify",
+    "freq": 5,
+    "tooltip": "Teleportation_Revivify",
+    "zh": "回生术"
+  },
+  "TemporaryHitPoints|temporary hit point": {
+    "en": "temporary hit point",
+    "freq": 3,
+    "tooltip": "TemporaryHitPoints",
+    "zh": "临时生命值"
+  },
+  "TemporaryHitPoints|temporary hit point(s)": {
+    "en": "temporary hit point(s)",
+    "freq": 1,
+    "tooltip": "TemporaryHitPoints",
+    "zh": "激励斩"
+  },
+  "TemporaryHitPoints|temporary hit points": {
+    "en": "temporary hit points",
+    "freq": 40,
+    "tooltip": "TemporaryHitPoints",
+    "zh": "临时生命值"
+  },
+  "Terms of Service": {
+    "en": "Terms of Service",
+    "freq": 1,
+    "tooltip": null,
+    "zh": "服务条款"
+  },
+  "Terms of Use": {
+    "en": "Terms of Use",
+    "freq": 1,
+    "tooltip": null,
+    "zh": "使用条款"
+  },
+  "Throw_FrenziedThrow|Enraged Throw": {
+    "en": "Enraged Throw",
+    "freq": 1,
+    "tooltip": "Throw_FrenziedThrow",
+    "zh": "愤怒投掷"
+  },
+  "Throw_ImprovisedWeaponBerserker|Improvised Weapon Attack": {
+    "en": "Improvised Weapon Attack",
+    "freq": 1,
+    "tooltip": "Throw_ImprovisedWeaponBerserker",
+    "zh": "临时武器攻击"
+  },
+  "Throw_ImprovisedWeapon|Improvised Weapon": {
+    "en": "Improvised Weapon",
+    "freq": 1,
+    "tooltip": "Throw_ImprovisedWeapon",
+    "zh": "临时武器"
+  },
+  "Throw_Telekinesis|Telekinesis": {
+    "en": "Telekinesis",
+    "freq": 1,
+    "tooltip": "Throw_Telekinesis",
+    "zh": "心灵遥控"
+  },
+  "Throw_Throw|Thrown": {
+    "en": "Thrown",
+    "freq": 4,
+    "tooltip": "Throw_Throw",
+    "zh": "投掷"
+  },
+  "Throw_Throw|throwing": {
+    "en": "throwing",
+    "freq": 1,
+    "tooltip": "Throw_Throw",
+    "zh": "投掷攻击"
+  },
+  "Thrown|Thrown": {
+    "en": "Thrown",
+    "freq": 13,
+    "tooltip": "Thrown",
+    "zh": "投掷"
+  },
+  "Thrown|Thrown Weapons": {
+    "en": "Thrown Weapons",
+    "freq": 2,
+    "tooltip": "Thrown",
+    "zh": "投掷武器"
+  },
+  "TwoHanded|Two-Handed": {
+    "en": "Two-Handed",
+    "freq": 3,
+    "tooltip": "TwoHanded",
+    "zh": "双手"
+  },
+  "TwoHanded|two-handed": {
+    "en": "two-handed",
+    "freq": 1,
+    "tooltip": "TwoHanded",
+    "zh": "双手"
+  },
+  "TwoHanded|two-handed weapon": {
+    "en": "two-handed weapon",
+    "freq": 1,
+    "tooltip": "TwoHanded",
+    "zh": "双手武器"
+  },
+  "UNCONSCIOUS|Unconscious": {
+    "en": "Unconscious",
+    "freq": 2,
+    "tooltip": "UNCONSCIOUS",
+    "zh": "昏迷"
+  },
+  "UNSTOPPABLE|Unstoppable": {
+    "en": "Unstoppable",
+    "freq": 1,
+    "tooltip": "UNSTOPPABLE",
+    "zh": "不可撼动"
+  },
+  "VULNERABLE|vulnerable": {
+    "en": "vulnerable",
+    "freq": 1,
+    "tooltip": "VULNERABLE",
+    "zh": "易伤"
+  },
+  "Versatile|Versatile": {
+    "en": "Versatile",
+    "freq": 1,
+    "tooltip": "Versatile",
+    "zh": "两用"
+  },
+  "Versatile|Versatile Weapon": {
+    "en": "Versatile Weapon",
+    "freq": 1,
+    "tooltip": "Versatile",
+    "zh": "两用"
+  },
+  "Vulnerable|Vulnerabilities": {
+    "en": "Vulnerabilities",
+    "freq": 2,
+    "tooltip": "Vulnerable",
+    "zh": "易伤"
+  },
+  "Vulnerable|Vulnerability": {
+    "en": "Vulnerability",
+    "freq": 4,
+    "tooltip": "Vulnerable",
+    "zh": "易伤"
+  },
+  "Vulnerable|Vulnerable": {
+    "en": "Vulnerable",
+    "freq": 44,
+    "tooltip": "Vulnerable",
+    "zh": "易伤"
+  },
+  "Vulnerable|vulnerable": {
+    "en": "vulnerable",
+    "freq": 2,
+    "tooltip": "Vulnerable",
+    "zh": "易伤"
+  },
+  "WATER_LAYER_PROTECTION|Water Layer Protection": {
+    "en": "Water Layer Protection",
+    "freq": 1,
+    "tooltip": "WATER_LAYER_PROTECTION",
+    "zh": "水层防护"
+  },
+  "WEAPON_BOND|Binds": {
+    "en": "Binds",
+    "freq": 1,
+    "tooltip": "WEAPON_BOND",
+    "zh": "誓缚"
+  },
+  "WEAPON_BOND|Bound": {
+    "en": "Bound",
+    "freq": 4,
+    "tooltip": "WEAPON_BOND",
+    "zh": "誓缚"
+  },
+  "WEB|Enwebbed": {
+    "en": "Enwebbed",
+    "freq": 2,
+    "tooltip": "WEB",
+    "zh": "网缚"
+  },
+  "WEB|Enwebs": {
+    "en": "Enwebs",
+    "freq": 4,
+    "tooltip": "WEB",
+    "zh": "网缚"
+  },
+  "WET|Wet": {
+    "en": "Wet",
+    "freq": 3,
+    "tooltip": "WET",
+    "zh": "濡湿"
+  },
+  "WHOLENESS_OF_BODY|Wholeness": {
+    "en": "Wholeness",
+    "freq": 1,
+    "tooltip": "WHOLENESS_OF_BODY",
+    "zh": "混元体"
+  },
+  "WOOD_WOAD_REGENERATION|regenerate": {
+    "en": "regenerate",
+    "freq": 1,
+    "tooltip": "WOOD_WOAD_REGENERATION",
+    "zh": "再生"
+  },
+  "WYR_ALIORAMUS_MATINGPHEROMONES|Frenzy": {
+    "en": "Frenzy",
+    "freq": 1,
+    "tooltip": "WYR_ALIORAMUS_MATINGPHEROMONES",
+    "zh": "狂怒"
+  },
+  "WYR_DIVINEBECKONING_BUFF_GORTASH|Tyrant's Edict": {
+    "en": "Tyrant's Edict",
+    "freq": 1,
+    "tooltip": "WYR_DIVINEBECKONING_BUFF_GORTASH",
+    "zh": "暴君的法令"
+  },
+  "WYR_DIVINEBECKONING_BUFF_GORTASH|blessing": {
+    "en": "blessing",
+    "freq": 1,
+    "tooltip": "WYR_DIVINEBECKONING_BUFF_GORTASH",
+    "zh": "祝福"
+  },
+  "WYR_DIVINEBECKONING_GORTASH|Tyrant's Curse": {
+    "en": "Tyrant's Curse",
+    "freq": 2,
+    "tooltip": "WYR_DIVINEBECKONING_GORTASH",
+    "zh": "暴君诅咒"
+  },
+  "WYR_DRIBBLES_DOG_AMBUSH|Ambush": {
+    "en": "Ambush",
+    "freq": 1,
+    "tooltip": "WYR_DRIBBLES_DOG_AMBUSH",
+    "zh": "伏击"
+  },
+  "WYR_DRIBBLES_HOWL_CRIT|Menace": {
+    "en": "Menace",
+    "freq": 1,
+    "tooltip": "WYR_DRIBBLES_HOWL_CRIT",
+    "zh": "威胁"
+  },
+  "WYR_SENTIENT_AMULET_PUTRID_AURA_STATUS|Fetid Fumes": {
+    "en": "Fetid Fumes",
+    "freq": 1,
+    "tooltip": "WYR_SENTIENT_AMULET_PUTRID_AURA_STATUS",
+    "zh": "恶臭烟气"
+  },
+  "WYR_WyrmRock_Stunned|Stunned": {
+    "en": "Stunned",
+    "freq": 1,
+    "tooltip": "WYR_WyrmRock_Stunned",
+    "zh": "震慑"
+  },
+  "Wall_WallOfFire|Wall of Fire": {
+    "en": "Wall of Fire",
+    "freq": 3,
+    "tooltip": "Wall_WallOfFire",
+    "zh": "火墙术"
+  },
+  "Wall_WallOfStone|Wall of Stone": {
+    "en": "Wall of Stone",
+    "freq": 2,
+    "tooltip": "Wall_WallOfStone",
+    "zh": "石墙术"
+  },
+  "WarlockSpellSlot|Warlock Spell Slot": {
+    "en": "Warlock Spell Slot",
+    "freq": 2,
+    "tooltip": "WarlockSpellSlot",
+    "zh": "邪术师法术位"
+  },
+  "WarlockSpellSlot|Warlock Spell Slots": {
+    "en": "Warlock Spell Slots",
+    "freq": 1,
+    "tooltip": "WarlockSpellSlot",
+    "zh": "邪术师法术位"
+  },
+  "WarlockSpellSlot|Warlock spell slot": {
+    "en": "Warlock spell slot",
+    "freq": 1,
+    "tooltip": "WarlockSpellSlot",
+    "zh": "召唤元素生物"
+  },
+  "WarlockSpellSlot|spell slots": {
+    "en": "spell slots",
+    "freq": 3,
+    "tooltip": "WarlockSpellSlot",
+    "zh": "法术位"
+  },
+  "Weapon Damage": {
+    "en": "Weapon Damage",
+    "freq": 1,
+    "tooltip": null,
+    "zh": "冲锋：推击"
+  },
+  "WeaponProficiency|Proficient": {
+    "en": "Proficient",
+    "freq": 2,
+    "tooltip": "WeaponProficiency",
+    "zh": "熟练项"
+  },
+  "WeaponProficiency|Weapon Proficiency": {
+    "en": "Weapon Proficiency",
+    "freq": 1,
+    "tooltip": "WeaponProficiency",
+    "zh": "武器熟练项"
+  },
+  "WeaponProficiency|proficient": {
+    "en": "proficient",
+    "freq": 1,
+    "tooltip": "WeaponProficiency",
+    "zh": "熟练项"
+  },
+  "WildMagic|Wild Magic": {
+    "en": "Wild Magic",
+    "freq": 6,
+    "tooltip": "WildMagic",
+    "zh": "狂野魔法"
+  },
+  "WildMagic|Wild Magic Surge": {
+    "en": "Wild Magic Surge",
+    "freq": 2,
+    "tooltip": "WildMagic",
+    "zh": "狂野魔法浪涌"
+  },
+  "Wisdom|Wisdom": {
+    "en": "Wisdom",
+    "freq": 19,
+    "tooltip": "Wisdom",
+    "zh": "感知"
+  },
+  "ZOMBIE_DECAY|Newborn Zombie": {
+    "en": "Newborn Zombie",
+    "freq": 1,
+    "tooltip": "ZOMBIE_DECAY",
+    "zh": "新生僵尸"
+  },
+  "Zone_Belch_Physical_Brewer|Roaring Belch": {
+    "en": "Roaring Belch",
+    "freq": 1,
+    "tooltip": "Zone_Belch_Physical_Brewer",
+    "zh": "轰鸣饱嗝"
+  },
+  "Zone_BurningHands|Burning Hands": {
+    "en": "Burning Hands",
+    "freq": 2,
+    "tooltip": "Zone_BurningHands",
+    "zh": "炼狱叱喝"
+  },
+  "Zone_ConeOfCold|Cone of Cold": {
+    "en": "Cone of Cold",
+    "freq": 4,
+    "tooltip": "Zone_ConeOfCold",
+    "zh": "寒冰锥"
+  },
+  "Zone_GustOfWind|Gust of Wind": {
+    "en": "Gust of Wind",
+    "freq": 2,
+    "tooltip": "Zone_GustOfWind",
+    "zh": "造风术"
+  },
+  "Zone_IceMephit_IceBreath|Exhale": {
+    "en": "Exhale",
+    "freq": 1,
+    "tooltip": "Zone_IceMephit_IceBreath",
+    "zh": "呼出"
+  },
+  "Zone_Inhale_Djinni|Drunken Inhale": {
+    "en": "Drunken Inhale",
+    "freq": 1,
+    "tooltip": "Zone_Inhale_Djinni",
+    "zh": "醉意龙卷"
+  },
+  "Zone_LOW_BloodSwipe_Orin|Sanguine Lash": {
+    "en": "Sanguine Lash",
+    "freq": 2,
+    "tooltip": "Zone_LOW_BloodSwipe_Orin",
+    "zh": "血腥猛击"
+  },
+  "Zone_LOW_Cazador_BatSwarm_Huge|Swarm of Vampire Bats": {
+    "en": "Swarm of Vampire Bats",
+    "freq": 1,
+    "tooltip": "Zone_LOW_Cazador_BatSwarm_Huge",
+    "zh": "吸血蝙蝠"
+  },
+  "Zone_LOW_Cazador_BatSwarm_Huge|Vampiric Swarm": {
+    "en": "Vampiric Swarm",
+    "freq": 2,
+    "tooltip": "Zone_LOW_Cazador_BatSwarm_Huge",
+    "zh": "吸血虫群"
+  },
+  "Zone_LOW_Cazador_BatSwarm_Large|Swarm of Vampire Bats": {
+    "en": "Swarm of Vampire Bats",
+    "freq": 1,
+    "tooltip": "Zone_LOW_Cazador_BatSwarm_Large",
+    "zh": "吸血蝙蝠"
+  },
+  "Zone_LOW_Cazador_BatSwarm_Large|Vampiric Swarm": {
+    "en": "Vampiric Swarm",
+    "freq": 1,
+    "tooltip": "Zone_LOW_Cazador_BatSwarm_Large",
+    "zh": "吸血虫群"
+  },
+  "Zone_LOW_Cazador_BatSwarm|Swarm of Vampire Bats": {
+    "en": "Swarm of Vampire Bats",
+    "freq": 1,
+    "tooltip": "Zone_LOW_Cazador_BatSwarm",
+    "zh": "吸血蝙蝠"
+  },
+  "Zone_LOW_Cazador_BatSwarm|Vampiric Swarm": {
+    "en": "Vampiric Swarm",
+    "freq": 1,
+    "tooltip": "Zone_LOW_Cazador_BatSwarm",
+    "zh": "吸血虫群"
+  },
+  "Zone_LOW_FatherCarrion_SpiritParade|Torrential Undeath": {
+    "en": "Torrential Undeath",
+    "freq": 2,
+    "tooltip": "Zone_LOW_FatherCarrion_SpiritParade",
+    "zh": "不死洪流"
+  },
+  "Zone_LOW_OskarsBeloved_ObjectThunderwave|Grave Repulsion": {
+    "en": "Grave Repulsion",
+    "freq": 1,
+    "tooltip": "Zone_LOW_OskarsBeloved_ObjectThunderwave",
+    "zh": "坟墓推斥"
+  },
+  "Zone_LightningBolt|Lightning Bolt": {
+    "en": "Lightning Bolt",
+    "freq": 4,
+    "tooltip": "Zone_LightningBolt",
+    "zh": "闪电束"
+  },
+  "Zone_MAG_Automaton_SunbeamShot_Recreate|Dazzling Ray": {
+    "en": "Dazzling Ray",
+    "freq": 1,
+    "tooltip": "Zone_MAG_Automaton_SunbeamShot_Recreate",
+    "zh": "炫目射线"
+  },
+  "Zone_MOO_BloodPotion_LightningBolt|Lightning Bolt": {
+    "en": "Lightning Bolt",
+    "freq": 2,
+    "tooltip": "Zone_MOO_BloodPotion_LightningBolt",
+    "zh": "长休"
+  },
+  "Zone_Mephit_MudBreath|Breathe Mud": {
+    "en": "Breathe Mud",
+    "freq": 1,
+    "tooltip": "Zone_Mephit_MudBreath",
+    "zh": "喷吐泥浆"
+  },
+  "Zone_RangedSwipe_Myrmidon_Fire|Cinderous Swipe": {
+    "en": "Cinderous Swipe",
+    "freq": 2,
+    "tooltip": "Zone_RangedSwipe_Myrmidon_Fire",
+    "zh": "灰烬猛击"
+  },
+  "Zone_StarryForm_Dragon_BreathWeapon|Dazzling Breath": {
+    "en": "Dazzling Breath",
+    "freq": 2,
+    "tooltip": "Zone_StarryForm_Dragon_BreathWeapon",
+    "zh": "绚烂吐息"
+  },
+  "Zone_Sunbeam_Recreate|Recast Sunbeam": {
+    "en": "Recast Sunbeam",
+    "freq": 1,
+    "tooltip": "Zone_Sunbeam_Recreate",
+    "zh": "再召阳炎射线"
+  },
+  "Zone_Thunderwave_Djinni|Thunderwave": {
+    "en": "Thunderwave",
+    "freq": 1,
+    "tooltip": "Zone_Thunderwave_Djinni",
+    "zh": "雷鸣波"
+  },
+  "Zone_TigersBloodlust|Tiger's Bloodlust": {
+    "en": "Tiger's Bloodlust",
+    "freq": 2,
+    "tooltip": "Zone_TigersBloodlust",
+    "zh": "猛虎嗜血"
+  },
+  "Zone_WintersBreath_Elemental_Water|Winter's Breath": {
+    "en": "Winter's Breath",
+    "freq": 1,
+    "tooltip": "Zone_WintersBreath_Elemental_Water",
+    "zh": "寒冬吹息"
+  },
+  "[1]": {
+    "en": "[1]",
+    "freq": 5,
+    "tooltip": null,
+    "zh": "[1]"
+  },
+  "[1][2]": {
+    "en": "[1][2]",
+    "freq": 3,
+    "tooltip": null,
+    "zh": "[1][2]"
+  },
+  "[2][3] [4]": {
+    "en": "[2][3] [4]",
+    "freq": 2,
+    "tooltip": null,
+    "zh": "[2][3] [4]"
+  },
+  "[2]|[3]": {
+    "en": "[3]",
+    "freq": 1,
+    "tooltip": "[2]",
+    "zh": "[3]"
+  },
+  "browse, download, and use": {
+    "en": "browse, download, and use",
+    "freq": 1,
+    "tooltip": null,
+    "zh": "浏览、下载以及使用"
+  },
+  "hidden": {
+    "en": "hidden",
+    "freq": 1,
+    "tooltip": null,
+    "zh": "隐藏"
+  },
+  "hit points": {
+    "en": "hit points",
+    "freq": 1,
+    "tooltip": null,
+    "zh": "生命值"
+  },
+  "like and subscribe to": {
+    "en": "like and subscribe to",
+    "freq": 1,
+    "tooltip": null,
+    "zh": "点赞以及订阅"
+  }
+}
